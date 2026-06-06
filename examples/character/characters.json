@@ -11,7 +11,7 @@
                     "extendLeft": 150,
                     "extendRight": 150,
                     "pivotX": 0.5,
-                    "pivotY": 0.325,
+                    "pivotY": 0.675,
                     "layers":[
                         {
                             "sprite": "mvz2:characters/utsuho[0]",
@@ -27,7 +27,7 @@
                     "extendLeft": 150,
                     "extendRight": 150,
                     "pivotX": 0.5,
-                    "pivotY": 0.325,
+                    "pivotY": 0.675,
                     "layers":[
                         {
                             "sprite": "mvz2:characters/utsuho[0]",
@@ -48,7 +48,7 @@
                     "extendLeft": 150,
                     "extendRight": 150,
                     "pivotX": 0.5,
-                    "pivotY": 0.325,
+                    "pivotY": 0.675,
                     "layers":[
                         {
                             "sprite": "mvz2:characters/utsuho[0]",
@@ -69,7 +69,7 @@
                     "extendLeft": 150,
                     "extendRight": 150,
                     "pivotX": 0.5,
-                    "pivotY": 0.325,
+                    "pivotY": 0.675,
                     "layers":[
                         {
                             "sprite": "mvz2:characters/utsuho[0]",
@@ -90,7 +90,7 @@
                     "extendLeft": 150,
                     "extendRight": 150,
                     "pivotX": 0.5,
-                    "pivotY": 0.325,
+                    "pivotY": 0.675,
                     "layers":[
                         {
                             "sprite": "mvz2:characters/utsuho[0]",

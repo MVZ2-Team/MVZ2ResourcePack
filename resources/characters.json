@@ -44,7 +44,7 @@
           "width": 418,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 0.0,
           "extendRight": 0.0,
           "layers": [
@@ -58,7 +58,7 @@
           "width": 418,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 0.0,
           "extendRight": 0.0,
           "layers": [
@@ -75,7 +75,7 @@
           "width": 418,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 0.0,
           "extendRight": 0.0,
           "layers": [
@@ -98,7 +98,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -112,7 +112,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -131,7 +131,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -155,7 +155,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -179,7 +179,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -208,7 +208,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -227,7 +227,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -251,7 +251,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -280,7 +280,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -400,7 +400,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -424,7 +424,7 @@
           "width": 641,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -449,7 +449,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -463,7 +463,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -480,7 +480,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -497,7 +497,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -514,7 +514,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -531,7 +531,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -548,7 +548,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -567,7 +567,7 @@
           "width": 738,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -595,7 +595,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -609,7 +609,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -626,7 +626,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -643,7 +643,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -660,7 +660,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -677,7 +677,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -694,7 +694,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -711,7 +711,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -728,7 +728,7 @@
           "width": 560,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -751,7 +751,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -765,7 +765,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -782,7 +782,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -799,7 +799,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -816,7 +816,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -833,7 +833,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -850,7 +850,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -867,7 +867,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -884,7 +884,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -901,7 +901,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -921,7 +921,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -941,7 +941,7 @@
           "width": 160,
           "height": 448,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -80.0,
           "extendRight": -80.0,
           "layers": [
@@ -961,7 +961,7 @@
           "width": 387,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -20.0,
           "extendRight": -20.0,
           "layers": [
@@ -975,7 +975,7 @@
           "width": 387,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": -20.0,
           "extendRight": -20.0,
           "layers": [
@@ -989,7 +989,7 @@
           "width": 432,
           "height": 716,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 0.0,
           "extendRight": 0.0,
           "layers": [
@@ -1003,7 +1003,7 @@
           "width": 432,
           "height": 716,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 0.0,
           "extendRight": 0.0,
           "layers": [
@@ -1020,7 +1020,7 @@
           "width": 432,
           "height": 716,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 0.0,
           "extendRight": 0.0,
           "layers": [
@@ -1043,7 +1043,7 @@
           "width": 587,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -1057,7 +1057,7 @@
           "width": 587,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -1075,7 +1075,7 @@
           "width": 587,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -1094,7 +1094,7 @@
           "width": 587,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -1113,7 +1113,7 @@
           "width": 587,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -1132,7 +1132,7 @@
           "width": 587,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 75.0,
           "extendRight": 0.0,
           "layers": [
@@ -1157,7 +1157,7 @@
           "width": 636,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -1171,7 +1171,7 @@
           "width": 636,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -1190,7 +1190,7 @@
           "width": 636,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -1204,7 +1204,7 @@
           "width": 636,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -1223,7 +1223,7 @@
           "width": 636,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 0.0,
           "layers": [
@@ -1248,7 +1248,7 @@
           "width": 818,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1262,7 +1262,7 @@
           "width": 818,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1279,7 +1279,7 @@
           "width": 818,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1296,7 +1296,7 @@
           "width": 818,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1313,7 +1313,7 @@
           "width": 818,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1336,7 +1336,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1350,7 +1350,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1367,7 +1367,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1384,7 +1384,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1401,7 +1401,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1418,7 +1418,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1435,7 +1435,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1452,7 +1452,7 @@
           "width": 817,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1475,7 +1475,7 @@
           "width": 600,
           "height": 600,
           "pivotX": 0.5,
-          "pivotY": 0.0,
+          "pivotY": 1.0,
           "extendLeft": 0.0,
           "extendRight": 0.0,
           "layers": [
@@ -1495,7 +1495,7 @@
           "width": 632,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 50.0,
           "layers": [
@@ -1509,7 +1509,7 @@
           "width": 632,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 50.0,
           "layers": [
@@ -1528,7 +1528,7 @@
           "width": 632,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 50.0,
           "layers": [
@@ -1547,7 +1547,7 @@
           "width": 632,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 50.0,
           "layers": [
@@ -1566,7 +1566,7 @@
           "width": 632,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 50.0,
           "layers": [
@@ -1585,7 +1585,7 @@
           "width": 632,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 50.0,
           "layers": [
@@ -1604,7 +1604,7 @@
           "width": 632,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 50.0,
           "layers": [
@@ -1629,7 +1629,7 @@
           "width": 761,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1643,7 +1643,7 @@
           "width": 761,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 100.0,
           "layers": [
@@ -1668,7 +1668,7 @@
           "width": 598,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 80.0,
           "extendRight": 80.0,
           "layers": [
@@ -1682,7 +1682,7 @@
           "width": 598,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 80.0,
           "extendRight": 80.0,
           "layers": [
@@ -1701,7 +1701,7 @@
           "width": 598,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 80.0,
           "extendRight": 80.0,
           "layers": [
@@ -1726,7 +1726,7 @@
           "width": 573,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 80.0,
           "extendRight": 80.0,
           "layers": [
@@ -1740,7 +1740,7 @@
           "width": 573,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 80.0,
           "extendRight": 80.0,
           "layers": [
@@ -1759,7 +1759,7 @@
           "width": 573,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 80.0,
           "extendRight": 80.0,
           "layers": [
@@ -1778,7 +1778,7 @@
           "width": 573,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 80.0,
           "extendRight": 80.0,
           "layers": [
@@ -1803,7 +1803,7 @@
           "width": 522,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1817,7 +1817,7 @@
           "width": 522,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1836,7 +1836,7 @@
           "width": 522,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1861,7 +1861,7 @@
           "width": 530,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1875,7 +1875,7 @@
           "width": 530,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1894,7 +1894,7 @@
           "width": 530,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1913,7 +1913,7 @@
           "width": 530,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1938,7 +1938,7 @@
           "width": 596,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1952,7 +1952,7 @@
           "width": 596,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1971,7 +1971,7 @@
           "width": 596,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.65,
+          "pivotY": 0.35,
           "extendLeft": 50.0,
           "extendRight": 0.0,
           "layers": [
@@ -1996,7 +1996,7 @@
           "width": 653,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 25.0,
           "extendRight": 75.0,
           "layers": [
@@ -2010,7 +2010,7 @@
           "width": 653,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 25.0,
           "extendRight": 75.0,
           "layers": [
@@ -2029,7 +2029,7 @@
           "width": 653,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 25.0,
           "extendRight": 75.0,
           "layers": [
@@ -2048,7 +2048,7 @@
           "width": 653,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 25.0,
           "extendRight": 75.0,
           "layers": [
@@ -2067,7 +2067,7 @@
           "width": 653,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 25.0,
           "extendRight": 75.0,
           "layers": [
@@ -2086,7 +2086,7 @@
           "width": 653,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 25.0,
           "extendRight": 75.0,
           "layers": [
@@ -2105,7 +2105,7 @@
           "width": 653,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 25.0,
           "extendRight": 75.0,
           "layers": [
@@ -2130,7 +2130,7 @@
           "width": 1094,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 200.0,
           "layers": [
@@ -2144,7 +2144,7 @@
           "width": 1094,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 200.0,
           "layers": [
@@ -2163,7 +2163,7 @@
           "width": 1094,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 200.0,
           "layers": [
@@ -2182,7 +2182,7 @@
           "width": 1094,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 200.0,
           "layers": [
@@ -2201,7 +2201,7 @@
           "width": 1094,
           "height": 1280,
           "pivotX": 0.5,
-          "pivotY": 0.6,
+          "pivotY": 0.4,
           "extendLeft": 100.0,
           "extendRight": 200.0,
           "layers": [
