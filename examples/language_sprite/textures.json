@@ -1,0 +1,33 @@
+{
+  "textures": [
+    {
+      "texture": "music_room@en-US.png",
+      "key": "mvz2:mainmenu/music_room",
+      "slices": [
+        {
+          "tags": [
+            "en-US"
+          ],
+          "width": 311,
+          "height": 194
+        },
+        {
+          "tags": [
+            "en-US"
+          ],
+          "y": 195,
+          "width": 311,
+          "height": 194
+        },
+        {
+          "tags": [
+            "en-US"
+          ],
+          "y": 390,
+          "width": 311,
+          "height": 194
+        }
+      ]
+    }
+  ]
+}

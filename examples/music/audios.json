@@ -1,0 +1,21 @@
+{
+    "samples":[
+        { 
+            "id": "mvz2:test_music",
+            "path": "test_music.wav",
+            "streaming": true
+        },
+        { 
+            "id": "mvz2:test_music_sub",
+            "path": "test_music_sub.wav",
+            "streaming": true
+        }
+    ],
+    "musictracks":[
+        { 
+            "id": "mvz2:palace_level",
+            "mainTrack": "mvz2:test_music",
+            "subTrack": "mvz2:test_music_sub"
+        }
+    ]
+}

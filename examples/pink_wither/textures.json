@@ -1,0 +1,9 @@
+{
+  "textures": [
+    {
+      "texture": "wither.png",
+      "key": "mvz2:entity/boss/wither",
+      "filter": 0
+    }
+  ]
+}

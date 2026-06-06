@@ -1,0 +1,10 @@
+{
+    "name": "种子包蓝图",
+    "author": "Cuerzor",
+    "description": "将蓝图的贴图替换为种子包。",
+    "dataVersion": 1,
+    "version": {
+        "major": 0,
+        "minor": 0
+    }
+}

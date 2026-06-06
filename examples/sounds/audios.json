@@ -1,0 +1,32 @@
+{
+    "samples":[
+        { 
+            "id": "mvz2:click_1",
+            "path": "click_1.wav"
+        },
+        { 
+            "id": "mvz2:click_2",
+            "path": "click_2.wav"
+        },
+        { 
+            "id": "mvz2:click_3",
+            "path": "click_3.wav"
+        }
+    ],
+    "sounds":[
+        { 
+            "id": "mvz2:click",
+            "samples": [
+                {
+                    "id": "mvz2:click_1"
+                },
+                {
+                    "id": "mvz2:click_2"
+                },
+                {
+                    "id": "mvz2:click_3"
+                }
+            ]
+        }
+    ]
+}

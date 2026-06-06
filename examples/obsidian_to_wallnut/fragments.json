@@ -1,0 +1,32 @@
+{
+  "fragments": [
+    {
+      "id": "mvz2:obsidian",
+      "blend": true,
+      "colorKeys": [
+        {
+          "code": "#c89f31",
+          "time": 0
+        },
+        {
+          "code": "#856a17",
+          "time": 1
+        }
+      ]
+    },
+    {
+      "id": "mvz2:obsidian_armor",
+      "blend": true,
+      "colorKeys": [
+        {
+          "code": "#c6c6c6",
+          "time": 0
+        },
+        {
+          "code": "#7f7f7f",
+          "time": 1
+        }
+      ]
+    }
+  ]
+}

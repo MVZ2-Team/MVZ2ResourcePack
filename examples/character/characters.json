@@ -1,0 +1,110 @@
+{
+    "characters":[
+        {
+            "id": "mvz2:utsuho",
+            "faceRight": false,
+            "variants": [
+                {
+                    "id": "mvz2:normal",
+                    "width": 885,
+                    "height": 870,
+                    "extendLeft": 150,
+                    "extendRight": 150,
+                    "pivotX": 0.5,
+                    "pivotY": 0.325,
+                    "layers":[
+                        {
+                            "sprite": "mvz2:characters/utsuho[0]",
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                },
+                {
+                    "id": "mvz2:happy",
+                    "width": 885,
+                    "height": 870,
+                    "extendLeft": 150,
+                    "extendRight": 150,
+                    "pivotX": 0.5,
+                    "pivotY": 0.325,
+                    "layers":[
+                        {
+                            "sprite": "mvz2:characters/utsuho[0]",
+                            "x": 0,
+                            "y": 0
+                        },
+                        {
+                            "sprite": "mvz2:characters/utsuho[1]",
+                            "x": 368,
+                            "y": 432
+                        }
+                    ]
+                },
+                {
+                    "id": "mvz2:surprised",
+                    "width": 885,
+                    "height": 870,
+                    "extendLeft": 150,
+                    "extendRight": 150,
+                    "pivotX": 0.5,
+                    "pivotY": 0.325,
+                    "layers":[
+                        {
+                            "sprite": "mvz2:characters/utsuho[0]",
+                            "x": 0,
+                            "y": 0
+                        },
+                        {
+                            "sprite": "mvz2:characters/utsuho[4]",
+                            "x": 240,
+                            "y": 320
+                        }
+                    ]
+                },
+                {
+                    "id": "mvz2:question",
+                    "width": 885,
+                    "height": 870,
+                    "extendLeft": 150,
+                    "extendRight": 150,
+                    "pivotX": 0.5,
+                    "pivotY": 0.325,
+                    "layers":[
+                        {
+                            "sprite": "mvz2:characters/utsuho[0]",
+                            "x": 0,
+                            "y": 0
+                        },
+                        {
+                            "sprite": "mvz2:characters/utsuho[2]",
+                            "x": 368,
+                            "y": 176
+                        }
+                    ]
+                },
+                {
+                    "id": "mvz2:sad",
+                    "width": 885,
+                    "height": 870,
+                    "extendLeft": 150,
+                    "extendRight": 150,
+                    "pivotX": 0.5,
+                    "pivotY": 0.325,
+                    "layers":[
+                        {
+                            "sprite": "mvz2:characters/utsuho[0]",
+                            "x": 0,
+                            "y": 0
+                        },
+                        {
+                            "sprite": "mvz2:characters/utsuho[3]",
+                            "x": 368,
+                            "y": 432
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

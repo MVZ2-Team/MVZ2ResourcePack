@@ -1,0 +1,10 @@
+{
+    "name": "黑曜石替换为坚果",
+    "author": "Cuerzor",
+    "description": "将黑曜石替换为坚果。",
+    "dataVersion": 1,
+    "version": {
+        "major": 0,
+        "minor": 0
+    }
+}

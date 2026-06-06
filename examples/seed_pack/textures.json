@@ -1,0 +1,56 @@
+{
+  "textures": [
+    {
+      "texture": "card_mobile.png",
+      "key": "mvz2:ui/level/card_mobile",
+      "slices": [
+        {
+          "width": 120,
+          "height": 55
+        },
+        {
+          "x": 121,
+          "width": 120,
+          "height": 55
+        },
+        {
+          "x": 242,
+          "width": 120,
+          "height": 55
+        },
+        {
+          "x": 363,
+          "width": 120,
+          "height": 55
+        }
+      ]
+    },
+    {
+      "texture": "card.png",
+      "key": "mvz2:ui/level/card",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "card_upgrade.png",
+      "key": "mvz2:ui/level/card_upgrade",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "card_command_block.png",
+      "key": "mvz2:ui/level/card_command_block",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    }
+  ]
+}

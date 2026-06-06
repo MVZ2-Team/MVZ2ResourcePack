@@ -1,0 +1,95 @@
+{
+  "textures": [
+    {
+      "texture": "steve_giant.png",
+      "key": "mvz2:entity/boss/the_giant",
+      "slices": [
+        {
+          "width": 192,
+          "height": 132,
+          "pivotX": 1,
+          "pivotY": 0
+        },
+        {
+          "x": 193,
+          "width": 114,
+          "height": 263,
+          "pivotY": 0
+        },
+        {
+          "x": 308,
+          "width": 84,
+          "height": 144,
+          "pivotY": 0.8421053
+        },
+        {
+          "x": 393,
+          "width": 84,
+          "height": 127,
+          "pivotX": 0.2142857,
+          "pivotY": 1
+        },
+        {
+          "y": 133,
+          "width": 68,
+          "height": 14,
+          "pivotX": 0.5,
+          "pivotY": 1
+        },
+        {
+          "x": 393,
+          "y": 132,
+          "width": 84,
+          "height": 131,
+          "pivotX": 0
+        }
+      ]
+    },
+    {
+      "texture": "steve_giant_cell.png",
+      "key": "mvz2:entity/effect/zombie_block",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "steve_pacman.png",
+      "key": "mvz2:entity/boss/the_giant_pacman",
+      "slices": [
+        {
+          "width": 240,
+          "height": 240
+        },
+        {
+          "x": 240,
+          "width": 240,
+          "height": 240
+        },
+        {
+          "x": 480,
+          "width": 240,
+          "height": 240
+        },
+        {
+          "y": 240,
+          "width": 240,
+          "height": 240
+        },
+        {
+          "x": 240,
+          "y": 240,
+          "width": 240,
+          "height": 240
+        },
+        {
+          "x": 480,
+          "y": 240,
+          "width": 240,
+          "height": 240
+        }
+      ]
+    }
+  ]
+}
