@@ -6067,6 +6067,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/starshards/mountain.png",
+      "key": "mvz2:starshards/mountain",
+      "slices": [
+        {
+          "tags": [],
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/starshards/palace.png",
       "key": "mvz2:starshards/palace",
       "slices": [
@@ -6129,6 +6139,16 @@
     {
       "texture": "mvz2/sprites/starshard_rings/mausoleum.png",
       "key": "mvz2:starshard_rings/mausoleum",
+      "slices": [
+        {
+          "tags": [],
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/starshard_rings/mountain.png",
+      "key": "mvz2:starshard_rings/mountain",
       "slices": [
         {
           "tags": [],
@@ -22720,6 +22740,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/starshards/mountain.png",
+      "key": "mvz2:starshards/mountain",
+      "slices": [
+        {
+          "tags": [],
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/starshards/palace.png",
       "key": "mvz2:starshards/palace",
       "slices": [
@@ -22782,6 +22812,16 @@
     {
       "texture": "mvz2/sprites/starshard_rings/mausoleum.png",
       "key": "mvz2:starshard_rings/mausoleum",
+      "slices": [
+        {
+          "tags": [],
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/starshard_rings/mountain.png",
+      "key": "mvz2:starshard_rings/mountain",
       "slices": [
         {
           "tags": [],
