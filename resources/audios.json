@@ -2,2653 +2,2123 @@
   "samples": [
     {
       "id": "mvz2:castle_final",
-      "path": "mvz2/music/castle_final.wav",
-      "streaming": false
+      "path": "mvz2/music/castle_final.wav"
     },
     {
       "id": "mvz2:castle_level",
-      "path": "mvz2/music/castle_level.wav",
-      "streaming": false
+      "path": "mvz2/music/castle_level.wav"
     },
     {
       "id": "mvz2:castle_map",
-      "path": "mvz2/music/castle_map.wav",
-      "streaming": false
+      "path": "mvz2/music/castle_map.wav"
     },
     {
       "id": "mvz2:choosing",
-      "path": "mvz2/music/choosing.ogg",
-      "streaming": false
+      "path": "mvz2/music/choosing.ogg"
     },
     {
       "id": "mvz2:day",
-      "path": "mvz2/music/day.wav",
-      "streaming": false
+      "path": "mvz2/music/day.wav"
     },
     {
       "id": "mvz2:day_horde",
-      "path": "mvz2/music/day_horde.wav",
-      "streaming": false
+      "path": "mvz2/music/day_horde.wav"
     },
     {
       "id": "mvz2:distress",
-      "path": "mvz2/music/distress.wav",
-      "streaming": false
+      "path": "mvz2/music/distress.wav"
     },
     {
       "id": "mvz2:dream_level",
-      "path": "mvz2/music/dream_level.mp3",
-      "streaming": false
+      "path": "mvz2/music/dream_level.mp3"
     },
     {
       "id": "mvz2:dream_map",
-      "path": "mvz2/music/dream_map.ogg",
-      "streaming": false
+      "path": "mvz2/music/dream_map.ogg"
     },
     {
       "id": "mvz2:gensokyo_map",
-      "path": "mvz2/music/gensokyo_map.wav",
-      "streaming": false
+      "path": "mvz2/music/gensokyo_map.wav"
     },
     {
       "id": "mvz2:halloween",
-      "path": "mvz2/music/halloween.ogg",
-      "streaming": false
+      "path": "mvz2/music/halloween.ogg"
     },
     {
       "id": "mvz2:halloween_boss",
-      "path": "mvz2/music/halloween_boss.ogg",
-      "streaming": false
+      "path": "mvz2/music/halloween_boss.ogg"
     },
     {
       "id": "mvz2:halloween_map",
-      "path": "mvz2/music/halloween_map.ogg",
-      "streaming": false
+      "path": "mvz2/music/halloween_map.ogg"
     },
     {
       "id": "mvz2:mausoleum_boss",
-      "path": "mvz2/music/mausoleum_boss.wav",
-      "streaming": false
+      "path": "mvz2/music/mausoleum_boss.wav"
     },
     {
       "id": "mvz2:mausoleum_boss_2",
-      "path": "mvz2/music/mausoleum_boss_2.wav",
-      "streaming": false
+      "path": "mvz2/music/mausoleum_boss_2.wav"
     },
     {
       "id": "mvz2:mausoleum_boss_sub",
-      "path": "mvz2/music/mausoleum_boss_sub.wav",
-      "streaming": false
+      "path": "mvz2/music/mausoleum_boss_sub.wav"
     },
     {
       "id": "mvz2:mausoleum_final",
-      "path": "mvz2/music/mausoleum_final.wav",
-      "streaming": false
+      "path": "mvz2/music/mausoleum_final.wav"
     },
     {
       "id": "mvz2:mausoleum_level",
-      "path": "mvz2/music/mausoleum_level.wav",
-      "streaming": false
+      "path": "mvz2/music/mausoleum_level.wav"
     },
     {
       "id": "mvz2:mausoleum_level_sub",
-      "path": "mvz2/music/mausoleum_level_sub.wav",
-      "streaming": false
+      "path": "mvz2/music/mausoleum_level_sub.wav"
     },
     {
       "id": "mvz2:mausoleum_map",
-      "path": "mvz2/music/mausoleum_map.wav",
-      "streaming": false
+      "path": "mvz2/music/mausoleum_map.wav"
     },
     {
       "id": "mvz2:minigame",
-      "path": "mvz2/music/minigame.mp3",
-      "streaming": false
+      "path": "mvz2/music/minigame.mp3"
     },
     {
       "id": "mvz2:mountain_level",
-      "path": "mvz2/music/mountain_level.wav",
-      "streaming": false
+      "path": "mvz2/music/mountain_level.wav"
     },
     {
       "id": "mvz2:mountain_level_sub",
-      "path": "mvz2/music/mountain_level_sub.wav",
-      "streaming": false
+      "path": "mvz2/music/mountain_level_sub.wav"
     },
     {
       "id": "mvz2:nightmare_boss",
-      "path": "mvz2/music/nightmare_boss.wav",
-      "streaming": false
+      "path": "mvz2/music/nightmare_boss.wav"
     },
     {
       "id": "mvz2:nightmare_boss2",
-      "path": "mvz2/music/nightmare_boss2.wav",
-      "streaming": false
+      "path": "mvz2/music/nightmare_boss2.wav"
     },
     {
       "id": "mvz2:nightmare_final",
-      "path": "mvz2/music/nightmare_final.wav",
-      "streaming": false
+      "path": "mvz2/music/nightmare_final.wav"
     },
     {
       "id": "mvz2:nightmare_level",
-      "path": "mvz2/music/nightmare_level.ogg",
-      "streaming": false
+      "path": "mvz2/music/nightmare_level.ogg"
     },
     {
       "id": "mvz2:nightmare_map",
-      "path": "mvz2/music/nightmare_map.mp3",
-      "streaming": false
+      "path": "mvz2/music/nightmare_map.mp3"
     },
     {
       "id": "mvz2:palace_boss",
-      "path": "mvz2/music/palace_boss.mp3",
-      "streaming": false
+      "path": "mvz2/music/palace_boss.mp3"
     },
     {
       "id": "mvz2:palace_final",
-      "path": "mvz2/music/palace_final.wav",
-      "streaming": false
+      "path": "mvz2/music/palace_final.wav"
     },
     {
       "id": "mvz2:palace_level",
-      "path": "mvz2/music/palace_level.wav",
-      "streaming": false
+      "path": "mvz2/music/palace_level.wav"
     },
     {
       "id": "mvz2:palace_level_sub",
-      "path": "mvz2/music/palace_level_sub.wav",
-      "streaming": false
+      "path": "mvz2/music/palace_level_sub.wav"
     },
     {
       "id": "mvz2:palace_map",
-      "path": "mvz2/music/palace_map.ogg",
-      "streaming": false
+      "path": "mvz2/music/palace_map.ogg"
     },
     {
       "id": "mvz2:phone_ring",
-      "path": "mvz2/music/phone_ring.wav",
-      "streaming": false
+      "path": "mvz2/music/phone_ring.wav"
     },
     {
       "id": "mvz2:puzzle",
-      "path": "mvz2/music/puzzle.wav",
-      "streaming": false
+      "path": "mvz2/music/puzzle.wav"
     },
     {
       "id": "mvz2:sad_shinmyoumaru",
-      "path": "mvz2/music/sad_shinmyoumaru.wav",
-      "streaming": false
+      "path": "mvz2/music/sad_shinmyoumaru.wav"
     },
     {
       "id": "mvz2:seija",
-      "path": "mvz2/music/seija.mp3",
-      "streaming": false
+      "path": "mvz2/music/seija.mp3"
     },
     {
       "id": "mvz2:ship_boss",
-      "path": "mvz2/music/ship_boss.ogg",
-      "streaming": false
+      "path": "mvz2/music/ship_boss.ogg"
     },
     {
       "id": "mvz2:ship_final",
-      "path": "mvz2/music/ship_final.wav",
-      "streaming": false
+      "path": "mvz2/music/ship_final.wav"
     },
     {
       "id": "mvz2:ship_level",
-      "path": "mvz2/music/ship_level.wav",
-      "streaming": false
+      "path": "mvz2/music/ship_level.wav"
     },
     {
       "id": "mvz2:ship_level_sub",
-      "path": "mvz2/music/ship_level_sub.wav",
-      "streaming": false
+      "path": "mvz2/music/ship_level_sub.wav"
     },
     {
       "id": "mvz2:ship_map",
-      "path": "mvz2/music/ship_map.ogg",
-      "streaming": false
+      "path": "mvz2/music/ship_map.ogg"
     },
     {
       "id": "mvz2:suspension",
-      "path": "mvz2/music/suspension.wav",
-      "streaming": false
+      "path": "mvz2/music/suspension.wav"
     },
     {
       "id": "mvz2:ultimate_battle",
-      "path": "mvz2/music/ultimate_battle.wav",
-      "streaming": false
+      "path": "mvz2/music/ultimate_battle.wav"
     },
     {
       "id": "mvz2:wither_boss",
-      "path": "mvz2/music/wither_boss.mp3",
-      "streaming": false
+      "path": "mvz2/music/wither_boss.mp3"
     },
     {
       "id": "mvz2:init/mainmenu",
-      "path": "mvz2/music/init/mainmenu.ogg",
-      "streaming": false
+      "path": "mvz2/music/init/mainmenu.ogg"
     },
     {
       "id": "mvz2:achievement",
-      "path": "mvz2/sounds/achievement.wav",
-      "streaming": false
+      "path": "mvz2/sounds/achievement.wav"
     },
     {
       "id": "mvz2:agnoy",
-      "path": "mvz2/sounds/agnoy.wav",
-      "streaming": false
+      "path": "mvz2/sounds/agnoy.wav"
     },
     {
       "id": "mvz2:annihilation_field",
-      "path": "mvz2/sounds/annihilation_field.wav",
-      "streaming": false
+      "path": "mvz2/sounds/annihilation_field.wav"
     },
     {
       "id": "mvz2:anvil",
-      "path": "mvz2/sounds/anvil.wav",
-      "streaming": false
+      "path": "mvz2/sounds/anvil.wav"
     },
     {
       "id": "mvz2:arcane_intellect",
-      "path": "mvz2/sounds/arcane_intellect.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/arcane_intellect.ogg"
     },
     {
       "id": "mvz2:armor_up",
-      "path": "mvz2/sounds/armor_up.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/armor_up.ogg"
     },
     {
       "id": "mvz2:awooga",
-      "path": "mvz2/sounds/awooga.wav",
-      "streaming": false
+      "path": "mvz2/sounds/awooga.wav"
     },
     {
       "id": "mvz2:balloon_inflate",
-      "path": "mvz2/sounds/balloon_inflate.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/balloon_inflate.ogg"
     },
     {
       "id": "mvz2:balloon_pop",
-      "path": "mvz2/sounds/balloon_pop.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/balloon_pop.ogg"
     },
     {
       "id": "mvz2:bash",
-      "path": "mvz2/sounds/bash.wav",
-      "streaming": false
+      "path": "mvz2/sounds/bash.wav"
     },
     {
       "id": "mvz2:bigchomp",
-      "path": "mvz2/sounds/bigchomp.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/bigchomp.ogg"
     },
     {
       "id": "mvz2:biohazard",
-      "path": "mvz2/sounds/biohazard.wav",
-      "streaming": false
+      "path": "mvz2/sounds/biohazard.wav"
     },
     {
       "id": "mvz2:bloody",
-      "path": "mvz2/sounds/bloody.wav",
-      "streaming": false
+      "path": "mvz2/sounds/bloody.wav"
     },
     {
       "id": "mvz2:blow",
-      "path": "mvz2/sounds/blow.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/blow.ogg"
     },
     {
       "id": "mvz2:boing",
-      "path": "mvz2/sounds/boing.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/boing.ogg"
     },
     {
       "id": "mvz2:bolt_charge",
-      "path": "mvz2/sounds/bolt_charge.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/bolt_charge.ogg"
     },
     {
       "id": "mvz2:bomb_falling",
-      "path": "mvz2/sounds/bomb_falling.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/bomb_falling.ogg"
     },
     {
       "id": "mvz2:bonk",
-      "path": "mvz2/sounds/bonk.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/bonk.ogg"
     },
     {
       "id": "mvz2:boon",
-      "path": "mvz2/sounds/boon.wav",
-      "streaming": false
+      "path": "mvz2/sounds/boon.wav"
     },
     {
       "id": "mvz2:bow",
-      "path": "mvz2/sounds/bow.wav",
-      "streaming": false
+      "path": "mvz2/sounds/bow.wav"
     },
     {
       "id": "mvz2:butter",
-      "path": "mvz2/sounds/butter.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/butter.ogg"
     },
     {
       "id": "mvz2:buzzer",
-      "path": "mvz2/sounds/buzzer.wav",
-      "streaming": false
+      "path": "mvz2/sounds/buzzer.wav"
     },
     {
       "id": "mvz2:cash_register",
-      "path": "mvz2/sounds/cash_register.wav",
-      "streaming": false
+      "path": "mvz2/sounds/cash_register.wav"
     },
     {
       "id": "mvz2:cave",
-      "path": "mvz2/sounds/cave.wav",
-      "streaming": false
+      "path": "mvz2/sounds/cave.wav"
     },
     {
       "id": "mvz2:chains_break",
-      "path": "mvz2/sounds/chains_break.wav",
-      "streaming": false
+      "path": "mvz2/sounds/chains_break.wav"
     },
     {
       "id": "mvz2:chapter_transition",
-      "path": "mvz2/sounds/chapter_transition.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/chapter_transition.ogg"
     },
     {
       "id": "mvz2:chapter_wheel_spin",
-      "path": "mvz2/sounds/chapter_wheel_spin.wav",
-      "streaming": false
+      "path": "mvz2/sounds/chapter_wheel_spin.wav"
     },
     {
       "id": "mvz2:charged_bolt1",
-      "path": "mvz2/sounds/charged_bolt1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/charged_bolt1.wav"
     },
     {
       "id": "mvz2:charged_bolt2",
-      "path": "mvz2/sounds/charged_bolt2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/charged_bolt2.wav"
     },
     {
       "id": "mvz2:charged_bolt3",
-      "path": "mvz2/sounds/charged_bolt3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/charged_bolt3.wav"
     },
     {
       "id": "mvz2:charmed",
-      "path": "mvz2/sounds/charmed.wav",
-      "streaming": false
+      "path": "mvz2/sounds/charmed.wav"
     },
     {
       "id": "mvz2:chest_close",
-      "path": "mvz2/sounds/chest_close.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/chest_close.ogg"
     },
     {
       "id": "mvz2:chest_open",
-      "path": "mvz2/sounds/chest_open.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/chest_open.ogg"
     },
     {
       "id": "mvz2:chime",
-      "path": "mvz2/sounds/chime.wav",
-      "streaming": false
+      "path": "mvz2/sounds/chime.wav"
     },
     {
       "id": "mvz2:coin",
-      "path": "mvz2/sounds/coin.wav",
-      "streaming": false
+      "path": "mvz2/sounds/coin.wav"
     },
     {
       "id": "mvz2:confuse",
-      "path": "mvz2/sounds/confuse.wav",
-      "streaming": false
+      "path": "mvz2/sounds/confuse.wav"
     },
     {
       "id": "mvz2:danmaku",
-      "path": "mvz2/sounds/danmaku.wav",
-      "streaming": false
+      "path": "mvz2/sounds/danmaku.wav"
     },
     {
       "id": "mvz2:dark_skies_cast",
-      "path": "mvz2/sounds/dark_skies_cast.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dark_skies_cast.ogg"
     },
     {
       "id": "mvz2:dark_skies_impact",
-      "path": "mvz2/sounds/dark_skies_impact.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dark_skies_impact.ogg"
     },
     {
       "id": "mvz2:data_stream",
-      "path": "mvz2/sounds/data_stream.wav",
-      "streaming": false
+      "path": "mvz2/sounds/data_stream.wav"
     },
     {
       "id": "mvz2:decrepify",
-      "path": "mvz2/sounds/decrepify.wav",
-      "streaming": false
+      "path": "mvz2/sounds/decrepify.wav"
     },
     {
       "id": "mvz2:desire_pot_evocation",
-      "path": "mvz2/sounds/desire_pot_evocation.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/desire_pot_evocation.ogg"
     },
     {
       "id": "mvz2:diamond",
-      "path": "mvz2/sounds/diamond.wav",
-      "streaming": false
+      "path": "mvz2/sounds/diamond.wav"
     },
     {
       "id": "mvz2:dirt_rise",
-      "path": "mvz2/sounds/dirt_rise.wav",
-      "streaming": false
+      "path": "mvz2/sounds/dirt_rise.wav"
     },
     {
       "id": "mvz2:divine_shield",
-      "path": "mvz2/sounds/divine_shield.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/divine_shield.ogg"
     },
     {
       "id": "mvz2:divine_shield_cast",
-      "path": "mvz2/sounds/divine_shield_cast.wav",
-      "streaming": false
+      "path": "mvz2/sounds/divine_shield_cast.wav"
     },
     {
       "id": "mvz2:doom",
-      "path": "mvz2/sounds/doom.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/doom.ogg"
     },
     {
       "id": "mvz2:dragon_breath",
-      "path": "mvz2/sounds/dragon_breath.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon_breath.ogg"
     },
     {
       "id": "mvz2:earthquake",
-      "path": "mvz2/sounds/earthquake.wav",
-      "streaming": false
+      "path": "mvz2/sounds/earthquake.wav"
     },
     {
       "id": "mvz2:electric_spark",
-      "path": "mvz2/sounds/electric_spark.wav",
-      "streaming": false
+      "path": "mvz2/sounds/electric_spark.wav"
     },
     {
       "id": "mvz2:energy_shield",
-      "path": "mvz2/sounds/energy_shield.wav",
-      "streaming": false
+      "path": "mvz2/sounds/energy_shield.wav"
     },
     {
       "id": "mvz2:energy_shield_hit1",
-      "path": "mvz2/sounds/energy_shield_hit1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/energy_shield_hit1.wav"
     },
     {
       "id": "mvz2:energy_shield_hit2",
-      "path": "mvz2/sounds/energy_shield_hit2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/energy_shield_hit2.wav"
     },
     {
       "id": "mvz2:energy_shield_hit3",
-      "path": "mvz2/sounds/energy_shield_hit3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/energy_shield_hit3.wav"
     },
     {
       "id": "mvz2:energy_shield_hit4",
-      "path": "mvz2/sounds/energy_shield_hit4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/energy_shield_hit4.wav"
     },
     {
       "id": "mvz2:error_xp",
-      "path": "mvz2/sounds/error_xp.wav",
-      "streaming": false
+      "path": "mvz2/sounds/error_xp.wav"
     },
     {
       "id": "mvz2:evocation",
-      "path": "mvz2/sounds/evocation.wav",
-      "streaming": false
+      "path": "mvz2/sounds/evocation.wav"
     },
     {
       "id": "mvz2:fast_forward",
-      "path": "mvz2/sounds/fast_forward.wav",
-      "streaming": false
+      "path": "mvz2/sounds/fast_forward.wav"
     },
     {
       "id": "mvz2:fatigue",
-      "path": "mvz2/sounds/fatigue.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/fatigue.ogg"
     },
     {
       "id": "mvz2:final_item",
-      "path": "mvz2/sounds/final_item.wav",
-      "streaming": false
+      "path": "mvz2/sounds/final_item.wav"
     },
     {
       "id": "mvz2:final_wave",
-      "path": "mvz2/sounds/final_wave.wav",
-      "streaming": false
+      "path": "mvz2/sounds/final_wave.wav"
     },
     {
       "id": "mvz2:fire",
-      "path": "mvz2/sounds/fire.wav",
-      "streaming": false
+      "path": "mvz2/sounds/fire.wav"
     },
     {
       "id": "mvz2:firework_blast",
-      "path": "mvz2/sounds/firework_blast.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/firework_blast.ogg"
     },
     {
       "id": "mvz2:firework_large_blast",
-      "path": "mvz2/sounds/firework_large_blast.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/firework_large_blast.ogg"
     },
     {
       "id": "mvz2:firework_launch",
-      "path": "mvz2/sounds/firework_launch.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/firework_launch.ogg"
     },
     {
       "id": "mvz2:firework_twinkle",
-      "path": "mvz2/sounds/firework_twinkle.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/firework_twinkle.ogg"
     },
     {
       "id": "mvz2:fire_breath",
-      "path": "mvz2/sounds/fire_breath.wav",
-      "streaming": false
+      "path": "mvz2/sounds/fire_breath.wav"
     },
     {
       "id": "mvz2:fire_breath_big",
-      "path": "mvz2/sounds/fire_breath_big.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/fire_breath_big.ogg"
     },
     {
       "id": "mvz2:fire_charge",
-      "path": "mvz2/sounds/fire_charge.wav",
-      "streaming": false
+      "path": "mvz2/sounds/fire_charge.wav"
     },
     {
       "id": "mvz2:fizz",
-      "path": "mvz2/sounds/fizz.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/fizz.ogg"
     },
     {
       "id": "mvz2:floop",
-      "path": "mvz2/sounds/floop.wav",
-      "streaming": false
+      "path": "mvz2/sounds/floop.wav"
     },
     {
       "id": "mvz2:fly_swarm",
-      "path": "mvz2/sounds/fly_swarm.wav",
-      "streaming": false
+      "path": "mvz2/sounds/fly_swarm.wav"
     },
     {
       "id": "mvz2:frankenstein_laugh",
-      "path": "mvz2/sounds/frankenstein_laugh.wav",
-      "streaming": false
+      "path": "mvz2/sounds/frankenstein_laugh.wav"
     },
     {
       "id": "mvz2:frankenstein_steel_laugh",
-      "path": "mvz2/sounds/frankenstein_steel_laugh.wav",
-      "streaming": false
+      "path": "mvz2/sounds/frankenstein_steel_laugh.wav"
     },
     {
       "id": "mvz2:freeze",
-      "path": "mvz2/sounds/freeze.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/freeze.ogg"
     },
     {
       "id": "mvz2:fuse",
-      "path": "mvz2/sounds/fuse.wav",
-      "streaming": false
+      "path": "mvz2/sounds/fuse.wav"
     },
     {
       "id": "mvz2:gap_warp",
-      "path": "mvz2/sounds/gap_warp.wav",
-      "streaming": false
+      "path": "mvz2/sounds/gap_warp.wav"
     },
     {
       "id": "mvz2:gem",
-      "path": "mvz2/sounds/gem.wav",
-      "streaming": false
+      "path": "mvz2/sounds/gem.wav"
     },
     {
       "id": "mvz2:giant_roar",
-      "path": "mvz2/sounds/giant_roar.wav",
-      "streaming": false
+      "path": "mvz2/sounds/giant_roar.wav"
     },
     {
       "id": "mvz2:giant_spike",
-      "path": "mvz2/sounds/giant_spike.wav",
-      "streaming": false
+      "path": "mvz2/sounds/giant_spike.wav"
     },
     {
       "id": "mvz2:glass_break_big",
-      "path": "mvz2/sounds/glass_break_big.wav",
-      "streaming": false
+      "path": "mvz2/sounds/glass_break_big.wav"
     },
     {
       "id": "mvz2:glowstone",
-      "path": "mvz2/sounds/glowstone.wav",
-      "streaming": false
+      "path": "mvz2/sounds/glowstone.wav"
     },
     {
       "id": "mvz2:gold",
-      "path": "mvz2/sounds/gold.wav",
-      "streaming": false
+      "path": "mvz2/sounds/gold.wav"
     },
     {
       "id": "mvz2:gravitation",
-      "path": "mvz2/sounds/gravitation.wav",
-      "streaming": false
+      "path": "mvz2/sounds/gravitation.wav"
     },
     {
       "id": "mvz2:gravitation_surge",
-      "path": "mvz2/sounds/gravitation_surge.wav",
-      "streaming": false
+      "path": "mvz2/sounds/gravitation_surge.wav"
     },
     {
       "id": "mvz2:grind1",
-      "path": "mvz2/sounds/grind1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/grind1.ogg"
     },
     {
       "id": "mvz2:grind2",
-      "path": "mvz2/sounds/grind2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/grind2.ogg"
     },
     {
       "id": "mvz2:grow_big",
-      "path": "mvz2/sounds/grow_big.wav",
-      "streaming": false
+      "path": "mvz2/sounds/grow_big.wav"
     },
     {
       "id": "mvz2:gulp",
-      "path": "mvz2/sounds/gulp.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/gulp.ogg"
     },
     {
       "id": "mvz2:gun_reload",
-      "path": "mvz2/sounds/gun_reload.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/gun_reload.ogg"
     },
     {
       "id": "mvz2:gun_shot",
-      "path": "mvz2/sounds/gun_shot.wav",
-      "streaming": false
+      "path": "mvz2/sounds/gun_shot.wav"
     },
     {
       "id": "mvz2:happy_birthday",
-      "path": "mvz2/sounds/happy_birthday.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/happy_birthday.ogg"
     },
     {
       "id": "mvz2:harp",
-      "path": "mvz2/sounds/harp.wav",
-      "streaming": false
+      "path": "mvz2/sounds/harp.wav"
     },
     {
       "id": "mvz2:horse_angry",
-      "path": "mvz2/sounds/horse_angry.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/horse_angry.ogg"
     },
     {
       "id": "mvz2:horse_gallop1",
-      "path": "mvz2/sounds/horse_gallop1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/horse_gallop1.ogg"
     },
     {
       "id": "mvz2:horse_gallop2",
-      "path": "mvz2/sounds/horse_gallop2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/horse_gallop2.ogg"
     },
     {
       "id": "mvz2:horse_gallop3",
-      "path": "mvz2/sounds/horse_gallop3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/horse_gallop3.ogg"
     },
     {
       "id": "mvz2:horse_gallop4",
-      "path": "mvz2/sounds/horse_gallop4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/horse_gallop4.ogg"
     },
     {
       "id": "mvz2:huge_wave",
-      "path": "mvz2/sounds/huge_wave.wav",
-      "streaming": false
+      "path": "mvz2/sounds/huge_wave.wav"
     },
     {
       "id": "mvz2:hum",
-      "path": "mvz2/sounds/hum.wav",
-      "streaming": false
+      "path": "mvz2/sounds/hum.wav"
     },
     {
       "id": "mvz2:impact",
-      "path": "mvz2/sounds/impact.wav",
-      "streaming": false
+      "path": "mvz2/sounds/impact.wav"
     },
     {
       "id": "mvz2:iron_curtain",
-      "path": "mvz2/sounds/iron_curtain.wav",
-      "streaming": false
+      "path": "mvz2/sounds/iron_curtain.wav"
     },
     {
       "id": "mvz2:juicy",
-      "path": "mvz2/sounds/juicy.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/juicy.ogg"
     },
     {
       "id": "mvz2:large_explosion",
-      "path": "mvz2/sounds/large_explosion.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/large_explosion.ogg"
     },
     {
       "id": "mvz2:launch",
-      "path": "mvz2/sounds/launch.wav",
-      "streaming": false
+      "path": "mvz2/sounds/launch.wav"
     },
     {
       "id": "mvz2:lava_loop",
-      "path": "mvz2/sounds/lava_loop.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/lava_loop.ogg"
     },
     {
       "id": "mvz2:lightbeam1",
-      "path": "mvz2/sounds/lightbeam1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/lightbeam1.wav"
     },
     {
       "id": "mvz2:lightbeam2",
-      "path": "mvz2/sounds/lightbeam2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/lightbeam2.wav"
     },
     {
       "id": "mvz2:lightbeam3",
-      "path": "mvz2/sounds/lightbeam3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/lightbeam3.wav"
     },
     {
       "id": "mvz2:lightning_attack",
-      "path": "mvz2/sounds/lightning_attack.wav",
-      "streaming": false
+      "path": "mvz2/sounds/lightning_attack.wav"
     },
     {
       "id": "mvz2:locked",
-      "path": "mvz2/sounds/locked.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/locked.ogg"
     },
     {
       "id": "mvz2:lose_music",
-      "path": "mvz2/sounds/lose_music.wav",
-      "streaming": false
+      "path": "mvz2/sounds/lose_music.wav"
     },
     {
       "id": "mvz2:low_quality_egypt",
-      "path": "mvz2/sounds/low_quality_egypt.wav",
-      "streaming": false
+      "path": "mvz2/sounds/low_quality_egypt.wav"
     },
     {
       "id": "mvz2:lurker",
-      "path": "mvz2/sounds/lurker.wav",
-      "streaming": false
+      "path": "mvz2/sounds/lurker.wav"
     },
     {
       "id": "mvz2:magical",
-      "path": "mvz2/sounds/magical.wav",
-      "streaming": false
+      "path": "mvz2/sounds/magical.wav"
     },
     {
       "id": "mvz2:master_spark",
-      "path": "mvz2/sounds/master_spark.wav",
-      "streaming": false
+      "path": "mvz2/sounds/master_spark.wav"
     },
     {
       "id": "mvz2:mechanism",
-      "path": "mvz2/sounds/mechanism.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/mechanism.ogg"
     },
     {
       "id": "mvz2:mech_setup",
-      "path": "mvz2/sounds/mech_setup.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/mech_setup.ogg"
     },
     {
       "id": "mvz2:meow",
-      "path": "mvz2/sounds/meow.wav",
-      "streaming": false
+      "path": "mvz2/sounds/meow.wav"
     },
     {
       "id": "mvz2:metal_saw",
-      "path": "mvz2/sounds/metal_saw.wav",
-      "streaming": false
+      "path": "mvz2/sounds/metal_saw.wav"
     },
     {
       "id": "mvz2:meteor_land",
-      "path": "mvz2/sounds/meteor_land.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/meteor_land.ogg"
     },
     {
       "id": "mvz2:mind_clear",
-      "path": "mvz2/sounds/mind_clear.wav",
-      "streaming": false
+      "path": "mvz2/sounds/mind_clear.wav"
     },
     {
       "id": "mvz2:mind_control",
-      "path": "mvz2/sounds/mind_control.wav",
-      "streaming": false
+      "path": "mvz2/sounds/mind_control.wav"
     },
     {
       "id": "mvz2:minecart",
-      "path": "mvz2/sounds/minecart.wav",
-      "streaming": false
+      "path": "mvz2/sounds/minecart.wav"
     },
     {
       "id": "mvz2:mine_explode",
-      "path": "mvz2/sounds/mine_explode.wav",
-      "streaming": false
+      "path": "mvz2/sounds/mine_explode.wav"
     },
     {
       "id": "mvz2:missile",
-      "path": "mvz2/sounds/missile.wav",
-      "streaming": false
+      "path": "mvz2/sounds/missile.wav"
     },
     {
       "id": "mvz2:money_fall",
-      "path": "mvz2/sounds/money_fall.wav",
-      "streaming": false
+      "path": "mvz2/sounds/money_fall.wav"
     },
     {
       "id": "mvz2:morse_code_reverse",
-      "path": "mvz2/sounds/morse_code_reverse.wav",
-      "streaming": false
+      "path": "mvz2/sounds/morse_code_reverse.wav"
     },
     {
       "id": "mvz2:motor",
-      "path": "mvz2/sounds/motor.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/motor.ogg"
     },
     {
       "id": "mvz2:nightmare_portal",
-      "path": "mvz2/sounds/nightmare_portal.wav",
-      "streaming": false
+      "path": "mvz2/sounds/nightmare_portal.wav"
     },
     {
       "id": "mvz2:nimble_fabric",
-      "path": "mvz2/sounds/nimble_fabric.wav",
-      "streaming": false
+      "path": "mvz2/sounds/nimble_fabric.wav"
     },
     {
       "id": "mvz2:nukeblast",
-      "path": "mvz2/sounds/nukeblast.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/nukeblast.ogg"
     },
     {
       "id": "mvz2:nyaightmare_scream",
-      "path": "mvz2/sounds/nyaightmare_scream.wav",
-      "streaming": false
+      "path": "mvz2/sounds/nyaightmare_scream.wav"
     },
     {
       "id": "mvz2:odd",
-      "path": "mvz2/sounds/odd.wav",
-      "streaming": false
+      "path": "mvz2/sounds/odd.wav"
     },
     {
       "id": "mvz2:pacman_attack",
-      "path": "mvz2/sounds/pacman_attack.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pacman_attack.wav"
     },
     {
       "id": "mvz2:pacman_fail",
-      "path": "mvz2/sounds/pacman_fail.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/pacman_fail.ogg"
     },
     {
       "id": "mvz2:pacman_ghost",
-      "path": "mvz2/sounds/pacman_ghost.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pacman_ghost.wav"
     },
     {
       "id": "mvz2:pacman_kill",
-      "path": "mvz2/sounds/pacman_kill.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pacman_kill.wav"
     },
     {
       "id": "mvz2:pacman_start",
-      "path": "mvz2/sounds/pacman_start.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pacman_start.wav"
     },
     {
       "id": "mvz2:paper",
-      "path": "mvz2/sounds/paper.wav",
-      "streaming": false
+      "path": "mvz2/sounds/paper.wav"
     },
     {
       "id": "mvz2:pause",
-      "path": "mvz2/sounds/pause.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pause.wav"
     },
     {
       "id": "mvz2:pearl_touch",
-      "path": "mvz2/sounds/pearl_touch.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pearl_touch.wav"
     },
     {
       "id": "mvz2:people_noise",
-      "path": "mvz2/sounds/people_noise.wav",
-      "streaming": false
+      "path": "mvz2/sounds/people_noise.wav"
     },
     {
       "id": "mvz2:petrified",
-      "path": "mvz2/sounds/petrified.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/petrified.ogg"
     },
     {
       "id": "mvz2:pick",
-      "path": "mvz2/sounds/pick.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pick.wav"
     },
     {
       "id": "mvz2:pickaxe",
-      "path": "mvz2/sounds/pickaxe.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pickaxe.wav"
     },
     {
       "id": "mvz2:piston_in",
-      "path": "mvz2/sounds/piston_in.wav",
-      "streaming": false
+      "path": "mvz2/sounds/piston_in.wav"
     },
     {
       "id": "mvz2:piston_out",
-      "path": "mvz2/sounds/piston_out.wav",
-      "streaming": false
+      "path": "mvz2/sounds/piston_out.wav"
     },
     {
       "id": "mvz2:points",
-      "path": "mvz2/sounds/points.wav",
-      "streaming": false
+      "path": "mvz2/sounds/points.wav"
     },
     {
       "id": "mvz2:poison_cast",
-      "path": "mvz2/sounds/poison_cast.wav",
-      "streaming": false
+      "path": "mvz2/sounds/poison_cast.wav"
     },
     {
       "id": "mvz2:poison_gas",
-      "path": "mvz2/sounds/poison_gas.wav",
-      "streaming": false
+      "path": "mvz2/sounds/poison_gas.wav"
     },
     {
       "id": "mvz2:pool_cleaner",
-      "path": "mvz2/sounds/pool_cleaner.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/pool_cleaner.ogg"
     },
     {
       "id": "mvz2:pop",
-      "path": "mvz2/sounds/pop.wav",
-      "streaming": false
+      "path": "mvz2/sounds/pop.wav"
     },
     {
       "id": "mvz2:potion",
-      "path": "mvz2/sounds/potion.wav",
-      "streaming": false
+      "path": "mvz2/sounds/potion.wav"
     },
     {
       "id": "mvz2:power_off",
-      "path": "mvz2/sounds/power_off.wav",
-      "streaming": false
+      "path": "mvz2/sounds/power_off.wav"
     },
     {
       "id": "mvz2:power_on",
-      "path": "mvz2/sounds/power_on.wav",
-      "streaming": false
+      "path": "mvz2/sounds/power_on.wav"
     },
     {
       "id": "mvz2:power_up",
-      "path": "mvz2/sounds/power_up.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/power_up.ogg"
     },
     {
       "id": "mvz2:prize",
-      "path": "mvz2/sounds/prize.wav",
-      "streaming": false
+      "path": "mvz2/sounds/prize.wav"
     },
     {
       "id": "mvz2:punch1",
-      "path": "mvz2/sounds/punch1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/punch1.wav"
     },
     {
       "id": "mvz2:punch2",
-      "path": "mvz2/sounds/punch2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/punch2.wav"
     },
     {
       "id": "mvz2:rain",
-      "path": "mvz2/sounds/rain.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/rain.ogg"
     },
     {
       "id": "mvz2:ready_set_build",
-      "path": "mvz2/sounds/ready_set_build.wav",
-      "streaming": false
+      "path": "mvz2/sounds/ready_set_build.wav"
     },
     {
       "id": "mvz2:reflection",
-      "path": "mvz2/sounds/reflection.wav",
-      "streaming": false
+      "path": "mvz2/sounds/reflection.wav"
     },
     {
       "id": "mvz2:refuel",
-      "path": "mvz2/sounds/refuel.wav",
-      "streaming": false
+      "path": "mvz2/sounds/refuel.wav"
     },
     {
       "id": "mvz2:reverse_vampire",
-      "path": "mvz2/sounds/reverse_vampire.wav",
-      "streaming": false
+      "path": "mvz2/sounds/reverse_vampire.wav"
     },
     {
       "id": "mvz2:revived",
-      "path": "mvz2/sounds/revived.wav",
-      "streaming": false
+      "path": "mvz2/sounds/revived.wav"
     },
     {
       "id": "mvz2:revive_cast",
-      "path": "mvz2/sounds/revive_cast.wav",
-      "streaming": false
+      "path": "mvz2/sounds/revive_cast.wav"
     },
     {
       "id": "mvz2:ring_off",
-      "path": "mvz2/sounds/ring_off.wav",
-      "streaming": false
+      "path": "mvz2/sounds/ring_off.wav"
     },
     {
       "id": "mvz2:sand1",
-      "path": "mvz2/sounds/sand1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand1.ogg"
     },
     {
       "id": "mvz2:sand2",
-      "path": "mvz2/sounds/sand2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand2.ogg"
     },
     {
       "id": "mvz2:sand3",
-      "path": "mvz2/sounds/sand3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand3.ogg"
     },
     {
       "id": "mvz2:sand4",
-      "path": "mvz2/sounds/sand4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand4.ogg"
     },
     {
       "id": "mvz2:sand_dig1",
-      "path": "mvz2/sounds/sand_dig1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand_dig1.ogg"
     },
     {
       "id": "mvz2:sand_dig2",
-      "path": "mvz2/sounds/sand_dig2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand_dig2.ogg"
     },
     {
       "id": "mvz2:sand_dig3",
-      "path": "mvz2/sounds/sand_dig3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand_dig3.ogg"
     },
     {
       "id": "mvz2:sand_dig4",
-      "path": "mvz2/sounds/sand_dig4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand_dig4.ogg"
     },
     {
       "id": "mvz2:sand_dig5",
-      "path": "mvz2/sounds/sand_dig5.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sand_dig5.ogg"
     },
     {
       "id": "mvz2:scifi_laser",
-      "path": "mvz2/sounds/scifi_laser.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/scifi_laser.ogg"
     },
     {
       "id": "mvz2:scream",
-      "path": "mvz2/sounds/scream.wav",
-      "streaming": false
+      "path": "mvz2/sounds/scream.wav"
     },
     {
       "id": "mvz2:screw",
-      "path": "mvz2/sounds/screw.wav",
-      "streaming": false
+      "path": "mvz2/sounds/screw.wav"
     },
     {
       "id": "mvz2:shadow_cast",
-      "path": "mvz2/sounds/shadow_cast.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/shadow_cast.ogg"
     },
     {
       "id": "mvz2:shell_case_drop",
-      "path": "mvz2/sounds/shell_case_drop.wav",
-      "streaming": false
+      "path": "mvz2/sounds/shell_case_drop.wav"
     },
     {
       "id": "mvz2:shock",
-      "path": "mvz2/sounds/shock.wav",
-      "streaming": false
+      "path": "mvz2/sounds/shock.wav"
     },
     {
       "id": "mvz2:shot",
-      "path": "mvz2/sounds/shot.wav",
-      "streaming": false
+      "path": "mvz2/sounds/shot.wav"
     },
     {
       "id": "mvz2:shrink",
-      "path": "mvz2/sounds/shrink.wav",
-      "streaming": false
+      "path": "mvz2/sounds/shrink.wav"
     },
     {
       "id": "mvz2:shutter",
-      "path": "mvz2/sounds/shutter.wav",
-      "streaming": false
+      "path": "mvz2/sounds/shutter.wav"
     },
     {
       "id": "mvz2:siren",
-      "path": "mvz2/sounds/siren.wav",
-      "streaming": false
+      "path": "mvz2/sounds/siren.wav"
     },
     {
       "id": "mvz2:slow_down",
-      "path": "mvz2/sounds/slow_down.wav",
-      "streaming": false
+      "path": "mvz2/sounds/slow_down.wav"
     },
     {
       "id": "mvz2:small_explosion",
-      "path": "mvz2/sounds/small_explosion.wav",
-      "streaming": false
+      "path": "mvz2/sounds/small_explosion.wav"
     },
     {
       "id": "mvz2:smash",
-      "path": "mvz2/sounds/smash.wav",
-      "streaming": false
+      "path": "mvz2/sounds/smash.wav"
     },
     {
       "id": "mvz2:snow",
-      "path": "mvz2/sounds/snow.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/snow.ogg"
     },
     {
       "id": "mvz2:soul_sand1",
-      "path": "mvz2/sounds/soul_sand1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand1.ogg"
     },
     {
       "id": "mvz2:soul_sand2",
-      "path": "mvz2/sounds/soul_sand2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand2.ogg"
     },
     {
       "id": "mvz2:soul_sand3",
-      "path": "mvz2/sounds/soul_sand3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand3.ogg"
     },
     {
       "id": "mvz2:soul_sand4",
-      "path": "mvz2/sounds/soul_sand4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand4.ogg"
     },
     {
       "id": "mvz2:soul_sand5",
-      "path": "mvz2/sounds/soul_sand5.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand5.ogg"
     },
     {
       "id": "mvz2:soul_sand_break1",
-      "path": "mvz2/sounds/soul_sand_break1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break1.ogg"
     },
     {
       "id": "mvz2:soul_sand_break2",
-      "path": "mvz2/sounds/soul_sand_break2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break2.ogg"
     },
     {
       "id": "mvz2:soul_sand_break3",
-      "path": "mvz2/sounds/soul_sand_break3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break3.ogg"
     },
     {
       "id": "mvz2:soul_sand_break4",
-      "path": "mvz2/sounds/soul_sand_break4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break4.ogg"
     },
     {
       "id": "mvz2:soul_sand_break5",
-      "path": "mvz2/sounds/soul_sand_break5.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break5.ogg"
     },
     {
       "id": "mvz2:soul_sand_break6",
-      "path": "mvz2/sounds/soul_sand_break6.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break6.ogg"
     },
     {
       "id": "mvz2:soul_sand_break7",
-      "path": "mvz2/sounds/soul_sand_break7.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break7.ogg"
     },
     {
       "id": "mvz2:soul_sand_break8",
-      "path": "mvz2/sounds/soul_sand_break8.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break8.ogg"
     },
     {
       "id": "mvz2:soul_sand_break9",
-      "path": "mvz2/sounds/soul_sand_break9.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/soul_sand_break9.ogg"
     },
     {
       "id": "mvz2:sparkle",
-      "path": "mvz2/sounds/sparkle.wav",
-      "streaming": false
+      "path": "mvz2/sounds/sparkle.wav"
     },
     {
       "id": "mvz2:spell_card",
-      "path": "mvz2/sounds/spell_card.wav",
-      "streaming": false
+      "path": "mvz2/sounds/spell_card.wav"
     },
     {
       "id": "mvz2:spider_cry1",
-      "path": "mvz2/sounds/spider_cry1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/spider_cry1.wav"
     },
     {
       "id": "mvz2:spider_cry2",
-      "path": "mvz2/sounds/spider_cry2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/spider_cry2.wav"
     },
     {
       "id": "mvz2:spider_cry3",
-      "path": "mvz2/sounds/spider_cry3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/spider_cry3.wav"
     },
     {
       "id": "mvz2:spider_cry4",
-      "path": "mvz2/sounds/spider_cry4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/spider_cry4.wav"
     },
     {
       "id": "mvz2:spider_death",
-      "path": "mvz2/sounds/spider_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/spider_death.wav"
     },
     {
       "id": "mvz2:splash",
-      "path": "mvz2/sounds/splash.wav",
-      "streaming": false
+      "path": "mvz2/sounds/splash.wav"
     },
     {
       "id": "mvz2:splash_big",
-      "path": "mvz2/sounds/splash_big.wav",
-      "streaming": false
+      "path": "mvz2/sounds/splash_big.wav"
     },
     {
       "id": "mvz2:spring",
-      "path": "mvz2/sounds/spring.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/spring.ogg"
     },
     {
       "id": "mvz2:star",
-      "path": "mvz2/sounds/star.wav",
-      "streaming": false
+      "path": "mvz2/sounds/star.wav"
     },
     {
       "id": "mvz2:starshard_appear",
-      "path": "mvz2/sounds/starshard_appear.wav",
-      "streaming": false
+      "path": "mvz2/sounds/starshard_appear.wav"
     },
     {
       "id": "mvz2:starshard_use",
-      "path": "mvz2/sounds/starshard_use.wav",
-      "streaming": false
+      "path": "mvz2/sounds/starshard_use.wav"
     },
     {
       "id": "mvz2:steve_roar1",
-      "path": "mvz2/sounds/steve_roar1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/steve_roar1.wav"
     },
     {
       "id": "mvz2:steve_roar2",
-      "path": "mvz2/sounds/steve_roar2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/steve_roar2.wav"
     },
     {
       "id": "mvz2:steve_roar3",
-      "path": "mvz2/sounds/steve_roar3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/steve_roar3.wav"
     },
     {
       "id": "mvz2:stunned",
-      "path": "mvz2/sounds/stunned.wav",
-      "streaming": false
+      "path": "mvz2/sounds/stunned.wav"
     },
     {
       "id": "mvz2:sweeping_beam",
-      "path": "mvz2/sounds/sweeping_beam.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/sweeping_beam.ogg"
     },
     {
       "id": "mvz2:swing",
-      "path": "mvz2/sounds/swing.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/swing.ogg"
     },
     {
       "id": "mvz2:talk",
-      "path": "mvz2/sounds/talk.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk.wav"
     },
     {
       "id": "mvz2:tap",
-      "path": "mvz2/sounds/tap.wav",
-      "streaming": false
+      "path": "mvz2/sounds/tap.wav"
     },
     {
       "id": "mvz2:tesla_attack",
-      "path": "mvz2/sounds/tesla_attack.wav",
-      "streaming": false
+      "path": "mvz2/sounds/tesla_attack.wav"
     },
     {
       "id": "mvz2:tesla_construction",
-      "path": "mvz2/sounds/tesla_construction.wav",
-      "streaming": false
+      "path": "mvz2/sounds/tesla_construction.wav"
     },
     {
       "id": "mvz2:tesla_destroy",
-      "path": "mvz2/sounds/tesla_destroy.wav",
-      "streaming": false
+      "path": "mvz2/sounds/tesla_destroy.wav"
     },
     {
       "id": "mvz2:tesla_power",
-      "path": "mvz2/sounds/tesla_power.wav",
-      "streaming": false
+      "path": "mvz2/sounds/tesla_power.wav"
     },
     {
       "id": "mvz2:throw",
-      "path": "mvz2/sounds/throw.wav",
-      "streaming": false
+      "path": "mvz2/sounds/throw.wav"
     },
     {
       "id": "mvz2:thump",
-      "path": "mvz2/sounds/thump.wav",
-      "streaming": false
+      "path": "mvz2/sounds/thump.wav"
     },
     {
       "id": "mvz2:time_warp",
-      "path": "mvz2/sounds/time_warp.wav",
-      "streaming": false
+      "path": "mvz2/sounds/time_warp.wav"
     },
     {
       "id": "mvz2:tornado",
-      "path": "mvz2/sounds/tornado.wav",
-      "streaming": false
+      "path": "mvz2/sounds/tornado.wav"
     },
     {
       "id": "mvz2:touhou_death",
-      "path": "mvz2/sounds/touhou_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/touhou_death.wav"
     },
     {
       "id": "mvz2:touhou_laser",
-      "path": "mvz2/sounds/touhou_laser.wav",
-      "streaming": false
+      "path": "mvz2/sounds/touhou_laser.wav"
     },
     {
       "id": "mvz2:tractor_beam",
-      "path": "mvz2/sounds/tractor_beam.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/tractor_beam.ogg"
     },
     {
       "id": "mvz2:train_travel",
-      "path": "mvz2/sounds/train_travel.wav",
-      "streaming": false
+      "path": "mvz2/sounds/train_travel.wav"
     },
     {
       "id": "mvz2:train_whistle",
-      "path": "mvz2/sounds/train_whistle.wav",
-      "streaming": false
+      "path": "mvz2/sounds/train_whistle.wav"
     },
     {
       "id": "mvz2:travel",
-      "path": "mvz2/sounds/travel.wav",
-      "streaming": false
+      "path": "mvz2/sounds/travel.wav"
     },
     {
       "id": "mvz2:trident_thunder1",
-      "path": "mvz2/sounds/trident_thunder1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/trident_thunder1.ogg"
     },
     {
       "id": "mvz2:trident_thunder2",
-      "path": "mvz2/sounds/trident_thunder2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/trident_thunder2.ogg"
     },
     {
       "id": "mvz2:ufo",
-      "path": "mvz2/sounds/ufo.wav",
-      "streaming": false
+      "path": "mvz2/sounds/ufo.wav"
     },
     {
       "id": "mvz2:ufo_alert",
-      "path": "mvz2/sounds/ufo_alert.wav",
-      "streaming": false
+      "path": "mvz2/sounds/ufo_alert.wav"
     },
     {
       "id": "mvz2:vortex",
-      "path": "mvz2/sounds/vortex.wav",
-      "streaming": false
+      "path": "mvz2/sounds/vortex.wav"
     },
     {
       "id": "mvz2:water",
-      "path": "mvz2/sounds/water.wav",
-      "streaming": false
+      "path": "mvz2/sounds/water.wav"
     },
     {
       "id": "mvz2:waterfall",
-      "path": "mvz2/sounds/waterfall.wav",
-      "streaming": false
+      "path": "mvz2/sounds/waterfall.wav"
     },
     {
       "id": "mvz2:wind",
-      "path": "mvz2/sounds/wind.wav",
-      "streaming": false
+      "path": "mvz2/sounds/wind.wav"
     },
     {
       "id": "mvz2:win_music",
-      "path": "mvz2/sounds/win_music.wav",
-      "streaming": false
+      "path": "mvz2/sounds/win_music.wav"
     },
     {
       "id": "mvz2:zap1",
-      "path": "mvz2/sounds/zap1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/zap1.wav"
     },
     {
       "id": "mvz2:zap2",
-      "path": "mvz2/sounds/zap2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/zap2.wav"
     },
     {
       "id": "mvz2:zap3",
-      "path": "mvz2/sounds/zap3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/zap3.wav"
     },
     {
       "id": "mvz2:zap4",
-      "path": "mvz2/sounds/zap4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/zap4.wav"
     },
     {
       "id": "mvz2:damage/hit1",
-      "path": "mvz2/sounds/damage/hit1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/hit1.wav"
     },
     {
       "id": "mvz2:damage/hit2",
-      "path": "mvz2/sounds/damage/hit2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/hit2.wav"
     },
     {
       "id": "mvz2:damage/hit3",
-      "path": "mvz2/sounds/damage/hit3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/hit3.wav"
     },
     {
       "id": "mvz2:damage/small_hit1",
-      "path": "mvz2/sounds/damage/small_hit1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/small_hit1.wav"
     },
     {
       "id": "mvz2:damage/small_hit2",
-      "path": "mvz2/sounds/damage/small_hit2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/small_hit2.wav"
     },
     {
       "id": "mvz2:dragon/end",
-      "path": "mvz2/sounds/dragon/end.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/end.ogg"
     },
     {
       "id": "mvz2:dragon/growl1",
-      "path": "mvz2/sounds/dragon/growl1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/growl1.ogg"
     },
     {
       "id": "mvz2:dragon/growl2",
-      "path": "mvz2/sounds/dragon/growl2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/growl2.ogg"
     },
     {
       "id": "mvz2:dragon/growl3",
-      "path": "mvz2/sounds/dragon/growl3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/growl3.ogg"
     },
     {
       "id": "mvz2:dragon/growl4",
-      "path": "mvz2/sounds/dragon/growl4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/growl4.ogg"
     },
     {
       "id": "mvz2:dragon/hit1",
-      "path": "mvz2/sounds/dragon/hit1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/hit1.ogg"
     },
     {
       "id": "mvz2:dragon/hit2",
-      "path": "mvz2/sounds/dragon/hit2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/hit2.ogg"
     },
     {
       "id": "mvz2:dragon/hit3",
-      "path": "mvz2/sounds/dragon/hit3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/hit3.ogg"
     },
     {
       "id": "mvz2:dragon/hit4",
-      "path": "mvz2/sounds/dragon/hit4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/hit4.ogg"
     },
     {
       "id": "mvz2:dragon/wings1",
-      "path": "mvz2/sounds/dragon/wings1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/wings1.ogg"
     },
     {
       "id": "mvz2:dragon/wings2",
-      "path": "mvz2/sounds/dragon/wings2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/wings2.ogg"
     },
     {
       "id": "mvz2:dragon/wings3",
-      "path": "mvz2/sounds/dragon/wings3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/wings3.ogg"
     },
     {
       "id": "mvz2:dragon/wings4",
-      "path": "mvz2/sounds/dragon/wings4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/wings4.ogg"
     },
     {
       "id": "mvz2:dragon/wings5",
-      "path": "mvz2/sounds/dragon/wings5.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/wings5.ogg"
     },
     {
       "id": "mvz2:dragon/wings6",
-      "path": "mvz2/sounds/dragon/wings6.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/dragon/wings6.ogg"
     },
     {
       "id": "mvz2:entity/dream_alarm",
-      "path": "mvz2/sounds/entity/dream_alarm.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/dream_alarm.wav"
     },
     {
       "id": "mvz2:entity/slenderman_death",
-      "path": "mvz2/sounds/entity/slenderman_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/slenderman_death.wav"
     },
     {
       "id": "mvz2:entity/wakeup",
-      "path": "mvz2/sounds/entity/wakeup.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wakeup.wav"
     },
     {
       "id": "mvz2:init/click",
-      "path": "mvz2/sounds/init/click.wav",
-      "streaming": false
+      "path": "mvz2/sounds/init/click.wav"
     },
     {
       "id": "mvz2:random/explosion1",
-      "path": "mvz2/sounds/random/explosion1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/explosion1.wav"
     },
     {
       "id": "mvz2:random/explosion2",
-      "path": "mvz2/sounds/random/explosion2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/explosion2.wav"
     },
     {
       "id": "mvz2:random/explosion3",
-      "path": "mvz2/sounds/random/explosion3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/explosion3.wav"
     },
     {
       "id": "mvz2:random/explosion4",
-      "path": "mvz2/sounds/random/explosion4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/explosion4.wav"
     },
     {
       "id": "mvz2:random/glass1",
-      "path": "mvz2/sounds/random/glass1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass1.wav"
     },
     {
       "id": "mvz2:random/glass2",
-      "path": "mvz2/sounds/random/glass2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass2.wav"
     },
     {
       "id": "mvz2:random/glass3",
-      "path": "mvz2/sounds/random/glass3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass3.wav"
     },
     {
       "id": "mvz2:random/glass4",
-      "path": "mvz2/sounds/random/glass4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass4.wav"
     },
     {
       "id": "mvz2:random/glass5",
-      "path": "mvz2/sounds/random/glass5.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass5.wav"
     },
     {
       "id": "mvz2:random/glass6",
-      "path": "mvz2/sounds/random/glass6.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass6.wav"
     },
     {
       "id": "mvz2:random/glass_break1",
-      "path": "mvz2/sounds/random/glass_break1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass_break1.wav"
     },
     {
       "id": "mvz2:random/glass_break2",
-      "path": "mvz2/sounds/random/glass_break2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass_break2.wav"
     },
     {
       "id": "mvz2:random/glass_break3",
-      "path": "mvz2/sounds/random/glass_break3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/glass_break3.wav"
     },
     {
       "id": "mvz2:random/grass1",
-      "path": "mvz2/sounds/random/grass1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/grass1.wav"
     },
     {
       "id": "mvz2:random/grass2",
-      "path": "mvz2/sounds/random/grass2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/grass2.wav"
     },
     {
       "id": "mvz2:random/grass3",
-      "path": "mvz2/sounds/random/grass3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/grass3.wav"
     },
     {
       "id": "mvz2:random/stone1",
-      "path": "mvz2/sounds/random/stone1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/stone1.wav"
     },
     {
       "id": "mvz2:random/stone2",
-      "path": "mvz2/sounds/random/stone2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/stone2.wav"
     },
     {
       "id": "mvz2:random/stone3",
-      "path": "mvz2/sounds/random/stone3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/stone3.wav"
     },
     {
       "id": "mvz2:random/stone4",
-      "path": "mvz2/sounds/random/stone4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/stone4.wav"
     },
     {
       "id": "mvz2:random/thunder1",
-      "path": "mvz2/sounds/random/thunder1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/thunder1.wav"
     },
     {
       "id": "mvz2:random/thunder2",
-      "path": "mvz2/sounds/random/thunder2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/thunder2.wav"
     },
     {
       "id": "mvz2:random/thunder3",
-      "path": "mvz2/sounds/random/thunder3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/thunder3.wav"
     },
     {
       "id": "mvz2:random/wood1",
-      "path": "mvz2/sounds/random/wood1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/wood1.wav"
     },
     {
       "id": "mvz2:random/wood2",
-      "path": "mvz2/sounds/random/wood2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/wood2.wav"
     },
     {
       "id": "mvz2:random/wood3",
-      "path": "mvz2/sounds/random/wood3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/wood3.wav"
     },
     {
       "id": "mvz2:random/wood4",
-      "path": "mvz2/sounds/random/wood4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/wood4.wav"
     },
     {
       "id": "mvz2:talk/dialog_bang",
-      "path": "mvz2/sounds/talk/dialog_bang.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_bang.wav"
     },
     {
       "id": "mvz2:talk/dialog_beat",
-      "path": "mvz2/sounds/talk/dialog_beat.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_beat.wav"
     },
     {
       "id": "mvz2:talk/dialog_cut",
-      "path": "mvz2/sounds/talk/dialog_cut.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_cut.wav"
     },
     {
       "id": "mvz2:talk/dialog_explosive",
-      "path": "mvz2/sounds/talk/dialog_explosive.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_explosive.wav"
     },
     {
       "id": "mvz2:talk/dialog_faint",
-      "path": "mvz2/sounds/talk/dialog_faint.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_faint.wav"
     },
     {
       "id": "mvz2:talk/dialog_flashback",
-      "path": "mvz2/sounds/talk/dialog_flashback.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_flashback.wav"
     },
     {
       "id": "mvz2:talk/dialog_item_hide",
-      "path": "mvz2/sounds/talk/dialog_item_hide.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_item_hide.wav"
     },
     {
       "id": "mvz2:talk/dialog_item_show",
-      "path": "mvz2/sounds/talk/dialog_item_show.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_item_show.wav"
     },
     {
       "id": "mvz2:talk/dialog_judge",
-      "path": "mvz2/sounds/talk/dialog_judge.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_judge.wav"
     },
     {
       "id": "mvz2:talk/dialog_objection",
-      "path": "mvz2/sounds/talk/dialog_objection.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_objection.wav"
     },
     {
       "id": "mvz2:talk/dialog_surprised",
-      "path": "mvz2/sounds/talk/dialog_surprised.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_surprised.wav"
     },
     {
       "id": "mvz2:talk/dialog_weird",
-      "path": "mvz2/sounds/talk/dialog_weird.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_weird.wav"
     },
     {
       "id": "mvz2:talk/dialog_wipe",
-      "path": "mvz2/sounds/talk/dialog_wipe.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/dialog_wipe.wav"
     },
     {
       "id": "mvz2:damage/bone/bone_hit1",
-      "path": "mvz2/sounds/damage/bone/bone_hit1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/bone/bone_hit1.wav"
     },
     {
       "id": "mvz2:damage/bone/bone_hit2",
-      "path": "mvz2/sounds/damage/bone/bone_hit2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/bone/bone_hit2.wav"
     },
     {
       "id": "mvz2:damage/bone/bone_hit3",
-      "path": "mvz2/sounds/damage/bone/bone_hit3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/bone/bone_hit3.wav"
     },
     {
       "id": "mvz2:damage/fall/fall_big",
-      "path": "mvz2/sounds/damage/fall/fall_big.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/fall/fall_big.wav"
     },
     {
       "id": "mvz2:damage/fall/fall_small",
-      "path": "mvz2/sounds/damage/fall/fall_small.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/fall/fall_small.wav"
     },
     {
       "id": "mvz2:damage/leather/leather_hit1",
-      "path": "mvz2/sounds/damage/leather/leather_hit1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/leather/leather_hit1.wav"
     },
     {
       "id": "mvz2:damage/leather/leather_hit2",
-      "path": "mvz2/sounds/damage/leather/leather_hit2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/leather/leather_hit2.wav"
     },
     {
       "id": "mvz2:damage/shield/shield_hit1",
-      "path": "mvz2/sounds/damage/shield/shield_hit1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/shield/shield_hit1.wav"
     },
     {
       "id": "mvz2:damage/shield/shield_hit2",
-      "path": "mvz2/sounds/damage/shield/shield_hit2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/shield/shield_hit2.wav"
     },
     {
       "id": "mvz2:damage/slice/slice1",
-      "path": "mvz2/sounds/damage/slice/slice1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/slice/slice1.wav"
     },
     {
       "id": "mvz2:damage/slice/slice2",
-      "path": "mvz2/sounds/damage/slice/slice2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/slice/slice2.wav"
     },
     {
       "id": "mvz2:damage/splat/splat1",
-      "path": "mvz2/sounds/damage/splat/splat1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/splat/splat1.wav"
     },
     {
       "id": "mvz2:damage/splat/splat2",
-      "path": "mvz2/sounds/damage/splat/splat2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/splat/splat2.wav"
     },
     {
       "id": "mvz2:damage/splat/splat3",
-      "path": "mvz2/sounds/damage/splat/splat3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/damage/splat/splat3.wav"
     },
     {
       "id": "mvz2:entity/bone_wall/bone_wall_build1",
-      "path": "mvz2/sounds/entity/bone_wall/bone_wall_build1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/bone_wall/bone_wall_build1.wav"
     },
     {
       "id": "mvz2:entity/bone_wall/bone_wall_build2",
-      "path": "mvz2/sounds/entity/bone_wall/bone_wall_build2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/bone_wall/bone_wall_build2.wav"
     },
     {
       "id": "mvz2:entity/bone_wall/bone_wall_build3",
-      "path": "mvz2/sounds/entity/bone_wall/bone_wall_build3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/bone_wall/bone_wall_build3.wav"
     },
     {
       "id": "mvz2:entity/bone_wall/bone_wall_destroyed",
-      "path": "mvz2/sounds/entity/bone_wall/bone_wall_destroyed.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/bone_wall/bone_wall_destroyed.wav"
     },
     {
       "id": "mvz2:entity/force_pad/magnetic",
-      "path": "mvz2/sounds/entity/force_pad/magnetic.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/force_pad/magnetic.wav"
     },
     {
       "id": "mvz2:entity/gargoyle/gargoyle1",
-      "path": "mvz2/sounds/entity/gargoyle/gargoyle1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/gargoyle/gargoyle1.wav"
     },
     {
       "id": "mvz2:entity/gargoyle/gargoyle2",
-      "path": "mvz2/sounds/entity/gargoyle/gargoyle2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/gargoyle/gargoyle2.wav"
     },
     {
       "id": "mvz2:entity/gargoyle/gargoyle3",
-      "path": "mvz2/sounds/entity/gargoyle/gargoyle3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/gargoyle/gargoyle3.wav"
     },
     {
       "id": "mvz2:entity/gargoyle/gargoyle4",
-      "path": "mvz2/sounds/entity/gargoyle/gargoyle4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/gargoyle/gargoyle4.wav"
     },
     {
       "id": "mvz2:entity/gargoyle/gargoyle_death",
-      "path": "mvz2/sounds/entity/gargoyle/gargoyle_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/gargoyle/gargoyle_death.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast1",
-      "path": "mvz2/sounds/entity/ghast/ghast1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast1.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast2",
-      "path": "mvz2/sounds/entity/ghast/ghast2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast2.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast3",
-      "path": "mvz2/sounds/entity/ghast/ghast3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast3.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast4",
-      "path": "mvz2/sounds/entity/ghast/ghast4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast4.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast5",
-      "path": "mvz2/sounds/entity/ghast/ghast5.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast5.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast6",
-      "path": "mvz2/sounds/entity/ghast/ghast6.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast6.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast7",
-      "path": "mvz2/sounds/entity/ghast/ghast7.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast7.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast_death",
-      "path": "mvz2/sounds/entity/ghast/ghast_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast_death.wav"
     },
     {
       "id": "mvz2:entity/ghast/ghast_fire",
-      "path": "mvz2/sounds/entity/ghast/ghast_fire.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghast/ghast_fire.wav"
     },
     {
       "id": "mvz2:entity/ghost/ghost_cry1",
-      "path": "mvz2/sounds/entity/ghost/ghost_cry1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghost/ghost_cry1.wav"
     },
     {
       "id": "mvz2:entity/ghost/ghost_cry2",
-      "path": "mvz2/sounds/entity/ghost/ghost_cry2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghost/ghost_cry2.wav"
     },
     {
       "id": "mvz2:entity/ghost/ghost_cry3",
-      "path": "mvz2/sounds/entity/ghost/ghost_cry3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghost/ghost_cry3.wav"
     },
     {
       "id": "mvz2:entity/ghost/ghost_cry4",
-      "path": "mvz2/sounds/entity/ghost/ghost_cry4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghost/ghost_cry4.wav"
     },
     {
       "id": "mvz2:entity/ghost/ghost_death",
-      "path": "mvz2/sounds/entity/ghost/ghost_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/ghost/ghost_death.wav"
     },
     {
       "id": "mvz2:entity/imp/imp_laugh1",
-      "path": "mvz2/sounds/entity/imp/imp_laugh1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/imp/imp_laugh1.wav"
     },
     {
       "id": "mvz2:entity/imp/imp_laugh2",
-      "path": "mvz2/sounds/entity/imp/imp_laugh2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/imp/imp_laugh2.wav"
     },
     {
       "id": "mvz2:entity/infectenser/parabot_tick",
-      "path": "mvz2/sounds/entity/infectenser/parabot_tick.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/infectenser/parabot_tick.wav"
     },
     {
       "id": "mvz2:entity/locked_chest/cough",
-      "path": "mvz2/sounds/entity/locked_chest/cough.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/locked_chest/cough.wav"
     },
     {
       "id": "mvz2:entity/locked_chest/death",
-      "path": "mvz2/sounds/entity/locked_chest/death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/locked_chest/death.wav"
     },
     {
       "id": "mvz2:entity/locked_chest/giggles1",
-      "path": "mvz2/sounds/entity/locked_chest/giggles1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/locked_chest/giggles1.wav"
     },
     {
       "id": "mvz2:entity/locked_chest/giggles2",
-      "path": "mvz2/sounds/entity/locked_chest/giggles2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/locked_chest/giggles2.wav"
     },
     {
       "id": "mvz2:entity/locked_chest/giggles3",
-      "path": "mvz2/sounds/entity/locked_chest/giggles3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/locked_chest/giggles3.wav"
     },
     {
       "id": "mvz2:entity/locked_chest/ouch",
-      "path": "mvz2/sounds/entity/locked_chest/ouch.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/locked_chest/ouch.wav"
     },
     {
       "id": "mvz2:entity/mummy/mummy1",
-      "path": "mvz2/sounds/entity/mummy/mummy1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/mummy/mummy1.wav"
     },
     {
       "id": "mvz2:entity/mummy/mummy2",
-      "path": "mvz2/sounds/entity/mummy/mummy2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/mummy/mummy2.wav"
     },
     {
       "id": "mvz2:entity/mummy/mummy3",
-      "path": "mvz2/sounds/entity/mummy/mummy3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/mummy/mummy3.wav"
     },
     {
       "id": "mvz2:entity/mummy/mummy_death",
-      "path": "mvz2/sounds/entity/mummy/mummy_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/mummy/mummy_death.wav"
     },
     {
       "id": "mvz2:entity/mutant_zombie/mutant_cry1",
-      "path": "mvz2/sounds/entity/mutant_zombie/mutant_cry1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/mutant_zombie/mutant_cry1.wav"
     },
     {
       "id": "mvz2:entity/mutant_zombie/mutant_cry2",
-      "path": "mvz2/sounds/entity/mutant_zombie/mutant_cry2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/mutant_zombie/mutant_cry2.wav"
     },
     {
       "id": "mvz2:entity/mutant_zombie/mutant_death",
-      "path": "mvz2/sounds/entity/mutant_zombie/mutant_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/mutant_zombie/mutant_death.wav"
     },
     {
       "id": "mvz2:entity/nightmareaper/nightmareaper_death",
-      "path": "mvz2/sounds/entity/nightmareaper/nightmareaper_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/nightmareaper/nightmareaper_death.wav"
     },
     {
       "id": "mvz2:entity/nightmareaper/nightmareaper_rage",
-      "path": "mvz2/sounds/entity/nightmareaper/nightmareaper_rage.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/nightmareaper/nightmareaper_rage.wav"
     },
     {
       "id": "mvz2:entity/nightmareaper/wheel_of_death_loop",
-      "path": "mvz2/sounds/entity/nightmareaper/wheel_of_death_loop.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/nightmareaper/wheel_of_death_loop.wav"
     },
     {
       "id": "mvz2:entity/nightmareaper/wheel_of_death_start",
-      "path": "mvz2/sounds/entity/nightmareaper/wheel_of_death_start.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/nightmareaper/wheel_of_death_start.wav"
     },
     {
       "id": "mvz2:entity/pot/pot_break1",
-      "path": "mvz2/sounds/entity/pot/pot_break1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/pot/pot_break1.wav"
     },
     {
       "id": "mvz2:entity/pot/pot_break2",
-      "path": "mvz2/sounds/entity/pot/pot_break2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/pot/pot_break2.wav"
     },
     {
       "id": "mvz2:entity/pot/pot_break3",
-      "path": "mvz2/sounds/entity/pot/pot_break3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/pot/pot_break3.wav"
     },
     {
       "id": "mvz2:entity/pot/pot_break4",
-      "path": "mvz2/sounds/entity/pot/pot_break4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/pot/pot_break4.wav"
     },
     {
       "id": "mvz2:entity/pot/pot_break5",
-      "path": "mvz2/sounds/entity/pot/pot_break5.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/pot/pot_break5.wav"
     },
     {
       "id": "mvz2:entity/skeleton/skeleton_cry1",
-      "path": "mvz2/sounds/entity/skeleton/skeleton_cry1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton/skeleton_cry1.wav"
     },
     {
       "id": "mvz2:entity/skeleton/skeleton_cry2",
-      "path": "mvz2/sounds/entity/skeleton/skeleton_cry2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton/skeleton_cry2.wav"
     },
     {
       "id": "mvz2:entity/skeleton/skeleton_cry3",
-      "path": "mvz2/sounds/entity/skeleton/skeleton_cry3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton/skeleton_cry3.wav"
     },
     {
       "id": "mvz2:entity/skeleton/skeleton_death",
-      "path": "mvz2/sounds/entity/skeleton/skeleton_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton/skeleton_death.wav"
     },
     {
       "id": "mvz2:entity/skeleton_horse/skeleton_horse1",
-      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse1.ogg"
     },
     {
       "id": "mvz2:entity/skeleton_horse/skeleton_horse2",
-      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse2.ogg"
     },
     {
       "id": "mvz2:entity/skeleton_horse/skeleton_horse3",
-      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse3.ogg"
     },
     {
       "id": "mvz2:entity/skeleton_horse/skeleton_horse_death",
-      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse_death.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/skeleton_horse/skeleton_horse_death.ogg"
     },
     {
       "id": "mvz2:entity/terror/parasitize",
-      "path": "mvz2/sounds/entity/terror/parasitize.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/terror/parasitize.wav"
     },
     {
       "id": "mvz2:entity/terror/terror_cry1",
-      "path": "mvz2/sounds/entity/terror/terror_cry1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/terror/terror_cry1.ogg"
     },
     {
       "id": "mvz2:entity/terror/terror_cry2",
-      "path": "mvz2/sounds/entity/terror/terror_cry2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/terror/terror_cry2.ogg"
     },
     {
       "id": "mvz2:entity/terror/terror_cry3",
-      "path": "mvz2/sounds/entity/terror/terror_cry3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/terror/terror_cry3.ogg"
     },
     {
       "id": "mvz2:entity/terror/terror_death",
-      "path": "mvz2/sounds/entity/terror/terror_death.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/terror/terror_death.ogg"
     },
     {
       "id": "mvz2:entity/totenser/fling",
-      "path": "mvz2/sounds/entity/totenser/fling.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/totenser/fling.wav"
     },
     {
       "id": "mvz2:entity/totenser/stone_hatch",
-      "path": "mvz2/sounds/entity/totenser/stone_hatch.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/totenser/stone_hatch.wav"
     },
     {
       "id": "mvz2:entity/wither/cry1",
-      "path": "mvz2/sounds/entity/wither/cry1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/cry1.ogg"
     },
     {
       "id": "mvz2:entity/wither/cry2",
-      "path": "mvz2/sounds/entity/wither/cry2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/cry2.ogg"
     },
     {
       "id": "mvz2:entity/wither/cry3",
-      "path": "mvz2/sounds/entity/wither/cry3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/cry3.ogg"
     },
     {
       "id": "mvz2:entity/wither/cry4",
-      "path": "mvz2/sounds/entity/wither/cry4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/cry4.ogg"
     },
     {
       "id": "mvz2:entity/wither/damage1",
-      "path": "mvz2/sounds/entity/wither/damage1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/damage1.ogg"
     },
     {
       "id": "mvz2:entity/wither/damage2",
-      "path": "mvz2/sounds/entity/wither/damage2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/damage2.ogg"
     },
     {
       "id": "mvz2:entity/wither/damage3",
-      "path": "mvz2/sounds/entity/wither/damage3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/damage3.ogg"
     },
     {
       "id": "mvz2:entity/wither/damage4",
-      "path": "mvz2/sounds/entity/wither/damage4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/damage4.ogg"
     },
     {
       "id": "mvz2:entity/wither/death",
-      "path": "mvz2/sounds/entity/wither/death.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/death.ogg"
     },
     {
       "id": "mvz2:entity/wither/shoot",
-      "path": "mvz2/sounds/entity/wither/shoot.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/shoot.ogg"
     },
     {
       "id": "mvz2:entity/wither/spawn",
-      "path": "mvz2/sounds/entity/wither/spawn.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither/spawn.ogg"
     },
     {
       "id": "mvz2:entity/wither_skeleton/wither_skeleton1",
-      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton1.wav"
     },
     {
       "id": "mvz2:entity/wither_skeleton/wither_skeleton2",
-      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton2.wav"
     },
     {
       "id": "mvz2:entity/wither_skeleton/wither_skeleton3",
-      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton3.wav"
     },
     {
       "id": "mvz2:entity/wither_skeleton/wither_skeleton_death",
-      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/wither_skeleton/wither_skeleton_death.wav"
     },
     {
       "id": "mvz2:entity/zombie/hurt1",
-      "path": "mvz2/sounds/entity/zombie/hurt1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie/hurt1.ogg"
     },
     {
       "id": "mvz2:entity/zombie/hurt2",
-      "path": "mvz2/sounds/entity/zombie/hurt2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie/hurt2.ogg"
     },
     {
       "id": "mvz2:entity/zombie/zombie_cry1",
-      "path": "mvz2/sounds/entity/zombie/zombie_cry1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie/zombie_cry1.wav"
     },
     {
       "id": "mvz2:entity/zombie/zombie_cry2",
-      "path": "mvz2/sounds/entity/zombie/zombie_cry2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie/zombie_cry2.wav"
     },
     {
       "id": "mvz2:entity/zombie/zombie_cry3",
-      "path": "mvz2/sounds/entity/zombie/zombie_cry3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie/zombie_cry3.wav"
     },
     {
       "id": "mvz2:entity/zombie/zombie_death",
-      "path": "mvz2/sounds/entity/zombie/zombie_death.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie/zombie_death.wav"
     },
     {
       "id": "mvz2:entity/zombie_cat/death1",
-      "path": "mvz2/sounds/entity/zombie_cat/death1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie_cat/death1.wav"
     },
     {
       "id": "mvz2:entity/zombie_cat/death2",
-      "path": "mvz2/sounds/entity/zombie_cat/death2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie_cat/death2.wav"
     },
     {
       "id": "mvz2:entity/zombie_cat/death3",
-      "path": "mvz2/sounds/entity/zombie_cat/death3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie_cat/death3.wav"
     },
     {
       "id": "mvz2:entity/zombie_cat/meow1",
-      "path": "mvz2/sounds/entity/zombie_cat/meow1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie_cat/meow1.wav"
     },
     {
       "id": "mvz2:entity/zombie_cat/meow2",
-      "path": "mvz2/sounds/entity/zombie_cat/meow2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie_cat/meow2.wav"
     },
     {
       "id": "mvz2:entity/zombie_cat/meow3",
-      "path": "mvz2/sounds/entity/zombie_cat/meow3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie_cat/meow3.wav"
     },
     {
       "id": "mvz2:entity/zombie_cat/meow4",
-      "path": "mvz2/sounds/entity/zombie_cat/meow4.wav",
-      "streaming": false
+      "path": "mvz2/sounds/entity/zombie_cat/meow4.wav"
     },
     {
       "id": "mvz2:random/candle/break1",
-      "path": "mvz2/sounds/random/candle/break1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/candle/break1.ogg"
     },
     {
       "id": "mvz2:random/candle/break2",
-      "path": "mvz2/sounds/random/candle/break2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/candle/break2.ogg"
     },
     {
       "id": "mvz2:random/candle/break3",
-      "path": "mvz2/sounds/random/candle/break3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/candle/break3.ogg"
     },
     {
       "id": "mvz2:random/candle/break4",
-      "path": "mvz2/sounds/random/candle/break4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/candle/break4.ogg"
     },
     {
       "id": "mvz2:random/candle/break5",
-      "path": "mvz2/sounds/random/candle/break5.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/candle/break5.ogg"
     },
     {
       "id": "mvz2:random/cloth/cloth1",
-      "path": "mvz2/sounds/random/cloth/cloth1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/cloth/cloth1.ogg"
     },
     {
       "id": "mvz2:random/cloth/cloth2",
-      "path": "mvz2/sounds/random/cloth/cloth2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/cloth/cloth2.ogg"
     },
     {
       "id": "mvz2:random/cloth/cloth3",
-      "path": "mvz2/sounds/random/cloth/cloth3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/cloth/cloth3.ogg"
     },
     {
       "id": "mvz2:random/cloth/cloth4",
-      "path": "mvz2/sounds/random/cloth/cloth4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/cloth/cloth4.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal1",
-      "path": "mvz2/sounds/random/crystal/crystal1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal1.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal2",
-      "path": "mvz2/sounds/random/crystal/crystal2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal2.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal3",
-      "path": "mvz2/sounds/random/crystal/crystal3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal3.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal4",
-      "path": "mvz2/sounds/random/crystal/crystal4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal4.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_break1",
-      "path": "mvz2/sounds/random/crystal/crystal_break1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_break1.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_break2",
-      "path": "mvz2/sounds/random/crystal/crystal_break2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_break2.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_break3",
-      "path": "mvz2/sounds/random/crystal/crystal_break3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_break3.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_break4",
-      "path": "mvz2/sounds/random/crystal/crystal_break4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_break4.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_place1",
-      "path": "mvz2/sounds/random/crystal/crystal_place1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_place1.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_place2",
-      "path": "mvz2/sounds/random/crystal/crystal_place2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_place2.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_place3",
-      "path": "mvz2/sounds/random/crystal/crystal_place3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_place3.ogg"
     },
     {
       "id": "mvz2:random/crystal/crystal_place4",
-      "path": "mvz2/sounds/random/crystal/crystal_place4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/crystal/crystal_place4.ogg"
     },
     {
       "id": "mvz2:random/gravel/break1",
-      "path": "mvz2/sounds/random/gravel/break1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/break1.ogg"
     },
     {
       "id": "mvz2:random/gravel/break2",
-      "path": "mvz2/sounds/random/gravel/break2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/break2.ogg"
     },
     {
       "id": "mvz2:random/gravel/break3",
-      "path": "mvz2/sounds/random/gravel/break3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/break3.ogg"
     },
     {
       "id": "mvz2:random/gravel/break4",
-      "path": "mvz2/sounds/random/gravel/break4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/break4.ogg"
     },
     {
       "id": "mvz2:random/gravel/hit1",
-      "path": "mvz2/sounds/random/gravel/hit1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/hit1.ogg"
     },
     {
       "id": "mvz2:random/gravel/hit2",
-      "path": "mvz2/sounds/random/gravel/hit2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/hit2.ogg"
     },
     {
       "id": "mvz2:random/gravel/hit3",
-      "path": "mvz2/sounds/random/gravel/hit3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/hit3.ogg"
     },
     {
       "id": "mvz2:random/gravel/hit4",
-      "path": "mvz2/sounds/random/gravel/hit4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/gravel/hit4.ogg"
     },
     {
       "id": "mvz2:random/iron/break1",
-      "path": "mvz2/sounds/random/iron/break1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break1.ogg"
     },
     {
       "id": "mvz2:random/iron/break2",
-      "path": "mvz2/sounds/random/iron/break2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break2.ogg"
     },
     {
       "id": "mvz2:random/iron/break3",
-      "path": "mvz2/sounds/random/iron/break3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break3.ogg"
     },
     {
       "id": "mvz2:random/iron/break4",
-      "path": "mvz2/sounds/random/iron/break4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break4.ogg"
     },
     {
       "id": "mvz2:random/iron/break5",
-      "path": "mvz2/sounds/random/iron/break5.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break5.ogg"
     },
     {
       "id": "mvz2:random/iron/break6",
-      "path": "mvz2/sounds/random/iron/break6.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break6.ogg"
     },
     {
       "id": "mvz2:random/iron/break7",
-      "path": "mvz2/sounds/random/iron/break7.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break7.ogg"
     },
     {
       "id": "mvz2:random/iron/break8",
-      "path": "mvz2/sounds/random/iron/break8.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/iron/break8.ogg"
     },
     {
       "id": "mvz2:random/netherrack/break1",
-      "path": "mvz2/sounds/random/netherrack/break1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/netherrack/break1.ogg"
     },
     {
       "id": "mvz2:random/netherrack/break2",
-      "path": "mvz2/sounds/random/netherrack/break2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/netherrack/break2.ogg"
     },
     {
       "id": "mvz2:random/netherrack/break3",
-      "path": "mvz2/sounds/random/netherrack/break3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/netherrack/break3.ogg"
     },
     {
       "id": "mvz2:random/netherrack/break4",
-      "path": "mvz2/sounds/random/netherrack/break4.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/netherrack/break4.ogg"
     },
     {
       "id": "mvz2:random/netherrack/break5",
-      "path": "mvz2/sounds/random/netherrack/break5.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/netherrack/break5.ogg"
     },
     {
       "id": "mvz2:random/netherrack/break6",
-      "path": "mvz2/sounds/random/netherrack/break6.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/random/netherrack/break6.ogg"
     },
     {
       "id": "mvz2:random/rock/crumble1",
-      "path": "mvz2/sounds/random/rock/crumble1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/rock/crumble1.wav"
     },
     {
       "id": "mvz2:random/rock/crumble2",
-      "path": "mvz2/sounds/random/rock/crumble2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/rock/crumble2.wav"
     },
     {
       "id": "mvz2:random/rock/crumble3",
-      "path": "mvz2/sounds/random/rock/crumble3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/random/rock/crumble3.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_crazy",
-      "path": "mvz2/sounds/talk/villager/villager_crazy.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_crazy.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_extra_long1",
-      "path": "mvz2/sounds/talk/villager/villager_extra_long1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_extra_long1.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_extra_long2",
-      "path": "mvz2/sounds/talk/villager/villager_extra_long2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_extra_long2.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_extra_long3",
-      "path": "mvz2/sounds/talk/villager/villager_extra_long3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_extra_long3.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_idle1",
-      "path": "mvz2/sounds/talk/villager/villager_idle1.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_idle1.ogg"
     },
     {
       "id": "mvz2:talk/villager/villager_idle2",
-      "path": "mvz2/sounds/talk/villager/villager_idle2.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_idle2.ogg"
     },
     {
       "id": "mvz2:talk/villager/villager_idle3",
-      "path": "mvz2/sounds/talk/villager/villager_idle3.ogg",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_idle3.ogg"
     },
     {
       "id": "mvz2:talk/villager/villager_long1",
-      "path": "mvz2/sounds/talk/villager/villager_long1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_long1.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_long2",
-      "path": "mvz2/sounds/talk/villager/villager_long2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_long2.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_long3",
-      "path": "mvz2/sounds/talk/villager/villager_long3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_long3.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_scream1",
-      "path": "mvz2/sounds/talk/villager/villager_scream1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_scream1.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_scream2",
-      "path": "mvz2/sounds/talk/villager/villager_scream2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_scream2.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_short1",
-      "path": "mvz2/sounds/talk/villager/villager_short1.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_short1.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_short2",
-      "path": "mvz2/sounds/talk/villager/villager_short2.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_short2.wav"
     },
     {
       "id": "mvz2:talk/villager/villager_short3",
-      "path": "mvz2/sounds/talk/villager/villager_short3.wav",
-      "streaming": false
+      "path": "mvz2/sounds/talk/villager/villager_short3.wav"
     }
   ],
   "sounds": [
