@@ -408,7 +408,8 @@
       "key": "mvz2:entity/effect/boom@en-US",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -417,7 +418,8 @@
       "key": "mvz2:entity/effect/pow@en-US",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3285,7 +3287,8 @@
       "key": "mvz2:mobile_blueprint/add_pearl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3294,7 +3297,8 @@
       "key": "mvz2:mobile_blueprint/amethyst_pylon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3303,7 +3307,8 @@
       "key": "mvz2:mobile_blueprint/anubisand",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3312,7 +3317,8 @@
       "key": "mvz2:mobile_blueprint/anvil",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3321,7 +3327,8 @@
       "key": "mvz2:mobile_blueprint/beacon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3330,7 +3337,8 @@
       "key": "mvz2:mobile_blueprint/bedserker",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3339,7 +3347,8 @@
       "key": "mvz2:mobile_blueprint/berserker",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3348,7 +3357,8 @@
       "key": "mvz2:mobile_blueprint/black_hole_bomb",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3357,7 +3367,8 @@
       "key": "mvz2:mobile_blueprint/brick_cannon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3366,7 +3377,8 @@
       "key": "mvz2:mobile_blueprint/cannonball_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3375,7 +3387,8 @@
       "key": "mvz2:mobile_blueprint/cannoneer_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3384,7 +3397,8 @@
       "key": "mvz2:mobile_blueprint/cave_spider",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3393,7 +3407,8 @@
       "key": "mvz2:mobile_blueprint/command_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3402,7 +3417,8 @@
       "key": "mvz2:mobile_blueprint/cooling_cell",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3411,7 +3427,8 @@
       "key": "mvz2:mobile_blueprint/cursed_candle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3420,7 +3437,8 @@
       "key": "mvz2:mobile_blueprint/desire_pot",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3429,7 +3447,8 @@
       "key": "mvz2:mobile_blueprint/devourer",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3438,7 +3457,8 @@
       "key": "mvz2:mobile_blueprint/diamond_helmetted_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3447,7 +3467,8 @@
       "key": "mvz2:mobile_blueprint/diamond_spikes",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3456,7 +3477,8 @@
       "key": "mvz2:mobile_blueprint/dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3465,7 +3487,8 @@
       "key": "mvz2:mobile_blueprint/dream_crystal",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3474,7 +3497,8 @@
       "key": "mvz2:mobile_blueprint/dream_silk",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3483,7 +3507,8 @@
       "key": "mvz2:mobile_blueprint/drivenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3492,7 +3517,8 @@
       "key": "mvz2:mobile_blueprint/dullahan",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3501,7 +3527,8 @@
       "key": "mvz2:mobile_blueprint/dullahan_head",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3510,7 +3537,8 @@
       "key": "mvz2:mobile_blueprint/elastic_cloud",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3519,7 +3547,8 @@
       "key": "mvz2:mobile_blueprint/emperor_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3528,7 +3557,8 @@
       "key": "mvz2:mobile_blueprint/error_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3537,7 +3567,8 @@
       "key": "mvz2:mobile_blueprint/firework_dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3546,7 +3577,8 @@
       "key": "mvz2:mobile_blueprint/flag_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3555,7 +3587,8 @@
       "key": "mvz2:mobile_blueprint/force_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3564,7 +3597,8 @@
       "key": "mvz2:mobile_blueprint/furnace",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3573,7 +3607,8 @@
       "key": "mvz2:mobile_blueprint/gargoyle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3582,7 +3617,8 @@
       "key": "mvz2:mobile_blueprint/ghast",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3591,7 +3627,8 @@
       "key": "mvz2:mobile_blueprint/ghost",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3600,7 +3637,8 @@
       "key": "mvz2:mobile_blueprint/giant_bowl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3609,7 +3647,8 @@
       "key": "mvz2:mobile_blueprint/glowstone",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3618,7 +3657,8 @@
       "key": "mvz2:mobile_blueprint/golden_apple",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3627,7 +3667,8 @@
       "key": "mvz2:mobile_blueprint/golden_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3636,7 +3677,8 @@
       "key": "mvz2:mobile_blueprint/gravelpult",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3645,7 +3687,8 @@
       "key": "mvz2:mobile_blueprint/gravity_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3654,7 +3697,8 @@
       "key": "mvz2:mobile_blueprint/gunpowder_barrel",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3663,7 +3707,8 @@
       "key": "mvz2:mobile_blueprint/hacker",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3672,7 +3717,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_flashbang",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3681,7 +3727,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_nuke",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3690,7 +3737,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_rapid",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3699,7 +3747,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_spread",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3708,7 +3757,8 @@
       "key": "mvz2:mobile_blueprint/hellfire",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3717,7 +3767,8 @@
       "key": "mvz2:mobile_blueprint/hell_chariot",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3726,7 +3777,8 @@
       "key": "mvz2:mobile_blueprint/high_frequency_pulse_dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3735,7 +3787,8 @@
       "key": "mvz2:mobile_blueprint/imp",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3744,7 +3797,8 @@
       "key": "mvz2:mobile_blueprint/infectenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3753,7 +3807,8 @@
       "key": "mvz2:mobile_blueprint/iron_helmetted_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3762,7 +3817,8 @@
       "key": "mvz2:mobile_blueprint/jeweled_pagoda",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3771,7 +3827,8 @@
       "key": "mvz2:mobile_blueprint/leather_capped_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3780,7 +3837,8 @@
       "key": "mvz2:mobile_blueprint/lengthen_board",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3789,7 +3847,8 @@
       "key": "mvz2:mobile_blueprint/lightning_orb",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3798,7 +3857,8 @@
       "key": "mvz2:mobile_blueprint/lily_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3807,7 +3867,8 @@
       "key": "mvz2:mobile_blueprint/locked_chest",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3816,7 +3877,8 @@
       "key": "mvz2:mobile_blueprint/magichest",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3825,7 +3887,8 @@
       "key": "mvz2:mobile_blueprint/mega_mutant_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3834,7 +3897,8 @@
       "key": "mvz2:mobile_blueprint/mesmerizer",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3843,7 +3907,8 @@
       "key": "mvz2:mobile_blueprint/mine_tnt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3852,7 +3917,8 @@
       "key": "mvz2:mobile_blueprint/monster_spawner",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3861,7 +3927,8 @@
       "key": "mvz2:mobile_blueprint/moonlight_sensor",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3870,7 +3937,8 @@
       "key": "mvz2:mobile_blueprint/mother_terror",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3879,7 +3947,8 @@
       "key": "mvz2:mobile_blueprint/mummy",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3888,7 +3957,8 @@
       "key": "mvz2:mobile_blueprint/mutant_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3897,7 +3967,8 @@
       "key": "mvz2:mobile_blueprint/necromancer",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3906,7 +3977,8 @@
       "key": "mvz2:mobile_blueprint/necrotombstone",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3915,7 +3987,8 @@
       "key": "mvz2:mobile_blueprint/nether_hunter",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3924,7 +3997,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3933,7 +4007,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage_fire",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3942,7 +4017,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage_frost",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3951,7 +4027,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage_lightning",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3960,7 +4037,8 @@
       "key": "mvz2:mobile_blueprint/nether_reactor_core",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3969,7 +4047,8 @@
       "key": "mvz2:mobile_blueprint/nightmareaper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3978,7 +4057,8 @@
       "key": "mvz2:mobile_blueprint/note_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3987,7 +4067,8 @@
       "key": "mvz2:mobile_blueprint/nuke",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3996,7 +4077,8 @@
       "key": "mvz2:mobile_blueprint/obsidian",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4005,7 +4087,8 @@
       "key": "mvz2:mobile_blueprint/parasite_terror",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4014,7 +4097,8 @@
       "key": "mvz2:mobile_blueprint/pistenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4023,7 +4107,8 @@
       "key": "mvz2:mobile_blueprint/pop_captain",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4032,7 +4117,8 @@
       "key": "mvz2:mobile_blueprint/punchton",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4041,7 +4127,8 @@
       "key": "mvz2:mobile_blueprint/random_china",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4050,7 +4137,8 @@
       "key": "mvz2:mobile_blueprint/red_dragon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4059,7 +4147,8 @@
       "key": "mvz2:mobile_blueprint/reflective_barrier_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4068,7 +4157,8 @@
       "key": "mvz2:mobile_blueprint/repeatenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4077,7 +4167,8 @@
       "key": "mvz2:mobile_blueprint/return_pearl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4086,7 +4177,8 @@
       "key": "mvz2:mobile_blueprint/reverse_satellite",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4095,7 +4187,8 @@
       "key": "mvz2:mobile_blueprint/seija",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4104,7 +4197,8 @@
       "key": "mvz2:mobile_blueprint/seija_cursed_doll",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4113,7 +4207,8 @@
       "key": "mvz2:mobile_blueprint/shadow_cell",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4122,7 +4217,8 @@
       "key": "mvz2:mobile_blueprint/shikaisen_staff",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4131,7 +4227,8 @@
       "key": "mvz2:mobile_blueprint/shikaisen_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4140,7 +4237,8 @@
       "key": "mvz2:mobile_blueprint/silvenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4149,7 +4247,8 @@
       "key": "mvz2:mobile_blueprint/skeleton",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4158,7 +4257,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_horse",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4167,7 +4267,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4176,7 +4277,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_fire",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4185,7 +4287,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_frost",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4194,7 +4297,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_lightning",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4203,7 +4307,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_statue",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4212,7 +4317,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_warrior",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4221,7 +4327,8 @@
       "key": "mvz2:mobile_blueprint/skyward_beacon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4230,7 +4337,8 @@
       "key": "mvz2:mobile_blueprint/slenderman",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4239,7 +4347,8 @@
       "key": "mvz2:mobile_blueprint/small_dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4248,7 +4357,8 @@
       "key": "mvz2:mobile_blueprint/snipenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4257,7 +4367,8 @@
       "key": "mvz2:mobile_blueprint/soulsand",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4266,7 +4377,8 @@
       "key": "mvz2:mobile_blueprint/soul_furnace",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4275,7 +4387,8 @@
       "key": "mvz2:mobile_blueprint/spider",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4284,7 +4397,8 @@
       "key": "mvz2:mobile_blueprint/spike_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4293,7 +4407,8 @@
       "key": "mvz2:mobile_blueprint/splitenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4302,7 +4417,8 @@
       "key": "mvz2:mobile_blueprint/stone_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4311,7 +4427,8 @@
       "key": "mvz2:mobile_blueprint/stone_eye",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4320,7 +4437,8 @@
       "key": "mvz2:mobile_blueprint/stone_shield",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4329,7 +4447,8 @@
       "key": "mvz2:mobile_blueprint/talisman_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4338,7 +4457,8 @@
       "key": "mvz2:mobile_blueprint/tesla_coil",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4347,7 +4467,8 @@
       "key": "mvz2:mobile_blueprint/the_giant",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4356,7 +4477,8 @@
       "key": "mvz2:mobile_blueprint/thunder_drum",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4365,7 +4487,8 @@
       "key": "mvz2:mobile_blueprint/tnt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4374,7 +4497,8 @@
       "key": "mvz2:mobile_blueprint/totenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4383,7 +4507,8 @@
       "key": "mvz2:mobile_blueprint/transfenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4392,7 +4517,8 @@
       "key": "mvz2:mobile_blueprint/triplenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4401,7 +4527,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4410,7 +4537,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_blue",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4419,7 +4547,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_green",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4428,7 +4557,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_rainbow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4437,7 +4567,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_red",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4446,7 +4577,8 @@
       "key": "mvz2:mobile_blueprint/vortex_hopper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4455,7 +4587,8 @@
       "key": "mvz2:mobile_blueprint/wicked_hermit_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4464,7 +4597,8 @@
       "key": "mvz2:mobile_blueprint/wisp_fly",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4473,7 +4607,8 @@
       "key": "mvz2:mobile_blueprint/wither",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4482,7 +4617,8 @@
       "key": "mvz2:mobile_blueprint/wooden_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4491,7 +4627,8 @@
       "key": "mvz2:mobile_blueprint/wooden_fan",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4500,7 +4637,8 @@
       "key": "mvz2:mobile_blueprint/zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4509,7 +4647,8 @@
       "key": "mvz2:mobile_blueprint/zombie_cat",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4518,7 +4657,8 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4527,7 +4667,8 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud_snow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4536,7 +4677,8 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud_thunder",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -5647,7 +5789,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -5657,7 +5800,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -5667,17 +5811,20 @@
       "slices": [
         {
           "width": 61,
-          "height": 36
+          "height": 36,
+          "fullRect": true
         },
         {
           "x": 62,
           "width": 61,
-          "height": 36
+          "height": 36,
+          "fullRect": true
         },
         {
           "x": 124,
           "width": 61,
-          "height": 36
+          "height": 36,
+          "fullRect": true
         }
       ]
     },
@@ -5687,17 +5834,20 @@
       "slices": [
         {
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         },
         {
           "y": 15,
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         },
         {
           "y": 30,
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         }
       ]
     },
@@ -5707,7 +5857,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 0.166666687
+          "pivotY": 0.166666687,
+          "fullRect": true
         }
       ]
     },
@@ -5719,14 +5870,16 @@
           "width": 21,
           "height": 32,
           "pivotX": 0.04761905,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 22,
           "width": 21,
           "height": 32,
           "pivotX": 0.04761905,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -5736,17 +5889,20 @@
       "slices": [
         {
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         },
         {
           "y": 15,
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         },
         {
           "y": 30,
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         }
       ]
     },
@@ -5756,17 +5912,20 @@
       "slices": [
         {
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         },
         {
           "y": 15,
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         },
         {
           "y": 30,
           "width": 33,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         }
       ]
     },
@@ -5776,7 +5935,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -5785,7 +5945,8 @@
       "key": "mvz2:entity/armor/pop_captain_cap",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -5795,17 +5956,20 @@
       "slices": [
         {
           "width": 18,
-          "height": 113
+          "height": 113,
+          "fullRect": true
         },
         {
           "x": 19,
           "width": 18,
-          "height": 113
+          "height": 113,
+          "fullRect": true
         },
         {
           "x": 38,
           "width": 18,
-          "height": 113
+          "height": 113,
+          "fullRect": true
         }
       ]
     },
@@ -5815,17 +5979,20 @@
       "slices": [
         {
           "width": 33,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         },
         {
           "x": 34,
           "width": 33,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         },
         {
           "x": 68,
           "width": 33,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         }
       ]
     },
@@ -5835,51 +6002,60 @@
       "slices": [
         {
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 256,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "y": 64,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 256,
           "y": 64,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 128,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "y": 128,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 256,
           "y": 128,
           "width": 128,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -5889,7 +6065,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -6628,7 +6805,8 @@
       "key": "mvz2:entity/cart/ballista_body",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -6637,7 +6815,8 @@
       "key": "mvz2:entity/cart/ballista_reel",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -6647,12 +6826,14 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -6661,7 +6842,8 @@
       "key": "mvz2:entity/cart/corpse_cart",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -6670,7 +6852,8 @@
       "key": "mvz2:entity/cart/minecart",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -6681,85 +6864,98 @@
         {
           "width": 56,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 57,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 112,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 167,
           "width": 52,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "y": 39,
           "width": 56,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 57,
           "y": 39,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 112,
           "y": 39,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 167,
           "y": 39,
           "width": 52,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "y": 78,
           "width": 56,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 57,
           "y": 78,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 112,
           "y": 78,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 167,
           "y": 78,
           "width": 52,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "y": 117,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -6769,34 +6965,40 @@
       "slices": [
         {
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 69,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 138,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "y": 43,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 69,
           "y": 43,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 138,
           "y": 43,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         }
       ]
     },
@@ -6806,34 +7008,40 @@
       "slices": [
         {
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 69,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 138,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "y": 43,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 69,
           "y": 43,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 138,
           "y": 43,
           "width": 68,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         }
       ]
     },
@@ -6842,7 +7050,8 @@
       "key": "mvz2:entity/cart/pool_cleaner",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -6851,7 +7060,8 @@
       "key": "mvz2:entity/cart/pumpkin_carriage",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -6862,85 +7072,98 @@
         {
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 55,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 110,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 165,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "y": 39,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 55,
           "y": 39,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 110,
           "y": 39,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 165,
           "y": 39,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "y": 78,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 55,
           "y": 78,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 110,
           "y": 78,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 165,
           "y": 78,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "y": 117,
           "width": 54,
           "height": 38,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -6949,7 +7172,8 @@
       "key": "mvz2:entity/cart/unzan_fist",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -6959,41 +7183,48 @@
       "slices": [
         {
           "width": 44,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 45,
           "width": 44,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "y": 81,
           "width": 46,
-          "height": 38
+          "height": 38,
+          "fullRect": true
         },
         {
           "x": 47,
           "y": 81,
           "width": 8,
-          "height": 39
+          "height": 39,
+          "fullRect": true
         },
         {
           "x": 56,
           "y": 81,
           "width": 8,
-          "height": 13
+          "height": 13,
+          "fullRect": true
         },
         {
           "x": 65,
           "y": 81,
           "width": 6,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         },
         {
           "x": 72,
           "y": 81,
           "width": 6,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         }
       ]
     },
@@ -7003,17 +7234,20 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7023,12 +7257,14 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7037,7 +7273,8 @@
       "key": "mvz2:entity/contraption/black_hole_bomb",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7047,34 +7284,40 @@
       "slices": [
         {
           "width": 129,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 130,
           "width": 7,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 43,
           "width": 134,
-          "height": 20
+          "height": 20,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 30,
-          "height": 30
+          "height": 30,
+          "fullRect": true
         },
         {
           "x": 31,
           "y": 64,
           "width": 19,
-          "height": 19
+          "height": 19,
+          "fullRect": true
         },
         {
           "x": 51,
           "y": 64,
           "width": 60,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         }
       ]
     },
@@ -7086,35 +7329,40 @@
           "width": 42,
           "height": 11,
           "pivotX": 0.9285714,
-          "pivotY": 0.5454545
+          "pivotY": 0.5454545,
+          "fullRect": true
         },
         {
           "y": 12,
           "width": 42,
           "height": 11,
           "pivotX": 0.9285714,
-          "pivotY": 0.5454545
+          "pivotY": 0.5454545,
+          "fullRect": true
         },
         {
           "y": 24,
           "width": 42,
           "height": 11,
           "pivotX": 0.9285714,
-          "pivotY": 0.5454545
+          "pivotY": 0.5454545,
+          "fullRect": true
         },
         {
           "y": 36,
           "width": 42,
           "height": 11,
           "pivotX": 0.9285714,
-          "pivotY": 0.5454545
+          "pivotY": 0.5454545,
+          "fullRect": true
         },
         {
           "y": 48,
           "width": 42,
           "height": 11,
           "pivotX": 0.9285714,
-          "pivotY": 0.5454545
+          "pivotY": 0.5454545,
+          "fullRect": true
         }
       ]
     },
@@ -7124,17 +7372,20 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7143,7 +7394,8 @@
       "key": "mvz2:entity/contraption/cooling_cell",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7153,19 +7405,22 @@
       "slices": [
         {
           "width": 12,
-          "height": 48
+          "height": 48,
+          "fullRect": true
         },
         {
           "x": 17,
           "y": 21,
           "width": 42,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         },
         {
           "x": 13,
           "y": 30,
           "width": 50,
-          "height": 18
+          "height": 18,
+          "fullRect": true
         }
       ]
     },
@@ -7175,34 +7430,40 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7211,7 +7472,8 @@
       "key": "mvz2:entity/contraption/devourer",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7222,19 +7484,22 @@
         {
           "width": 53,
           "height": 13,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 54,
           "width": 9,
           "height": 24,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 59,
           "height": 13,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -7244,12 +7509,14 @@
       "slices": [
         {
           "width": 40,
-          "height": 38
+          "height": 38,
+          "fullRect": true
         },
         {
           "x": 41,
           "width": 15,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         }
       ]
     },
@@ -7260,21 +7527,24 @@
         {
           "width": 26,
           "height": 30,
-          "pivotY": 0.566666663
+          "pivotY": 0.566666663,
+          "fullRect": true
         },
         {
           "x": 27,
           "width": 1,
           "height": 9,
           "pivotX": 1.0,
-          "pivotY": 0.8888889
+          "pivotY": 0.8888889,
+          "fullRect": true
         },
         {
           "x": 29,
           "width": 1,
           "height": 5,
           "pivotX": 0.0,
-          "pivotY": 0.8
+          "pivotY": 0.8,
+          "fullRect": true
         }
       ]
     },
@@ -7284,17 +7554,20 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 65,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 130,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7303,7 +7576,8 @@
       "key": "mvz2:entity/contraption/dream_crystal_supernatural",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7312,7 +7586,8 @@
       "key": "mvz2:entity/contraption/dream_rainbow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7321,7 +7596,8 @@
       "key": "mvz2:entity/contraption/dream_silk",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7331,12 +7607,14 @@
       "slices": [
         {
           "width": 40,
-          "height": 38
+          "height": 38,
+          "fullRect": true
         },
         {
           "x": 41,
           "width": 15,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         }
       ]
     },
@@ -7350,7 +7628,8 @@
           "borderLeft": 2,
           "borderBottom": 2,
           "borderRight": 2,
-          "borderTop": 2
+          "borderTop": 2,
+          "fullRect": true
         }
       ]
     },
@@ -7360,27 +7639,32 @@
       "slices": [
         {
           "width": 23,
-          "height": 23
+          "height": 23,
+          "fullRect": true
         },
         {
           "x": 24,
           "width": 23,
-          "height": 23
+          "height": 23,
+          "fullRect": true
         },
         {
           "x": 48,
           "width": 23,
-          "height": 23
+          "height": 23,
+          "fullRect": true
         },
         {
           "x": 72,
           "width": 23,
-          "height": 23
+          "height": 23,
+          "fullRect": true
         },
         {
           "x": 96,
           "width": 23,
-          "height": 23
+          "height": 23,
+          "fullRect": true
         }
       ]
     },
@@ -7390,17 +7674,20 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7409,7 +7696,8 @@
       "key": "mvz2:entity/contraption/error_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7419,12 +7707,14 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7434,23 +7724,27 @@
       "slices": [
         {
           "width": 64,
-          "height": 34
+          "height": 34,
+          "fullRect": true
         },
         {
           "x": 65,
           "width": 64,
-          "height": 34
+          "height": 34,
+          "fullRect": true
         },
         {
           "y": 35,
           "width": 64,
-          "height": 34
+          "height": 34,
+          "fullRect": true
         },
         {
           "x": 65,
           "y": 35,
           "width": 64,
-          "height": 34
+          "height": 34,
+          "fullRect": true
         }
       ]
     },
@@ -7460,12 +7754,14 @@
       "slices": [
         {
           "width": 72,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 73,
           "width": 72,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         }
       ]
     },
@@ -7474,7 +7770,8 @@
       "key": "mvz2:entity/contraption/force_wave",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7484,23 +7781,27 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7509,7 +7810,8 @@
       "key": "mvz2:entity/contraption/giant_bowl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7518,7 +7820,8 @@
       "key": "mvz2:entity/contraption/giant_bowl_point",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7527,7 +7830,8 @@
       "key": "mvz2:entity/contraption/glowstone",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7536,7 +7840,8 @@
       "key": "mvz2:entity/contraption/golden_apple",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7545,7 +7850,8 @@
       "key": "mvz2:entity/contraption/golden_apple_halo",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7554,7 +7860,8 @@
       "key": "mvz2:entity/contraption/golden_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7564,12 +7871,14 @@
       "slices": [
         {
           "width": 39,
-          "height": 35
+          "height": 35,
+          "fullRect": true
         },
         {
           "y": 36,
           "width": 15,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         }
       ]
     },
@@ -7578,7 +7887,8 @@
       "key": "mvz2:entity/contraption/gravity_force",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7587,7 +7897,8 @@
       "key": "mvz2:entity/contraption/gravity_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7597,12 +7908,14 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7611,7 +7924,8 @@
       "key": "mvz2:entity/contraption/halo",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7621,12 +7935,14 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7636,28 +7952,33 @@
       "slices": [
         {
           "width": 43,
-          "height": 39
+          "height": 39,
+          "fullRect": true
         },
         {
           "x": 88,
           "width": 15,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "x": 104,
           "width": 16,
-          "height": 9
+          "height": 9,
+          "fullRect": true
         },
         {
           "x": 104,
           "y": 10,
           "width": 16,
-          "height": 9
+          "height": 9,
+          "fullRect": true
         },
         {
           "x": 44,
           "width": 43,
-          "height": 39
+          "height": 39,
+          "fullRect": true
         }
       ]
     },
@@ -7666,7 +7987,8 @@
       "key": "mvz2:entity/contraption/infectenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7675,7 +7997,8 @@
       "key": "mvz2:entity/contraption/jeweled_pagoda",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7685,22 +8008,26 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 192,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7709,7 +8036,8 @@
       "key": "mvz2:entity/contraption/lily_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7719,56 +8047,66 @@
       "slices": [
         {
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 19,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 38,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 57,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "y": 15,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 19,
           "y": 15,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 38,
           "y": 15,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 57,
           "y": 15,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "y": 30,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 19,
           "y": 30,
           "width": 19,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         }
       ]
     },
@@ -7778,46 +8116,54 @@
       "slices": [
         {
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         },
         {
           "x": 77,
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         },
         {
           "y": 83,
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         },
         {
           "x": 77,
           "y": 83,
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         },
         {
           "x": 154,
           "y": 83,
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         },
         {
           "y": 166,
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         },
         {
           "x": 77,
           "y": 166,
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         },
         {
           "x": 154,
           "y": 166,
           "width": 77,
-          "height": 83
+          "height": 83,
+          "fullRect": true
         }
       ]
     },
@@ -7826,7 +8172,8 @@
       "key": "mvz2:entity/contraption/magichest_flash",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7836,34 +8183,40 @@
       "slices": [
         {
           "width": 23,
-          "height": 10
+          "height": 10,
+          "fullRect": true
         },
         {
           "x": 24,
           "width": 32,
-          "height": 10
+          "height": 10,
+          "fullRect": true
         },
         {
           "x": 57,
           "width": 32,
-          "height": 10
+          "height": 10,
+          "fullRect": true
         },
         {
           "x": 90,
           "y": 1,
           "width": 41,
-          "height": 9
+          "height": 9,
+          "fullRect": true
         },
         {
           "y": 12,
           "width": 45,
-          "height": 9
+          "height": 9,
+          "fullRect": true
         },
         {
           "x": 46,
           "y": 12,
           "width": 55,
-          "height": 9
+          "height": 9,
+          "fullRect": true
         }
       ]
     },
@@ -7873,27 +8226,32 @@
       "slices": [
         {
           "width": 50,
-          "height": 33
+          "height": 33,
+          "fullRect": true
         },
         {
           "y": 33,
           "width": 50,
-          "height": 33
+          "height": 33,
+          "fullRect": true
         },
         {
           "y": 66,
           "width": 50,
-          "height": 33
+          "height": 33,
+          "fullRect": true
         },
         {
           "y": 99,
           "width": 50,
-          "height": 33
+          "height": 33,
+          "fullRect": true
         },
         {
           "y": 132,
           "width": 50,
-          "height": 33
+          "height": 33,
+          "fullRect": true
         }
       ]
     },
@@ -7902,7 +8260,8 @@
       "key": "mvz2:entity/contraption/necrotombstone",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7911,7 +8270,8 @@
       "key": "mvz2:entity/contraption/nether_reactor_core",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7922,13 +8282,15 @@
         {
           "width": 42,
           "height": 43,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 44,
           "width": 34,
           "height": 7,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -7938,12 +8300,14 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7952,7 +8316,8 @@
       "key": "mvz2:entity/contraption/nuke",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -7962,34 +8327,40 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -7999,40 +8370,47 @@
       "slices": [
         {
           "width": 40,
-          "height": 38
+          "height": 38,
+          "fullRect": true
         },
         {
           "x": 41,
           "width": 15,
-          "height": 19
+          "height": 19,
+          "fullRect": true
         },
         {
           "x": 57,
           "width": 15,
-          "height": 19
+          "height": 19,
+          "fullRect": true
         },
         {
           "x": 41,
           "y": 20,
           "width": 15,
-          "height": 18
+          "height": 18,
+          "fullRect": true
         },
         {
           "x": 57,
           "y": 20,
           "width": 12,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 57,
           "y": 26,
           "width": 12,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "y": 39,
           "width": 40,
-          "height": 12
+          "height": 12,
+          "fullRect": true
         }
       ]
     },
@@ -8042,7 +8420,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         }
       ]
     },
@@ -8051,7 +8430,8 @@
       "key": "mvz2:entity/contraption/pressure_plate",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8061,17 +8441,20 @@
       "slices": [
         {
           "width": 49,
-          "height": 57
+          "height": 57,
+          "fullRect": true
         },
         {
           "x": 50,
           "width": 27,
-          "height": 57
+          "height": 57,
+          "fullRect": true
         },
         {
           "x": 78,
           "width": 43,
-          "height": 57
+          "height": 57,
+          "fullRect": true
         }
       ]
     },
@@ -8081,7 +8464,8 @@
       "slices": [
         {
           "single": true,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -8091,17 +8475,20 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -8111,12 +8498,14 @@
       "slices": [
         {
           "width": 40,
-          "height": 41
+          "height": 41,
+          "fullRect": true
         },
         {
           "x": 41,
           "width": 15,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         }
       ]
     },
@@ -8126,12 +8515,14 @@
       "slices": [
         {
           "width": 40,
-          "height": 38
+          "height": 38,
+          "fullRect": true
         },
         {
           "x": 41,
           "width": 15,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         }
       ]
     },
@@ -8141,23 +8532,27 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -8167,137 +8562,161 @@
       "slices": [
         {
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 45,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 90,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 135,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 180,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 225,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "y": 43,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 45,
           "y": 43,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 90,
           "y": 43,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 135,
           "y": 43,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 180,
           "y": 43,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 225,
           "y": 43,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "y": 86,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 45,
           "y": 86,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 90,
           "y": 86,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 135,
           "y": 86,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 180,
           "y": 86,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 225,
           "y": 86,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "y": 129,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 45,
           "y": 129,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 90,
           "y": 129,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 135,
           "y": 129,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 180,
           "y": 129,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 225,
           "y": 129,
           "width": 44,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         }
       ]
     },
@@ -8306,7 +8725,8 @@
       "key": "mvz2:entity/contraption/snipenser_pillar",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8315,7 +8735,8 @@
       "key": "mvz2:entity/contraption/soul_furnace",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8324,7 +8745,8 @@
       "key": "mvz2:entity/contraption/soul_furnace_light",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8334,7 +8756,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -8344,12 +8767,14 @@
       "slices": [
         {
           "width": 62,
-          "height": 40
+          "height": 40,
+          "fullRect": true
         },
         {
           "x": 63,
           "width": 15,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         }
       ]
     },
@@ -8358,7 +8783,8 @@
       "key": "mvz2:entity/contraption/stone_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8368,17 +8794,20 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -8387,7 +8816,8 @@
       "key": "mvz2:entity/contraption/stone_eye_ray",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8397,23 +8827,27 @@
       "slices": [
         {
           "width": 80,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 81,
           "width": 80,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 65,
           "width": 80,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 81,
           "y": 65,
           "width": 80,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -8424,55 +8858,64 @@
         {
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 65,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 130,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 195,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 260,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 325,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 390,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 455,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         },
         {
           "x": 520,
           "width": 64,
           "height": 128,
-          "pivotY": 0.75
+          "pivotY": 0.75,
+          "fullRect": true
         }
       ]
     },
@@ -8482,18 +8925,21 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
           "height": 64,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         }
       ]
     },
@@ -8502,7 +8948,8 @@
       "key": "mvz2:entity/contraption/tnt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8512,37 +8959,43 @@
       "slices": [
         {
           "width": 49,
-          "height": 51
+          "height": 51,
+          "fullRect": true
         },
         {
           "x": 50,
           "width": 42,
-          "height": 42
+          "height": 42,
+          "fullRect": true
         },
         {
           "x": 93,
           "y": 11,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "y": 52,
           "width": 37,
           "height": 9,
           "pivotX": 0.972973,
-          "pivotY": 0.7777778
+          "pivotY": 0.7777778,
+          "fullRect": true
         },
         {
           "x": 52,
           "y": 43,
           "width": 29,
-          "height": 29
+          "height": 29,
+          "fullRect": true
         },
         {
           "x": 93,
           "width": 3,
           "height": 10,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 93,
@@ -8550,13 +9003,15 @@
           "width": 3,
           "height": 8,
           "pivotX": 0.333333343,
-          "pivotY": 0.875
+          "pivotY": 0.875,
+          "fullRect": true
         },
         {
           "x": 82,
           "y": 43,
           "width": 7,
-          "height": 3
+          "height": 3,
+          "fullRect": true
         }
       ]
     },
@@ -8566,31 +9021,36 @@
       "slices": [
         {
           "width": 40,
-          "height": 38
+          "height": 38,
+          "fullRect": true
         },
         {
           "x": 41,
           "width": 29,
-          "height": 10
+          "height": 10,
+          "fullRect": true
         },
         {
           "x": 41,
           "y": 11,
           "width": 12,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         },
         {
           "x": 54,
           "y": 11,
           "width": 12,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         },
         {
           "x": 71,
           "width": 5,
           "height": 31,
           "borderBottom": 4,
-          "borderTop": 4
+          "borderTop": 4,
+          "fullRect": true
         },
         {
           "x": 1,
@@ -8598,7 +9058,8 @@
           "width": 15,
           "height": 31,
           "pivotX": 0.333333343,
-          "pivotY": 0.5806452
+          "pivotY": 0.5806452,
+          "fullRect": true
         },
         {
           "x": 17,
@@ -8606,7 +9067,8 @@
           "width": 23,
           "height": 31,
           "pivotX": 0.4347826,
-          "pivotY": 0.516129
+          "pivotY": 0.516129,
+          "fullRect": true
         },
         {
           "x": 41,
@@ -8614,14 +9076,16 @@
           "width": 27,
           "height": 27,
           "pivotX": 0.444444448,
-          "pivotY": 0.5555556
+          "pivotY": 0.5555556,
+          "fullRect": true
         },
         {
           "y": 71,
           "width": 30,
           "height": 22,
           "pivotX": 0.433333367,
-          "pivotY": 0.590909
+          "pivotY": 0.590909,
+          "fullRect": true
         },
         {
           "x": 31,
@@ -8629,7 +9093,8 @@
           "width": 31,
           "height": 15,
           "pivotX": 0.419354826,
-          "pivotY": 0.6666666
+          "pivotY": 0.6666666,
+          "fullRect": true
         },
         {
           "x": 41,
@@ -8638,13 +9103,15 @@
           "height": 9,
           "pivotX": 0.0,
           "borderLeft": 5,
-          "borderRight": 8
+          "borderRight": 8,
+          "fullRect": true
         },
         {
           "x": 41,
           "y": 29,
           "width": 13,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         }
       ]
     },
@@ -8656,12 +9123,14 @@
           "width": 31,
           "height": 29,
           "pivotX": 0.483870953,
-          "pivotY": 0.517241359
+          "pivotY": 0.517241359,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 9,
-          "height": 23
+          "height": 23,
+          "fullRect": true
         }
       ]
     },
@@ -8671,23 +9140,27 @@
       "slices": [
         {
           "width": 50,
-          "height": 46
+          "height": 46,
+          "fullRect": true
         },
         {
           "x": 50,
           "width": 50,
-          "height": 46
+          "height": 46,
+          "fullRect": true
         },
         {
           "y": 46,
           "width": 50,
-          "height": 46
+          "height": 46,
+          "fullRect": true
         },
         {
           "x": 50,
           "y": 46,
           "width": 50,
-          "height": 46
+          "height": 46,
+          "fullRect": true
         }
       ]
     },
@@ -8696,7 +9169,8 @@
       "key": "mvz2:entity/contraption/wooden_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8706,23 +9180,27 @@
       "slices": [
         {
           "width": 18,
-          "height": 4
+          "height": 4,
+          "fullRect": true
         },
         {
           "y": 5,
           "width": 12,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 19,
           "width": 18,
-          "height": 18
+          "height": 18,
+          "fullRect": true
         },
         {
           "x": 13,
           "y": 5,
           "width": 4,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -8731,7 +9209,8 @@
       "key": "mvz2:entity/effect/absorb_line",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8740,7 +9219,8 @@
       "key": "mvz2:entity/effect/aim_target",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8749,7 +9229,8 @@
       "key": "mvz2:entity/effect/aura",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8759,22 +9240,26 @@
       "slices": [
         {
           "width": 39,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         },
         {
           "y": 8,
           "width": 39,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         },
         {
           "y": 16,
           "width": 39,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         },
         {
           "y": 24,
           "width": 39,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         }
       ]
     },
@@ -8783,7 +9268,8 @@
       "key": "mvz2:entity/effect/blackhole_core",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8792,7 +9278,8 @@
       "key": "mvz2:entity/effect/blackhole_ring",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8801,7 +9288,8 @@
       "key": "mvz2:entity/effect/blackhole_star",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8810,7 +9298,8 @@
       "key": "mvz2:entity/effect/blackhole_vortex",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8819,7 +9308,8 @@
       "key": "mvz2:entity/effect/boat_item",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8828,7 +9318,8 @@
       "key": "mvz2:entity/effect/boom",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8837,7 +9328,8 @@
       "key": "mvz2:entity/effect/breakout_board",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8846,7 +9338,8 @@
       "key": "mvz2:entity/effect/breakout_board_long",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8855,7 +9348,8 @@
       "key": "mvz2:entity/effect/camera_frame",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8864,7 +9358,8 @@
       "key": "mvz2:entity/effect/combat_trail_punch",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8873,7 +9368,8 @@
       "key": "mvz2:entity/effect/combat_trail_smash",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8882,7 +9378,8 @@
       "key": "mvz2:entity/effect/combat_trail_uppercut",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8891,7 +9388,8 @@
       "key": "mvz2:entity/effect/combat_trail_wave",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8900,7 +9398,8 @@
       "key": "mvz2:entity/effect/dark_hole_circle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8909,7 +9408,8 @@
       "key": "mvz2:entity/effect/desire_lump",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8918,7 +9418,8 @@
       "key": "mvz2:entity/effect/diamond_spike_particles",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8928,12 +9429,14 @@
       "slices": [
         {
           "width": 8,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         },
         {
           "x": 8,
           "width": 8,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         }
       ]
     },
@@ -8943,12 +9446,14 @@
       "slices": [
         {
           "width": 8,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         },
         {
           "x": 8,
           "width": 8,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         }
       ]
     },
@@ -8957,7 +9462,8 @@
       "key": "mvz2:entity/effect/evil_soul",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8966,7 +9472,8 @@
       "key": "mvz2:entity/effect/evocation_star",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -8976,91 +9483,107 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 96,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 96,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 96,
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 96,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 96,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 96,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 96,
           "y": 96,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -9070,45 +9593,53 @@
       "slices": [
         {
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 48,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 16,
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 48,
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         }
       ]
     },
@@ -9117,7 +9648,8 @@
       "key": "mvz2:entity/effect/fire_particle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9126,7 +9658,8 @@
       "key": "mvz2:entity/effect/flash",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9136,22 +9669,26 @@
       "slices": [
         {
           "width": 13,
-          "height": 11
+          "height": 11,
+          "fullRect": true
         },
         {
           "x": 14,
           "width": 13,
-          "height": 17
+          "height": 17,
+          "fullRect": true
         },
         {
           "x": 28,
           "width": 22,
-          "height": 19
+          "height": 19,
+          "fullRect": true
         },
         {
           "x": 51,
           "width": 25,
-          "height": 27
+          "height": 27,
+          "fullRect": true
         }
       ]
     },
@@ -9161,22 +9698,26 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 96,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -9185,7 +9726,8 @@
       "key": "mvz2:entity/effect/fragment",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9194,7 +9736,8 @@
       "key": "mvz2:entity/effect/frankenstein_jump_trail",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9203,7 +9746,8 @@
       "key": "mvz2:entity/effect/gas_diffusion",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9212,7 +9756,8 @@
       "key": "mvz2:entity/effect/heart_particle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9222,12 +9767,14 @@
       "slices": [
         {
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 80,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         }
       ]
     },
@@ -9238,22 +9785,26 @@
         {
           "y": 98,
           "width": 92,
-          "height": 75
+          "height": 75,
+          "fullRect": true
         },
         {
           "width": 92,
-          "height": 97
+          "height": 97,
+          "fullRect": true
         },
         {
           "x": 93,
           "y": 111,
           "width": 59,
-          "height": 84
+          "height": 84,
+          "fullRect": true
         },
         {
           "x": 93,
           "width": 73,
-          "height": 110
+          "height": 110,
+          "fullRect": true
         }
       ]
     },
@@ -9262,7 +9813,8 @@
       "key": "mvz2:entity/effect/lock_sigil",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9271,7 +9823,8 @@
       "key": "mvz2:entity/effect/magic_star",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9280,7 +9833,8 @@
       "key": "mvz2:entity/effect/maple_leaf",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9292,12 +9846,14 @@
           "width": 320,
           "height": 240,
           "pivotX": 0.0,
-          "borderLeft": 240
+          "borderLeft": 240,
+          "fullRect": true
         },
         {
           "x": 321,
           "width": 112,
-          "height": 288
+          "height": 288,
+          "fullRect": true
         }
       ]
     },
@@ -9307,7 +9863,8 @@
       "slices": [
         {
           "single": true,
-          "borderLeft": 13
+          "borderLeft": 13,
+          "fullRect": true
         }
       ]
     },
@@ -9316,7 +9873,8 @@
       "key": "mvz2:entity/effect/mind_control_line",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9326,13 +9884,15 @@
       "slices": [
         {
           "width": 50,
-          "height": 56
+          "height": 56,
+          "fullRect": true
         },
         {
           "x": 51,
           "y": 10,
           "width": 50,
-          "height": 46
+          "height": 46,
+          "fullRect": true
         }
       ]
     },
@@ -9342,17 +9902,20 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -9361,7 +9924,8 @@
       "key": "mvz2:entity/effect/mine_debris",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9370,7 +9934,8 @@
       "key": "mvz2:entity/effect/nightmareaper_shadow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9380,39 +9945,46 @@
       "slices": [
         {
           "width": 99,
-          "height": 54
+          "height": 54,
+          "fullRect": true
         },
         {
           "x": 100,
           "width": 99,
-          "height": 54
+          "height": 54,
+          "fullRect": true
         },
         {
           "x": 200,
           "width": 99,
-          "height": 54
+          "height": 54,
+          "fullRect": true
         },
         {
           "y": 55,
           "width": 99,
-          "height": 54
+          "height": 54,
+          "fullRect": true
         },
         {
           "x": 100,
           "y": 55,
           "width": 99,
-          "height": 54
+          "height": 54,
+          "fullRect": true
         },
         {
           "x": 200,
           "y": 55,
           "width": 99,
-          "height": 54
+          "height": 54,
+          "fullRect": true
         },
         {
           "y": 110,
           "width": 99,
-          "height": 54
+          "height": 54,
+          "fullRect": true
         }
       ]
     },
@@ -9421,7 +9993,8 @@
       "key": "mvz2:entity/effect/nightmare_portal_background",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9430,7 +10003,8 @@
       "key": "mvz2:entity/effect/nightmare_portal_background@censored",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9439,7 +10013,8 @@
       "key": "mvz2:entity/effect/nightmare_portal_frame",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9448,7 +10023,8 @@
       "key": "mvz2:entity/effect/nightmare_portal_frame@censored",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9457,7 +10033,8 @@
       "key": "mvz2:entity/effect/nightmare_portal_mask",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9466,7 +10043,8 @@
       "key": "mvz2:entity/effect/pagoda_laser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9476,27 +10054,32 @@
       "slices": [
         {
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 5,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 10,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 15,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 20,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         }
       ]
     },
@@ -9506,27 +10089,32 @@
       "slices": [
         {
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 5,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 10,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 15,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 20,
           "width": 5,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         }
       ]
     },
@@ -9535,7 +10123,8 @@
       "key": "mvz2:entity/effect/petrified_shard",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9545,7 +10134,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9555,45 +10145,53 @@
       "slices": [
         {
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 17,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 34,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "y": 17,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 17,
           "y": 17,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 34,
           "y": 17,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "y": 34,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 17,
           "y": 34,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         }
       ]
     },
@@ -9602,7 +10200,8 @@
       "key": "mvz2:entity/effect/pow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9611,7 +10210,8 @@
       "key": "mvz2:entity/effect/psychic_shackle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9620,7 +10220,8 @@
       "key": "mvz2:entity/effect/rail",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9630,7 +10231,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -9639,7 +10241,8 @@
       "key": "mvz2:entity/effect/redline",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9648,7 +10251,8 @@
       "key": "mvz2:entity/effect/shell_case",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9657,7 +10261,8 @@
       "key": "mvz2:entity/effect/shine_ring",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9666,7 +10271,8 @@
       "key": "mvz2:entity/effect/skyward_beacon_target",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9675,7 +10281,8 @@
       "key": "mvz2:entity/effect/skyward_beam",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9685,45 +10292,53 @@
       "slices": [
         {
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 48,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 16,
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 48,
           "y": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         }
       ]
     },
@@ -9732,7 +10347,8 @@
       "key": "mvz2:entity/effect/snowflake",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9741,7 +10357,8 @@
       "key": "mvz2:entity/effect/sonic_wave",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9750,7 +10367,8 @@
       "key": "mvz2:entity/effect/soul",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9759,7 +10377,8 @@
       "key": "mvz2:entity/effect/soulfire_particle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9768,7 +10387,8 @@
       "key": "mvz2:entity/effect/speed_line",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9777,7 +10397,8 @@
       "key": "mvz2:entity/effect/spike_particles",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9787,27 +10408,32 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 192,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 256,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -9816,7 +10442,8 @@
       "key": "mvz2:entity/effect/star",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9826,22 +10453,26 @@
       "slices": [
         {
           "width": 8,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         },
         {
           "x": 9,
           "width": 4,
-          "height": 6
+          "height": 6,
+          "fullRect": true
         },
         {
           "x": 14,
           "width": 7,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         },
         {
           "x": 22,
           "width": 6,
-          "height": 5
+          "height": 5,
+          "fullRect": true
         }
       ]
     },
@@ -9851,7 +10482,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 0.0500000119
+          "pivotY": 0.0500000119,
+          "fullRect": true
         }
       ]
     },
@@ -9861,7 +10493,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9871,7 +10504,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9880,7 +10514,8 @@
       "key": "mvz2:entity/effect/vortex",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9889,7 +10524,8 @@
       "key": "mvz2:entity/effect/vulnerable_particle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9899,7 +10535,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -9908,7 +10545,8 @@
       "key": "mvz2:entity/effect/water_stain",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9917,7 +10555,8 @@
       "key": "mvz2:entity/effect/water_stain_frozen",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9928,17 +10567,20 @@
       "slices": [
         {
           "width": 22,
-          "height": 28
+          "height": 28,
+          "fullRect": true
         },
         {
           "x": 22,
           "width": 22,
-          "height": 28
+          "height": 28,
+          "fullRect": true
         },
         {
           "x": 44,
           "width": 22,
-          "height": 28
+          "height": 28,
+          "fullRect": true
         }
       ]
     },
@@ -9947,7 +10589,8 @@
       "key": "mvz2:entity/effect/wither_soulsand",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9957,12 +10600,14 @@
       "slices": [
         {
           "width": 54,
-          "height": 60
+          "height": 60,
+          "fullRect": true
         },
         {
           "x": 55,
           "width": 25,
-          "height": 28
+          "height": 28,
+          "fullRect": true
         }
       ]
     },
@@ -9971,7 +10616,8 @@
       "key": "mvz2:entity/effect/zombie_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -9981,33 +10627,38 @@
       "slices": [
         {
           "width": 14,
-          "height": 78
+          "height": 78,
+          "fullRect": true
         },
         {
           "x": 15,
           "width": 19,
           "height": 35,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 35,
           "width": 19,
           "height": 35,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 15,
           "y": 36,
           "width": 31,
           "height": 19,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 55,
           "width": 8,
           "height": 34,
           "pivotX": 0.375,
-          "pivotY": 0.08823532
+          "pivotY": 0.08823532,
+          "fullRect": true
         },
         {
           "x": 15,
@@ -10015,26 +10666,30 @@
           "width": 17,
           "height": 18,
           "pivotX": 0.8518519,
-          "pivotY": 0.222222209
+          "pivotY": 0.222222209,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 12,
           "height": 17,
           "pivotX": 0.166666672,
-          "pivotY": 0.9411765
+          "pivotY": 0.9411765,
+          "fullRect": true
         },
         {
           "x": 47,
           "y": 36,
           "width": 29,
-          "height": 30
+          "height": 30,
+          "fullRect": true
         },
         {
           "x": 33,
           "y": 56,
           "width": 13,
-          "height": 14
+          "height": 14,
+          "fullRect": true
         }
       ]
     },
@@ -10043,7 +10698,8 @@
       "key": "mvz2:entity/enemy/balloon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10052,7 +10708,8 @@
       "key": "mvz2:entity/enemy/bedserker_bed",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10061,7 +10718,8 @@
       "key": "mvz2:entity/enemy/bedserker_face_light",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10071,7 +10729,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10080,7 +10739,8 @@
       "key": "mvz2:entity/enemy/bedserker_rope",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10090,7 +10750,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10100,12 +10761,14 @@
       "slices": [
         {
           "width": 52,
-          "height": 27
+          "height": 27,
+          "fullRect": true
         },
         {
           "y": 28,
           "width": 52,
-          "height": 27
+          "height": 27,
+          "fullRect": true
         }
       ]
     },
@@ -10115,12 +10778,14 @@
       "slices": [
         {
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 81,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         }
       ]
     },
@@ -10130,7 +10795,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10139,7 +10805,8 @@
       "key": "mvz2:entity/enemy/cannonball_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10151,19 +10818,22 @@
           "width": 37,
           "height": 22,
           "pivotX": 0.432432443,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 38,
           "width": 42,
           "height": 14,
-          "pivotX": 0.857142866
+          "pivotX": 0.857142866,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 16,
           "height": 39,
-          "pivotY": 0.128205121
+          "pivotY": 0.128205121,
+          "fullRect": true
         },
         {
           "x": 17,
@@ -10171,7 +10841,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 37,
@@ -10179,7 +10850,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10191,34 +10863,39 @@
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "x": 66,
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "y": 36,
           "width": 42,
           "height": 27,
           "pivotX": 1.0,
-          "pivotY": 0.5185185
+          "pivotY": 0.5185185,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 44,
           "height": 7,
           "pivotX": 0.954545438,
-          "pivotY": 0.571428537
+          "pivotY": 0.571428537,
+          "fullRect": true
         },
         {
           "x": 43,
           "y": 36,
           "width": 21,
-          "height": 12
+          "height": 12,
+          "fullRect": true
         }
       ]
     },
@@ -10229,26 +10906,30 @@
         {
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10259,7 +10940,8 @@
         {
           "single": true,
           "pivotX": 0.875,
-          "pivotY": 0.88
+          "pivotY": 0.88,
+          "fullRect": true
         }
       ]
     },
@@ -10268,7 +10950,8 @@
       "key": "mvz2:entity/enemy/dullahan_head",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10279,27 +10962,31 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 42,
           "height": 23,
           "pivotX": 0.857142866,
-          "pivotY": 0.3043478
+          "pivotY": 0.3043478,
+          "fullRect": true
         },
         {
           "x": 79,
           "y": 31,
           "width": 11,
           "height": 28,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 16,
           "height": 39,
-          "pivotY": 0.128205121
+          "pivotY": 0.128205121,
+          "fullRect": true
         },
         {
           "x": 19,
@@ -10307,7 +10994,8 @@
           "width": 19,
           "height": 34,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 39,
@@ -10315,21 +11003,24 @@
           "width": 19,
           "height": 34,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 59,
           "y": 24,
           "width": 8,
           "height": 35,
-          "pivotY": 0.114285707
+          "pivotY": 0.114285707,
+          "fullRect": true
         },
         {
           "x": 68,
           "y": 31,
           "width": 10,
           "height": 28,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         }
       ]
     },
@@ -10340,27 +11031,31 @@
         {
           "width": 32,
           "height": 28,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 43,
           "y": 6,
           "width": 16,
           "height": 37,
-          "pivotY": 0.1081081
+          "pivotY": 0.1081081,
+          "fullRect": true
         },
         {
           "y": 29,
           "width": 42,
           "height": 14,
-          "pivotX": 0.880952358
+          "pivotX": 0.880952358,
+          "fullRect": true
         },
         {
           "y": 44,
           "width": 27,
           "height": 36,
           "pivotX": 0.333333343,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 28,
@@ -10368,7 +11063,8 @@
           "width": 27,
           "height": 36,
           "pivotX": 0.333333343,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 56,
@@ -10376,7 +11072,8 @@
           "width": 27,
           "height": 36,
           "pivotX": 0.333333343,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10388,21 +11085,24 @@
           "width": 61,
           "height": 61,
           "pivotX": 0.4918033,
-          "pivotY": 0.5081967
+          "pivotY": 0.5081967,
+          "fullRect": true
         },
         {
           "x": 62,
           "width": 61,
           "height": 61,
           "pivotX": 0.4918033,
-          "pivotY": 0.5081967
+          "pivotY": 0.5081967,
+          "fullRect": true
         },
         {
           "x": 124,
           "width": 61,
           "height": 61,
           "pivotX": 0.4918033,
-          "pivotY": 0.5081967
+          "pivotY": 0.5081967,
+          "fullRect": true
         }
       ]
     },
@@ -10411,7 +11111,8 @@
       "key": "mvz2:entity/enemy/ghost_headwear",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10420,7 +11121,8 @@
       "key": "mvz2:entity/enemy/ghost_tail",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10429,7 +11131,8 @@
       "key": "mvz2:entity/enemy/golden_axe",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10439,40 +11142,47 @@
       "slices": [
         {
           "width": 39,
-          "height": 11
+          "height": 11,
+          "fullRect": true
         },
         {
           "x": 40,
           "width": 32,
-          "height": 22
+          "height": 22,
+          "fullRect": true
         },
         {
           "y": 12,
           "width": 36,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "x": 37,
           "y": 23,
           "width": 23,
-          "height": 37
+          "height": 37,
+          "fullRect": true
         },
         {
           "x": 61,
           "y": 23,
           "width": 23,
-          "height": 37
+          "height": 37,
+          "fullRect": true
         },
         {
           "x": 85,
           "y": 23,
           "width": 10,
-          "height": 38
+          "height": 38,
+          "fullRect": true
         },
         {
           "y": 44,
           "width": 31,
-          "height": 35
+          "height": 35,
+          "fullRect": true
         }
       ]
     },
@@ -10482,19 +11192,22 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 33,
           "width": 32,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         },
         {
           "x": 2,
           "y": 42,
           "width": 28,
           "height": 4,
-          "pivotX": 0.0
+          "pivotX": 0.0,
+          "fullRect": true
         }
       ]
     },
@@ -10504,7 +11217,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10514,126 +11228,148 @@
       "slices": [
         {
           "width": 136,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "x": 137,
           "width": 39,
-          "height": 93
+          "height": 93,
+          "fullRect": true
         },
         {
           "x": 177,
           "width": 39,
-          "height": 93
+          "height": 93,
+          "fullRect": true
         },
         {
           "x": 217,
           "width": 39,
-          "height": 93
+          "height": 93,
+          "fullRect": true
         },
         {
           "y": 32,
           "width": 136,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 136,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "y": 96,
           "width": 41,
-          "height": 63
+          "height": 63,
+          "fullRect": true
         },
         {
           "x": 42,
           "y": 96,
           "width": 41,
-          "height": 63
+          "height": 63,
+          "fullRect": true
         },
         {
           "x": 84,
           "y": 96,
           "width": 41,
-          "height": 63
+          "height": 63,
+          "fullRect": true
         },
         {
           "x": 128,
           "y": 96,
           "width": 21,
-          "height": 36
+          "height": 36,
+          "fullRect": true
         },
         {
           "x": 150,
           "y": 96,
           "width": 21,
-          "height": 36
+          "height": 36,
+          "fullRect": true
         },
         {
           "x": 172,
           "y": 96,
           "width": 21,
-          "height": 36
+          "height": 36,
+          "fullRect": true
         },
         {
           "x": 210,
           "y": 96,
           "width": 19,
-          "height": 19
+          "height": 19,
+          "fullRect": true
         },
         {
           "x": 236,
           "y": 96,
           "width": 19,
-          "height": 19
+          "height": 19,
+          "fullRect": true
         },
         {
           "x": 126,
           "y": 133,
           "width": 27,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         },
         {
           "x": 154,
           "y": 133,
           "width": 27,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         },
         {
           "x": 182,
           "y": 133,
           "width": 27,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         },
         {
           "x": 210,
           "y": 116,
           "width": 25,
-          "height": 25
+          "height": 25,
+          "fullRect": true
         },
         {
           "x": 236,
           "y": 116,
           "width": 25,
-          "height": 25
+          "height": 25,
+          "fullRect": true
         },
         {
           "y": 160,
           "width": 88,
-          "height": 7
+          "height": 7,
+          "fullRect": true
         },
         {
           "x": 210,
           "y": 142,
           "width": 25,
-          "height": 25
+          "height": 25,
+          "fullRect": true
         },
         {
           "x": 236,
           "y": 142,
           "width": 25,
-          "height": 25
+          "height": 25,
+          "fullRect": true
         }
       ]
     },
@@ -10643,7 +11379,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 0.8
+          "pivotY": 0.8,
+          "fullRect": true
         }
       ]
     },
@@ -10652,7 +11389,8 @@
       "key": "mvz2:entity/enemy/iron_shovel",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -10662,7 +11400,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10672,7 +11411,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10684,21 +11424,24 @@
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "x": 66,
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "x": 132,
           "width": 42,
           "height": 27,
           "pivotX": 1.0,
-          "pivotY": 0.5185185
+          "pivotY": 0.5185185,
+          "fullRect": true
         },
         {
           "x": 132,
@@ -10706,7 +11449,8 @@
           "width": 44,
           "height": 7,
           "pivotX": 0.954545438,
-          "pivotY": 0.571428537
+          "pivotY": 0.571428537,
+          "fullRect": true
         }
       ]
     },
@@ -10717,26 +11461,30 @@
         {
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10747,19 +11495,22 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 42,
           "height": 14,
-          "pivotX": 0.859999955
+          "pivotX": 0.859999955,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 16,
           "height": 39,
-          "pivotY": 0.13
+          "pivotY": 0.13,
+          "fullRect": true
         },
         {
           "x": 19,
@@ -10767,7 +11518,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.470000029,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 39,
@@ -10775,7 +11527,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.470000029,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10785,120 +11538,139 @@
       "slices": [
         {
           "width": 55,
-          "height": 40
+          "height": 40,
+          "fullRect": true
         },
         {
           "x": 56,
           "width": 31,
           "height": 60,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 88,
           "width": 31,
           "height": 60,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 120,
           "width": 31,
           "height": 45,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 152,
           "width": 36,
           "height": 49,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 189,
           "width": 36,
           "height": 49,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 226,
           "width": 36,
           "height": 30,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 263,
           "width": 36,
           "height": 30,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 300,
           "width": 54,
           "height": 91,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 355,
           "width": 54,
           "height": 91,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 410,
           "width": 54,
           "height": 91,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 92,
           "width": 91,
           "height": 32,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 92,
           "y": 92,
           "width": 172,
           "height": 71,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 265,
           "y": 92,
           "width": 168,
           "height": 48,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 434,
           "y": 92,
           "width": 22,
-          "height": 23
+          "height": 23,
+          "fullRect": true
         },
         {
           "y": 164,
           "width": 64,
           "height": 44,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 65,
           "y": 164,
           "width": 64,
           "height": 44,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 130,
           "y": 164,
           "width": 64,
           "height": 44,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 195,
           "y": 164,
           "width": 64,
           "height": 44,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10909,13 +11681,15 @@
         {
           "width": 38,
           "height": 88,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 39,
           "width": 38,
           "height": 88,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10926,25 +11700,29 @@
         {
           "width": 32,
           "height": 27,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 19,
           "height": 35,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 53,
           "width": 19,
           "height": 35,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 28,
           "width": 13,
           "height": 50,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 14,
@@ -10952,7 +11730,8 @@
           "width": 39,
           "height": 14,
           "pivotX": 0.9230769,
-          "pivotY": 0.357142866
+          "pivotY": 0.357142866,
+          "fullRect": true
         },
         {
           "x": 54,
@@ -10960,14 +11739,16 @@
           "width": 8,
           "height": 34,
           "pivotX": 0.375,
-          "pivotY": 0.08823532
+          "pivotY": 0.08823532,
+          "fullRect": true
         },
         {
           "x": 63,
           "y": 36,
           "width": 7,
           "height": 20,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10977,7 +11758,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10987,7 +11769,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -10997,7 +11780,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -11009,21 +11793,24 @@
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "x": 66,
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "x": 132,
           "width": 42,
           "height": 27,
           "pivotX": 1.0,
-          "pivotY": 0.5185185
+          "pivotY": 0.5185185,
+          "fullRect": true
         },
         {
           "x": 132,
@@ -11031,7 +11818,8 @@
           "width": 44,
           "height": 7,
           "pivotX": 0.954545438,
-          "pivotY": 0.571428537
+          "pivotY": 0.571428537,
+          "fullRect": true
         }
       ]
     },
@@ -11042,26 +11830,30 @@
         {
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -11071,59 +11863,70 @@
       "slices": [
         {
           "width": 40,
-          "height": 28
+          "height": 28,
+          "fullRect": true
         },
         {
           "x": 41,
           "width": 4,
-          "height": 61
+          "height": 61,
+          "fullRect": true
         },
         {
           "x": 89,
           "width": 24,
-          "height": 45
+          "height": 45,
+          "fullRect": true
         },
         {
           "x": 114,
           "width": 50,
-          "height": 79
+          "height": 79,
+          "fullRect": true
         },
         {
           "y": 29,
           "width": 20,
-          "height": 27
+          "height": 27,
+          "fullRect": true
         },
         {
           "x": 21,
           "y": 29,
           "width": 18,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         },
         {
           "y": 57,
           "width": 20,
-          "height": 26
+          "height": 26,
+          "fullRect": true
         },
         {
           "x": 21,
           "y": 56,
           "width": 18,
-          "height": 37
+          "height": 37,
+          "fullRect": true
         },
         {
           "x": 46,
           "width": 18,
-          "height": 61
+          "height": 61,
+          "fullRect": true
         },
         {
           "x": 65,
           "width": 4,
-          "height": 61
+          "height": 61,
+          "fullRect": true
         },
         {
           "x": 70,
           "width": 18,
-          "height": 61
+          "height": 61,
+          "fullRect": true
         }
       ]
     },
@@ -11133,42 +11936,50 @@
       "slices": [
         {
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 65,
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 130,
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 195,
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 260,
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 325,
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 390,
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 455,
           "width": 64,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         }
       ]
     },
@@ -11178,12 +11989,14 @@
       "slices": [
         {
           "width": 48,
-          "height": 57
+          "height": 57,
+          "fullRect": true
         },
         {
           "x": 48,
           "width": 48,
-          "height": 57
+          "height": 57,
+          "fullRect": true
         }
       ]
     },
@@ -11193,27 +12006,32 @@
       "slices": [
         {
           "width": 16,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 16,
           "width": 16,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 16,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 48,
           "width": 16,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 16,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -11224,20 +12042,23 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 42,
           "height": 20,
           "pivotX": 0.857142866,
-          "pivotY": 0.350000024
+          "pivotY": 0.350000024,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 16,
           "height": 39,
-          "pivotY": 0.128205121
+          "pivotY": 0.128205121,
+          "fullRect": true
         },
         {
           "x": 19,
@@ -11245,7 +12066,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 39,
@@ -11253,7 +12075,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -11264,28 +12087,32 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 19,
           "height": 35,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 53,
           "width": 19,
           "height": 35,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 8,
           "height": 34,
           "pivotX": 0.375,
-          "pivotY": 0.08823532
+          "pivotY": 0.08823532,
+          "fullRect": true
         },
         {
           "x": 9,
@@ -11293,7 +12120,8 @@
           "width": 39,
           "height": 8,
           "pivotX": 0.9230769,
-          "pivotY": 0.625
+          "pivotY": 0.625,
+          "fullRect": true
         }
       ]
     },
@@ -11302,7 +12130,8 @@
       "key": "mvz2:entity/enemy/skeleton_face_light",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -11312,18 +12141,21 @@
       "slices": [
         {
           "width": 80,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "x": 80,
           "width": 96,
           "height": 45,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 32,
           "width": 80,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "x": 80,
@@ -11331,38 +12163,44 @@
           "width": 96,
           "height": 32,
           "pivotY": 1.0,
-          "borderTop": 1
+          "borderTop": 1,
+          "fullRect": true
         },
         {
           "x": 7,
           "y": 64,
           "width": 33,
           "height": 15,
-          "pivotX": 1.0
+          "pivotX": 1.0,
+          "fullRect": true
         },
         {
           "x": 48,
           "y": 64,
           "width": 16,
-          "height": 48
+          "height": 48,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 64,
           "width": 16,
-          "height": 48
+          "height": 48,
+          "fullRect": true
         },
         {
           "x": 1,
           "y": 81,
           "width": 11,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         },
         {
           "x": 17,
           "y": 81,
           "width": 12,
-          "height": 31
+          "height": 31,
+          "fullRect": true
         }
       ]
     },
@@ -11372,17 +12210,20 @@
       "slices": [
         {
           "width": 32,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         },
         {
           "y": 9,
           "width": 32,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         },
         {
           "y": 18,
           "width": 32,
-          "height": 8
+          "height": 8,
+          "fullRect": true
         }
       ]
     },
@@ -11393,28 +12234,32 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 19,
           "height": 35,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 53,
           "width": 19,
           "height": 35,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 8,
           "height": 34,
           "pivotX": 0.375,
-          "pivotY": 0.08823532
+          "pivotY": 0.08823532,
+          "fullRect": true
         },
         {
           "x": 9,
@@ -11422,7 +12267,8 @@
           "width": 39,
           "height": 8,
           "pivotX": 0.9230769,
-          "pivotY": 0.625
+          "pivotY": 0.625,
+          "fullRect": true
         }
       ]
     },
@@ -11432,12 +12278,14 @@
       "slices": [
         {
           "width": 33,
-          "height": 34
+          "height": 34,
+          "fullRect": true
         },
         {
           "x": 34,
           "width": 19,
-          "height": 34
+          "height": 34,
+          "fullRect": true
         }
       ]
     },
@@ -11447,17 +12295,20 @@
       "slices": [
         {
           "width": 50,
-          "height": 60
+          "height": 60,
+          "fullRect": true
         },
         {
           "x": 51,
           "width": 50,
-          "height": 60
+          "height": 60,
+          "fullRect": true
         },
         {
           "x": 102,
           "width": 50,
-          "height": 60
+          "height": 60,
+          "fullRect": true
         }
       ]
     },
@@ -11469,34 +12320,39 @@
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "x": 66,
           "width": 65,
           "height": 35,
           "pivotX": 0.03076923,
-          "pivotY": 0.485714257
+          "pivotY": 0.485714257,
+          "fullRect": true
         },
         {
           "y": 36,
           "width": 42,
           "height": 27,
           "pivotX": 1.0,
-          "pivotY": 0.5185185
+          "pivotY": 0.5185185,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 44,
           "height": 7,
           "pivotX": 0.954545438,
-          "pivotY": 0.571428537
+          "pivotY": 0.571428537,
+          "fullRect": true
         },
         {
           "x": 43,
           "y": 36,
           "width": 21,
-          "height": 12
+          "height": 12,
+          "fullRect": true
         }
       ]
     },
@@ -11507,26 +12363,30 @@
         {
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 103,
           "y": 82,
           "width": 102,
           "height": 81,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -11536,7 +12396,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -11545,7 +12406,8 @@
       "key": "mvz2:entity/enemy/stone_sword",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -11557,19 +12419,22 @@
           "width": 33,
           "height": 23,
           "pivotX": 0.5151515,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 34,
           "width": 42,
           "height": 14,
-          "pivotX": 0.857142866
+          "pivotX": 0.857142866,
+          "fullRect": true
         },
         {
           "y": 24,
           "width": 16,
           "height": 39,
-          "pivotY": 0.128205121
+          "pivotY": 0.128205121,
+          "fullRect": true
         },
         {
           "x": 17,
@@ -11577,7 +12442,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 37,
@@ -11585,7 +12451,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -11595,85 +12462,100 @@
       "slices": [
         {
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 80,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 160,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 240,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 320,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "y": 80,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 80,
           "y": 80,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 160,
           "y": 80,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 240,
           "y": 80,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 320,
           "y": 80,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "y": 160,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 80,
           "y": 160,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 160,
           "y": 160,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 240,
           "y": 160,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         },
         {
           "x": 320,
           "y": 160,
           "width": 80,
-          "height": 80
+          "height": 80,
+          "fullRect": true
         }
       ]
     },
@@ -11683,7 +12565,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         }
       ]
     },
@@ -11694,44 +12577,51 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 42,
           "height": 20,
           "pivotX": 0.857142866,
-          "pivotY": 0.350000024
+          "pivotY": 0.350000024,
+          "fullRect": true
         },
         {
           "x": 76,
           "width": 4,
           "height": 51,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 81,
           "width": 12,
           "height": 51,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 94,
           "width": 12,
           "height": 51,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "x": 107,
           "width": 3,
           "height": 46,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 16,
           "height": 39,
-          "pivotY": 0.13
+          "pivotY": 0.13,
+          "fullRect": true
         },
         {
           "x": 19,
@@ -11739,13 +12629,15 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.470000029,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 111,
           "width": 9,
           "height": 46,
-          "pivotY": 0.0
+          "pivotY": 0.0,
+          "fullRect": true
         }
       ]
     },
@@ -11755,35 +12647,41 @@
       "slices": [
         {
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "x": 16,
           "width": 16,
-          "height": 16
+          "height": 16,
+          "fullRect": true
         },
         {
           "y": 16,
           "width": 24,
-          "height": 37
+          "height": 37,
+          "fullRect": true
         },
         {
           "x": 25,
           "y": 16,
           "width": 24,
-          "height": 37
+          "height": 37,
+          "fullRect": true
         },
         {
           "x": 50,
           "y": 16,
           "width": 24,
-          "height": 37
+          "height": 37,
+          "fullRect": true
         },
         {
           "x": 75,
           "y": 16,
           "width": 24,
-          "height": 37
+          "height": 37,
+          "fullRect": true
         }
       ]
     },
@@ -11794,28 +12692,32 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 19,
           "height": 35,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 53,
           "width": 19,
           "height": 35,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 8,
           "height": 34,
           "pivotX": 0.375,
-          "pivotY": 0.08823532
+          "pivotY": 0.08823532,
+          "fullRect": true
         },
         {
           "x": 9,
@@ -11823,7 +12725,8 @@
           "width": 39,
           "height": 8,
           "pivotX": 0.9230769,
-          "pivotY": 0.625
+          "pivotY": 0.625,
+          "fullRect": true
         }
       ]
     },
@@ -11834,19 +12737,22 @@
         {
           "width": 32,
           "height": 22,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 33,
           "width": 42,
           "height": 14,
-          "pivotX": 0.857142866
+          "pivotX": 0.857142866,
+          "fullRect": true
         },
         {
           "y": 23,
           "width": 16,
           "height": 39,
-          "pivotY": 0.128205121
+          "pivotY": 0.128205121,
+          "fullRect": true
         },
         {
           "x": 19,
@@ -11854,7 +12760,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         },
         {
           "x": 39,
@@ -11862,7 +12769,8 @@
           "width": 19,
           "height": 36,
           "pivotX": 0.473684222,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -11872,29 +12780,34 @@
       "slices": [
         {
           "width": 23,
-          "height": 17
+          "height": 17,
+          "fullRect": true
         },
         {
           "x": 24,
           "width": 48,
-          "height": 20
+          "height": 20,
+          "fullRect": true
         },
         {
           "y": 18,
           "width": 8,
-          "height": 15
+          "height": 15,
+          "fullRect": true
         },
         {
           "x": 9,
           "y": 21,
           "width": 22,
-          "height": 4
+          "height": 4,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 21,
           "width": 22,
-          "height": 4
+          "height": 4,
+          "fullRect": true
         }
       ]
     },
@@ -11904,12 +12817,14 @@
       "slices": [
         {
           "width": 112,
-          "height": 51
+          "height": 51,
+          "fullRect": true
         },
         {
           "x": 112,
           "width": 112,
-          "height": 51
+          "height": 51,
+          "fullRect": true
         }
       ]
     },
@@ -11919,47 +12834,56 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 96,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 160,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 192,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 224,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 256,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -11969,17 +12893,20 @@
       "slices": [
         {
           "width": 86,
-          "height": 44
+          "height": 44,
+          "fullRect": true
         },
         {
           "y": 45,
           "width": 86,
-          "height": 44
+          "height": 44,
+          "fullRect": true
         },
         {
           "y": 90,
           "width": 86,
-          "height": 44
+          "height": 44,
+          "fullRect": true
         }
       ]
     },
@@ -11989,17 +12916,20 @@
       "slices": [
         {
           "width": 29,
-          "height": 11
+          "height": 11,
+          "fullRect": true
         },
         {
           "y": 12,
           "width": 29,
-          "height": 11
+          "height": 11,
+          "fullRect": true
         },
         {
           "y": 24,
           "width": 29,
-          "height": 11
+          "height": 11,
+          "fullRect": true
         }
       ]
     },
@@ -12009,27 +12939,32 @@
       "slices": [
         {
           "width": 64,
-          "height": 96
+          "height": 96,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 96
+          "height": 96,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 96
+          "height": 96,
+          "fullRect": true
         },
         {
           "x": 192,
           "width": 64,
-          "height": 96
+          "height": 96,
+          "fullRect": true
         },
         {
           "x": 256,
           "width": 64,
-          "height": 96
+          "height": 96,
+          "fullRect": true
         }
       ]
     },
@@ -12039,12 +12974,14 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -12053,7 +12990,8 @@
       "key": "mvz2:entity/pickup/almanac_book",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12062,7 +13000,8 @@
       "key": "mvz2:entity/pickup/diamond",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12072,45 +13011,53 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -12119,7 +13066,8 @@
       "key": "mvz2:entity/pickup/ender_chest",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12128,7 +13076,8 @@
       "key": "mvz2:entity/pickup/furious_gunpowder",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12137,7 +13086,8 @@
       "key": "mvz2:entity/pickup/gunpowder",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12146,7 +13096,8 @@
       "key": "mvz2:entity/pickup/map_pickup",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12155,7 +13106,8 @@
       "key": "mvz2:entity/pickup/money_chest",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12164,7 +13116,8 @@
       "key": "mvz2:entity/pickup/redstone",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12174,45 +13127,53 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -12222,45 +13183,53 @@
       "slices": [
         {
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 32,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         },
         {
           "x": 32,
           "y": 64,
           "width": 32,
-          "height": 32
+          "height": 32,
+          "fullRect": true
         }
       ]
     },
@@ -12269,7 +13238,8 @@
       "key": "mvz2:entity/pickup/trophy",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12278,7 +13248,8 @@
       "key": "mvz2:entity/pickup/wither_scroll",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12287,7 +13258,8 @@
       "key": "mvz2:entity/pickup/zombie_scroll",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12297,7 +13269,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12306,7 +13279,8 @@
       "key": "mvz2:entity/projectile/boulder",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12315,7 +13289,8 @@
       "key": "mvz2:entity/projectile/boulder_fire",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12324,7 +13299,8 @@
       "key": "mvz2:entity/projectile/breakout_pearl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12333,7 +13309,8 @@
       "key": "mvz2:entity/projectile/bullet",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12342,7 +13319,8 @@
       "key": "mvz2:entity/projectile/cannon_missile",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12351,7 +13329,8 @@
       "key": "mvz2:entity/projectile/cannon_missile_danger",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12361,22 +13340,26 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 192,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -12385,7 +13368,8 @@
       "key": "mvz2:entity/projectile/cobble",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12394,7 +13378,8 @@
       "key": "mvz2:entity/projectile/compelling_orb",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12403,7 +13388,8 @@
       "key": "mvz2:entity/projectile/crossbow_bolt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12412,7 +13398,8 @@
       "key": "mvz2:entity/projectile/cursed_fireball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12421,7 +13408,8 @@
       "key": "mvz2:entity/projectile/dart",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12430,7 +13418,8 @@
       "key": "mvz2:entity/projectile/falling_star",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12439,7 +13428,8 @@
       "key": "mvz2:entity/projectile/fireball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12448,7 +13438,8 @@
       "key": "mvz2:entity/projectile/firework",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12457,7 +13448,8 @@
       "key": "mvz2:entity/projectile/firework_big",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12466,7 +13458,8 @@
       "key": "mvz2:entity/projectile/fire_charge",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12475,7 +13468,8 @@
       "key": "mvz2:entity/projectile/fire_trail",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12484,7 +13478,8 @@
       "key": "mvz2:entity/projectile/flint",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12493,7 +13488,8 @@
       "key": "mvz2:entity/projectile/gas",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12503,7 +13499,8 @@
       "slices": [
         {
           "single": true,
-          "pivotY": 1.0
+          "pivotY": 1.0,
+          "fullRect": true
         }
       ]
     },
@@ -12512,7 +13509,8 @@
       "key": "mvz2:entity/projectile/golden_ball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12521,7 +13519,8 @@
       "key": "mvz2:entity/projectile/gravel",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12531,17 +13530,20 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -12550,7 +13552,8 @@
       "key": "mvz2:entity/projectile/ice_bolt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12559,7 +13562,8 @@
       "key": "mvz2:entity/projectile/ignited_wooden_ball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12568,7 +13572,8 @@
       "key": "mvz2:entity/projectile/ignited_wooden_ball_cursed",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12577,7 +13582,8 @@
       "key": "mvz2:entity/projectile/javelin",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12586,7 +13592,8 @@
       "key": "mvz2:entity/projectile/knife",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12595,7 +13602,8 @@
       "key": "mvz2:entity/projectile/large_fireball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12605,111 +13613,131 @@
       "slices": [
         {
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 192,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 256,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 320,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 384,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 448,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 512,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 576,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 64,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 128,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 192,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 256,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 320,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 384,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 448,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 512,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         },
         {
           "x": 576,
           "y": 64,
           "width": 64,
-          "height": 64
+          "height": 64,
+          "fullRect": true
         }
       ]
     },
@@ -12718,7 +13746,8 @@
       "key": "mvz2:entity/projectile/mine_tnt_seed",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12727,7 +13756,8 @@
       "key": "mvz2:entity/projectile/missile",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12736,7 +13766,8 @@
       "key": "mvz2:entity/projectile/note",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12745,7 +13776,8 @@
       "key": "mvz2:entity/projectile/parabot",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12754,7 +13786,8 @@
       "key": "mvz2:entity/projectile/reflection_bullet",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12763,7 +13796,8 @@
       "key": "mvz2:entity/projectile/seija_bullet",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12772,7 +13806,8 @@
       "key": "mvz2:entity/projectile/seija_bullet_dark",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12781,7 +13816,8 @@
       "key": "mvz2:entity/projectile/shuriken",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12790,7 +13826,8 @@
       "key": "mvz2:entity/projectile/snowball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12799,7 +13836,8 @@
       "key": "mvz2:entity/projectile/soulfire_ball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12808,7 +13846,8 @@
       "key": "mvz2:entity/projectile/soulfire_ball_trail",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12817,7 +13856,8 @@
       "key": "mvz2:entity/projectile/spectral_arrow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12826,7 +13866,8 @@
       "key": "mvz2:entity/projectile/spike",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12835,7 +13876,8 @@
       "key": "mvz2:entity/projectile/spike_ball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12844,7 +13886,8 @@
       "key": "mvz2:entity/projectile/stoneball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12854,7 +13897,8 @@
       "filter": 0,
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -12863,7 +13907,8 @@
       "key": "mvz2:entity/projectile/wooden_ball",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
