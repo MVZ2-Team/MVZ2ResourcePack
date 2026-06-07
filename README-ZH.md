@@ -105,7 +105,7 @@ textures.json的内容结构示例如下：
 | 属性 | 类型 | 说明 |
 | --- | --- | --- |
 | `texture` | 字符串 | 贴图相对于`assets`文件夹的文件路径。如`assets/card_mobile.png`，在这里需要写为`card_mobile.png`。 |
-| `key` | 字符串 | 要替换的游戏内Sprite的ID。Sprite的具体ID可以查看该项目中`resources/textures.json`文件。<ul><li>该属性会用于该贴图的所有切片中，并自动为他们分配ID。除非切片本身实现了key属性。</li></ul> |
+| `key` | 字符串 | 要替换的游戏内Sprite的键。Sprite的具体键可以查看该项目中`resources/textures.json`文件。<br>该属性会用于该贴图的所有切片`slices`中，并自动为他们分配键。除非切片本身实现了`key`属性。<br>可以通过`@`分隔符来为键添加标签，如`mvz2:ui/level/card_mobile@en-US`。有效标签如下：<ul><li>语言代码：如`zh-CN`，`en-US`。将游戏中的语言切换为对应代码的语言时，会选用该贴图。</li><li>`censored`：在关闭选项“血与碎块”时，会选用该贴图。</li></ul> |
 | `filter` | 整数 | 贴图的过滤模式，默认为1。<ul><li>`0`：邻近，会使贴图变得更加像素化，锯齿感更强。</li><li>`1`：双线性，会使贴图变得较为模糊，并消除锯齿感。</li><li>`2`：三线性，会使贴图变得较为模糊，并消除锯齿感，并在mipmap级别之间进行混合。</li></ul> |
 | `wrap` | 整数 | 贴图外部的重复模式，默认为1。<ul><li>0：重复。如果渲染区域位于贴图外部，那么贴图会在区域外重复。</li><li>`1`：钳制。如果渲染区域位于贴图外部，那么贴图外部的部分会使用最边缘的颜色。</li><li>`2`：镜像。如果渲染区域位于贴图外部，那么贴图会在区域外镜像重复。</li><li>`3`：镜像一次。如果渲染区域位于贴图外部，那么贴图会在区域外镜像重复一次，然后使用最边缘的颜色。</li></ul> |
 | `slices` | 列表 | 贴图的Sprite切片列表。 |
@@ -115,8 +115,7 @@ textures.json的内容结构示例如下：
 slice的基础属性包括：
 | 属性 | 类型 | 说明 |
 | --- | --- | --- |
-| `key` | 字符串 | 要覆盖的Sprite的ID。<ul><li>添加该属性后，`texture`中的`key`属性会被覆盖为该值，否则会使用`texture`中的`key`属性，并加上切片序号。</li><li>假设`resources`文件夹中有一张贴图的路径为`resources/assets/mvz2/sprites/ui/level/card_mobile.png`，整张贴图的ID是`mvz2:ui/level/card_mobile`，但是这张贴图又被切为了多张Sprite切片。此时第一张Sprite的ID为`mvz2:ui/level/card_mobile[0]`（或者`mvz2:ui/level/card_mobile`，0可以省略），第二张Sprite的ID为`mvz2:ui/level/card_mobile[1]`。</li></ul> |
-| `tags` | 字符串列表 | 该Sprite的标签。有效标签如下：<ul><li>语言代码：如`zh-CN`，`en-US`。将游戏中的语言切换为对应代码的语言时，会选用该贴图。</li><li>`censored`：在关闭选项“血与碎块”时，会选用该贴图。</li></ul> |
+| `key` | 字符串 | 要覆盖的Sprite的键。添加该属性后，`texture`中的`key`属性会被覆盖为该值，否则会自动使用`texture`中的`key`属性，并加上切片序号。<br>假设`resources`文件夹中有一张贴图的路径为`resources/assets/mvz2/sprites/ui/level/card_mobile.png`，则整张贴图的键是`mvz2:ui/level/card_mobile`，但是这张贴图又被切为了多张Sprite切片，此时：<ul><li>第一张Sprite的键为`mvz2:ui/level/card_mobile[0]`（或者`mvz2:ui/level/card_mobile`，0可以省略）。</li><li>第二张Sprite的键为`mvz2:ui/level/card_mobile[1]`。</li><li>以此类推。</li></ul>可以通过`@`分隔符来为键添加标签，如`mvz2:ui/level/card_mobile[0]@en-US`。有效标签如下：<ul><li>语言代码：如`zh-CN`，`en-US`。将游戏中的语言切换为对应代码的语言时，会选用该Sprite。</li><li>`censored`：在关闭选项“血与碎块”时，会选用该Sprite。</li></ul> |
 | `fullRect` | 布尔值 | 这张切片的在渲染时使用的网格类型。默认为false。如果为true，那么整张图，包括透明部分也会被算作渲染区域。这可能会带来一些渲染性能的问题，不过在某些情况下（如作为人物贴图）时需要开启。 |
 
 slice的定位属性包括：
@@ -440,7 +439,7 @@ audios.json的内容结构示例如下：
 `layers`的元素的属性有：
 | 属性 | 类型 | 说明 |
 | --- | --- | --- |
-| `sprite` | 字符串 | 该人物图层的贴图ID。 |
+| `sprite` | 字符串 | 该人物图层的贴图键。 |
 | `x` | 浮点数 | 该图层在该整个人物中的横向位置。0为最左侧，每向右1像素+1。 |
 | `y` | 浮点数 | 该图层在该整个人物中的纵向位置。0为最顶部，每向下1像素+1。 |
 
