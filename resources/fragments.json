@@ -4,15 +4,15 @@
       "id": "mvz2:dispenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.349996179
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "C3A26D",
+          "code": "#C3A26D",
           "time": 1.0
         }
       ],
@@ -31,11 +31,11 @@
       "id": "mvz2:furnace",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -55,11 +55,11 @@
       "blend": true,
       "colorKeys": [
         {
-          "code": "39305A",
+          "code": "#39305A",
           "time": 0.0
         },
         {
-          "code": "101010",
+          "code": "#101010",
           "time": 1.0
         }
       ],
@@ -79,11 +79,11 @@
       "blend": true,
       "colorKeys": [
         {
-          "code": "5A555A",
+          "code": "#5A555A",
           "time": 0.0
         },
         {
-          "code": "312829",
+          "code": "#312829",
           "time": 1.0
         }
       ],
@@ -102,15 +102,15 @@
       "id": "mvz2:mine_tnt",
       "colorKeys": [
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 0.6
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 0.9000076
         },
         {
-          "code": "000000",
+          "code": "#000000",
           "time": 1.0
         }
       ],
@@ -129,11 +129,11 @@
       "id": "mvz2:small_dispenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -152,19 +152,19 @@
       "id": "mvz2:moonlight_sensor",
       "colorKeys": [
         {
-          "code": "56452B",
+          "code": "#56452B",
           "time": 0.4500038
         },
         {
-          "code": "BAC6D7",
+          "code": "#BAC6D7",
           "time": 0.9000076
         },
         {
-          "code": "354359",
+          "code": "#354359",
           "time": 0.9499962
         },
         {
-          "code": "282217",
+          "code": "#282217",
           "time": 1.0
         }
       ],
@@ -183,19 +183,19 @@
       "id": "mvz2:glowstone",
       "colorKeys": [
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 0.149996191
         },
         {
-          "code": "CE8452",
+          "code": "#CE8452",
           "time": 0.300007641
         },
         {
-          "code": "FFDE73",
+          "code": "#FFDE73",
           "time": 0.5000076
         },
         {
-          "code": "6B4221",
+          "code": "#6B4221",
           "time": 1.0
         }
       ],
@@ -214,15 +214,15 @@
       "id": "mvz2:punchton",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.349996179
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "C3A26D",
+          "code": "#C3A26D",
           "time": 1.0
         }
       ],
@@ -241,15 +241,15 @@
       "id": "mvz2:tnt",
       "colorKeys": [
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 0.6
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 0.9000076
         },
         {
-          "code": "000000",
+          "code": "#000000",
           "time": 1.0
         }
       ],
@@ -268,15 +268,15 @@
       "id": "mvz2:soul_furnace",
       "colorKeys": [
         {
-          "code": "9F5A10",
+          "code": "#9F5A10",
           "time": 0.349996179
         },
         {
-          "code": "733808",
+          "code": "#733808",
           "time": 0.7000076
         },
         {
-          "code": "4E1D00",
+          "code": "#4E1D00",
           "time": 1.0
         }
       ],
@@ -295,11 +295,11 @@
       "id": "mvz2:silvenser",
       "colorKeys": [
         {
-          "code": "0012FE",
+          "code": "#0012FE",
           "time": 0.4
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 1.0
         }
       ],
@@ -318,15 +318,15 @@
       "id": "mvz2:magichest",
       "colorKeys": [
         {
-          "code": "0000FF",
+          "code": "#0000FF",
           "time": 0.300007641
         },
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 0.6
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 1.0
         }
       ],
@@ -345,11 +345,11 @@
       "id": "mvz2:lily_pad",
       "colorKeys": [
         {
-          "code": "104018",
+          "code": "#104018",
           "time": 0.7499962
         },
         {
-          "code": "0B2B10",
+          "code": "#0B2B10",
           "time": 1.0
         }
       ],
@@ -368,11 +368,11 @@
       "id": "mvz2:drivenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -391,11 +391,11 @@
       "id": "mvz2:gravity_pad",
       "colorKeys": [
         {
-          "code": "BA00FF",
+          "code": "#BA00FF",
           "time": 0.7499962
         },
         {
-          "code": "DD80FF",
+          "code": "#DD80FF",
           "time": 1.0
         }
       ],
@@ -414,11 +414,11 @@
       "id": "mvz2:anvil",
       "colorKeys": [
         {
-          "code": "262626",
+          "code": "#262626",
           "time": 0.5000076
         },
         {
-          "code": "383838",
+          "code": "#383838",
           "time": 1.0
         }
       ],
@@ -437,11 +437,11 @@
       "id": "mvz2:vortex_hopper",
       "colorKeys": [
         {
-          "code": "262626",
+          "code": "#262626",
           "time": 0.5000076
         },
         {
-          "code": "383838",
+          "code": "#383838",
           "time": 1.0
         }
       ],
@@ -460,15 +460,15 @@
       "id": "mvz2:pistenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.349996179
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "C3A26D",
+          "code": "#C3A26D",
           "time": 1.0
         }
       ],
@@ -487,15 +487,15 @@
       "id": "mvz2:totenser",
       "colorKeys": [
         {
-          "code": "CC6600",
+          "code": "#CC6600",
           "time": 0.33299762
         },
         {
-          "code": "FF6A00",
+          "code": "#FF6A00",
           "time": 0.6670024
         },
         {
-          "code": "CC2200",
+          "code": "#CC2200",
           "time": 1.0
         }
       ],
@@ -514,15 +514,15 @@
       "id": "mvz2:dream_crystal",
       "colorKeys": [
         {
-          "code": "FE95FF",
+          "code": "#FE95FF",
           "time": 0.5000076
         },
         {
-          "code": "F3A4FF",
+          "code": "#F3A4FF",
           "time": 0.8
         },
         {
-          "code": "F471FF",
+          "code": "#F471FF",
           "time": 1.0
         }
       ],
@@ -541,15 +541,15 @@
       "id": "mvz2:dream_silk",
       "colorKeys": [
         {
-          "code": "FE95FF",
+          "code": "#FE95FF",
           "time": 0.5000076
         },
         {
-          "code": "F3A4FF",
+          "code": "#F3A4FF",
           "time": 0.8
         },
         {
-          "code": "F471FF",
+          "code": "#F471FF",
           "time": 1.0
         }
       ],
@@ -568,11 +568,11 @@
       "id": "mvz2:wooden_dropper",
       "colorKeys": [
         {
-          "code": "C6A570",
+          "code": "#C6A570",
           "time": 0.5000076
         },
         {
-          "code": "805E36",
+          "code": "#805E36",
           "time": 1.0
         }
       ],
@@ -591,11 +591,11 @@
       "id": "mvz2:spike_block",
       "colorKeys": [
         {
-          "code": "9D9D9D",
+          "code": "#9D9D9D",
           "time": 0.5000076
         },
         {
-          "code": "7A7A7A",
+          "code": "#7A7A7A",
           "time": 1.0
         }
       ],
@@ -614,11 +614,11 @@
       "id": "mvz2:stone_dropper",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -637,11 +637,11 @@
       "id": "mvz2:stone_shield",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -660,11 +660,11 @@
       "id": "mvz2:golden_apple",
       "colorKeys": [
         {
-          "code": "FFD400",
+          "code": "#FFD400",
           "time": 0.5000076
         },
         {
-          "code": "FFA900",
+          "code": "#FFA900",
           "time": 1.0
         }
       ],
@@ -683,11 +683,11 @@
       "id": "mvz2:thunder_drum",
       "colorKeys": [
         {
-          "code": "F0DABE",
+          "code": "#F0DABE",
           "time": 0.5000076
         },
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 1.0
         }
       ],
@@ -706,11 +706,11 @@
       "id": "mvz2:tesla_coil",
       "colorKeys": [
         {
-          "code": "D8D8D8",
+          "code": "#D8D8D8",
           "time": 0.5000076
         },
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 1.0
         }
       ],
@@ -729,15 +729,15 @@
       "id": "mvz2:giant_bowl",
       "colorKeys": [
         {
-          "code": "C87878",
+          "code": "#C87878",
           "time": 0.4500038
         },
         {
-          "code": "000000",
+          "code": "#000000",
           "time": 0.9000076
         },
         {
-          "code": "FFFF00",
+          "code": "#FFFF00",
           "time": 1.0
         }
       ],
@@ -756,19 +756,19 @@
       "id": "mvz2:note_block",
       "colorKeys": [
         {
-          "code": "764A34",
+          "code": "#764A34",
           "time": 0.4
         },
         {
-          "code": "62402E",
+          "code": "#62402E",
           "time": 0.6
         },
         {
-          "code": "483021",
+          "code": "#483021",
           "time": 0.8
         },
         {
-          "code": "342013",
+          "code": "#342013",
           "time": 1.0
         }
       ],
@@ -788,19 +788,19 @@
       "blend": true,
       "colorKeys": [
         {
-          "code": "ECD03C",
+          "code": "#ECD03C",
           "time": 0.0
         },
         {
-          "code": "D49819",
+          "code": "#D49819",
           "time": 0.33299762
         },
         {
-          "code": "AE6F00",
+          "code": "#AE6F00",
           "time": 0.6670024
         },
         {
-          "code": "000000",
+          "code": "#000000",
           "time": 1.0
         }
       ],
@@ -819,15 +819,15 @@
       "id": "mvz2:splitenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.349996179
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "C3A26D",
+          "code": "#C3A26D",
           "time": 1.0
         }
       ],
@@ -846,11 +846,11 @@
       "id": "mvz2:devourer",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -870,19 +870,19 @@
       "blend": true,
       "colorKeys": [
         {
-          "code": "854242",
+          "code": "#854242",
           "time": 0.0
         },
         {
-          "code": "723232",
+          "code": "#723232",
           "time": 0.33299762
         },
         {
-          "code": "652828",
+          "code": "#652828",
           "time": 0.6670024
         },
         {
-          "code": "411616",
+          "code": "#411616",
           "time": 1.0
         }
       ],
@@ -902,19 +902,19 @@
       "blend": true,
       "colorKeys": [
         {
-          "code": "1A231A",
+          "code": "#1A231A",
           "time": 0.0
         },
         {
-          "code": "161E16",
+          "code": "#161E16",
           "time": 0.33299762
         },
         {
-          "code": "0E150E",
+          "code": "#0E150E",
           "time": 0.6670024
         },
         {
-          "code": "0C110C",
+          "code": "#0C110C",
           "time": 1.0
         }
       ],
@@ -933,11 +933,11 @@
       "id": "mvz2:necrotombstone",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -956,15 +956,15 @@
       "id": "mvz2:black_hole_bomb",
       "colorKeys": [
         {
-          "code": "760CE0",
+          "code": "#760CE0",
           "time": 0.6
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 0.9000076
         },
         {
-          "code": "FFFF00",
+          "code": "#FFFF00",
           "time": 1.0
         }
       ],
@@ -983,11 +983,11 @@
       "id": "mvz2:desire_pot",
       "colorKeys": [
         {
-          "code": "69976C",
+          "code": "#69976C",
           "time": 0.0
         },
         {
-          "code": "69976C",
+          "code": "#69976C",
           "time": 1.0
         }
       ],
@@ -1006,11 +1006,11 @@
       "id": "mvz2:gunpowder_barrel",
       "colorKeys": [
         {
-          "code": "C6A570",
+          "code": "#C6A570",
           "time": 0.5000076
         },
         {
-          "code": "805E36",
+          "code": "#805E36",
           "time": 1.0
         }
       ],
@@ -1029,15 +1029,15 @@
       "id": "mvz2:repeatenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.349996179
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "7D5A32",
+          "code": "#7D5A32",
           "time": 1.0
         }
       ],
@@ -1056,19 +1056,19 @@
       "id": "mvz2:firework_dispenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.349996179
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 0.850003839
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 1.0
         }
       ],
@@ -1087,15 +1087,15 @@
       "id": "mvz2:triplenser",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.349996179
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "C3A26D",
+          "code": "#C3A26D",
           "time": 1.0
         }
       ],
@@ -1114,15 +1114,15 @@
       "id": "mvz2:beacon",
       "colorKeys": [
         {
-          "code": "39305A",
+          "code": "#39305A",
           "time": 0.2
         },
         {
-          "code": "A8D0D9",
+          "code": "#A8D0D9",
           "time": 0.6
         },
         {
-          "code": "54D9D0",
+          "code": "#54D9D0",
           "time": 1.0
         }
       ],
@@ -1141,11 +1141,11 @@
       "id": "mvz2:wooden_fan",
       "colorKeys": [
         {
-          "code": "C6A570",
+          "code": "#C6A570",
           "time": 0.5000076
         },
         {
-          "code": "805E36",
+          "code": "#805E36",
           "time": 1.0
         }
       ],
@@ -1164,11 +1164,11 @@
       "id": "mvz2:elastic_cloud",
       "colorKeys": [
         {
-          "code": "C881C9",
+          "code": "#C881C9",
           "time": 0.0
         },
         {
-          "code": "C881C9",
+          "code": "#C881C9",
           "time": 1.0
         }
       ],
@@ -1187,15 +1187,15 @@
       "id": "mvz2:transfenser",
       "colorKeys": [
         {
-          "code": "FFD400",
+          "code": "#FFD400",
           "time": 0.2
         },
         {
-          "code": "FFA900",
+          "code": "#FFA900",
           "time": 0.4
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 1.0
         }
       ],
@@ -1214,19 +1214,19 @@
       "id": "mvz2:gravelpult",
       "colorKeys": [
         {
-          "code": "817F7F",
+          "code": "#817F7F",
           "time": 0.2500038
         },
         {
-          "code": "979797",
+          "code": "#979797",
           "time": 0.5000076
         },
         {
-          "code": "726B69",
+          "code": "#726B69",
           "time": 0.7499962
         },
         {
-          "code": "645B5B",
+          "code": "#645B5B",
           "time": 1.0
         }
       ],
@@ -1245,11 +1245,11 @@
       "id": "mvz2:cursed_candle",
       "colorKeys": [
         {
-          "code": "A3B6A1",
+          "code": "#A3B6A1",
           "time": 0.7499962
         },
         {
-          "code": "95A693",
+          "code": "#95A693",
           "time": 1.0
         }
       ],
@@ -1268,11 +1268,11 @@
       "id": "mvz2:stone_eye",
       "colorKeys": [
         {
-          "code": "5A6151",
+          "code": "#5A6151",
           "time": 0.5000076
         },
         {
-          "code": "4B5143",
+          "code": "#4B5143",
           "time": 1.0
         }
       ],
@@ -1291,11 +1291,11 @@
       "id": "mvz2:cooling_cell",
       "colorKeys": [
         {
-          "code": "0012FE",
+          "code": "#0012FE",
           "time": 0.4
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 1.0
         }
       ],
@@ -1314,19 +1314,19 @@
       "id": "mvz2:amethyst_pylon",
       "colorKeys": [
         {
-          "code": "9D4FA9",
+          "code": "#9D4FA9",
           "time": 0.300007641
         },
         {
-          "code": "7E3789",
+          "code": "#7E3789",
           "time": 0.6
         },
         {
-          "code": "E09B6E",
+          "code": "#E09B6E",
           "time": 0.8
         },
         {
-          "code": "C06E38",
+          "code": "#C06E38",
           "time": 1.0
         }
       ],
@@ -1345,15 +1345,15 @@
       "id": "mvz2:nuke",
       "colorKeys": [
         {
-          "code": "00FF00",
+          "code": "#00FF00",
           "time": 0.6
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 0.9000076
         },
         {
-          "code": "000000",
+          "code": "#000000",
           "time": 1.0
         }
       ],
@@ -1372,11 +1372,11 @@
       "id": "mvz2:nether_reactor_core",
       "colorKeys": [
         {
-          "code": "008B8B",
+          "code": "#008B8B",
           "time": 0.8
         },
         {
-          "code": "6B6B6B",
+          "code": "#6B6B6B",
           "time": 1.0
         }
       ],
@@ -1395,15 +1395,15 @@
       "id": "mvz2:infectenser",
       "colorKeys": [
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 0.2
         },
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.6
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -1422,11 +1422,11 @@
       "id": "mvz2:force_pad",
       "colorKeys": [
         {
-          "code": "0000FF",
+          "code": "#0000FF",
           "time": 0.7499962
         },
         {
-          "code": "0080FF",
+          "code": "#0080FF",
           "time": 1.0
         }
       ],
@@ -1445,11 +1445,11 @@
       "id": "mvz2:golden_dropper",
       "colorKeys": [
         {
-          "code": "FFD400",
+          "code": "#FFD400",
           "time": 0.5000076
         },
         {
-          "code": "FFA900",
+          "code": "#FFA900",
           "time": 1.0
         }
       ],
@@ -1468,15 +1468,15 @@
       "id": "mvz2:skyward_beacon",
       "colorKeys": [
         {
-          "code": "84B6B3",
+          "code": "#84B6B3",
           "time": 0.2
         },
         {
-          "code": "FFD665",
+          "code": "#FFD665",
           "time": 0.6
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 1.0
         }
       ],
@@ -1495,15 +1495,15 @@
       "id": "mvz2:skyward_beacon_night",
       "colorKeys": [
         {
-          "code": "254B72",
+          "code": "#254B72",
           "time": 0.2
         },
         {
-          "code": "DADADA",
+          "code": "#DADADA",
           "time": 0.6
         },
         {
-          "code": "12294C",
+          "code": "#12294C",
           "time": 1.0
         }
       ],
@@ -1522,15 +1522,15 @@
       "id": "mvz2:high_frequency_pulse_dispenser",
       "colorKeys": [
         {
-          "code": "940000",
+          "code": "#940000",
           "time": 0.33299762
         },
         {
-          "code": "4E4E4E",
+          "code": "#4E4E4E",
           "time": 0.66599524
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -1549,11 +1549,11 @@
       "id": "mvz2:diamond_spikes",
       "colorKeys": [
         {
-          "code": "48FFFF",
+          "code": "#48FFFF",
           "time": 0.7499962
         },
         {
-          "code": "30C6C6",
+          "code": "#30C6C6",
           "time": 1.0
         }
       ],
@@ -1572,11 +1572,11 @@
       "id": "mvz2:brick_cannon",
       "colorKeys": [
         {
-          "code": "7F7F7F",
+          "code": "#7F7F7F",
           "time": 0.5000076
         },
         {
-          "code": "442D16",
+          "code": "#442D16",
           "time": 1.0
         }
       ],
@@ -1595,15 +1595,15 @@
       "id": "mvz2:command_block",
       "colorKeys": [
         {
-          "code": "C27546",
+          "code": "#C27546",
           "time": 0.300007641
         },
         {
-          "code": "CB9F83",
+          "code": "#CB9F83",
           "time": 0.6
         },
         {
-          "code": "B3B0B9",
+          "code": "#B3B0B9",
           "time": 1.0
         }
       ],
@@ -1622,11 +1622,11 @@
       "id": "mvz2:random_china",
       "colorKeys": [
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 0.6599985
         },
         {
-          "code": "0000FF",
+          "code": "#0000FF",
           "time": 1.0
         }
       ],
@@ -1645,15 +1645,15 @@
       "id": "mvz2:error_block",
       "colorKeys": [
         {
-          "code": "0072FF",
+          "code": "#0072FF",
           "time": 0.2500038
         },
         {
-          "code": "E8E6D9",
+          "code": "#E8E6D9",
           "time": 0.7499962
         },
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 1.0
         }
       ],
@@ -1672,19 +1672,19 @@
       "id": "mvz2:snipenser",
       "colorKeys": [
         {
-          "code": "FF0000",
+          "code": "#FF0000",
           "time": 0.100007631
         },
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.4
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 0.7000076
         },
         {
-          "code": "C3A26D",
+          "code": "#C3A26D",
           "time": 1.0
         }
       ],
@@ -1703,11 +1703,11 @@
       "id": "mvz2:gargoyle",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -1726,19 +1726,19 @@
       "id": "mvz2:hell_chariot",
       "colorKeys": [
         {
-          "code": "24232B",
+          "code": "#24232B",
           "time": 0.2500038
         },
         {
-          "code": "161112",
+          "code": "#161112",
           "time": 0.5000076
         },
         {
-          "code": "46262C",
+          "code": "#46262C",
           "time": 0.7499962
         },
         {
-          "code": "381A1F",
+          "code": "#381A1F",
           "time": 1.0
         }
       ],
@@ -1757,11 +1757,11 @@
       "id": "mvz2:soulsand",
       "colorKeys": [
         {
-          "code": "463529",
+          "code": "#463529",
           "time": 0.0
         },
         {
-          "code": "463529",
+          "code": "#463529",
           "time": 1.0
         }
       ],
@@ -1780,11 +1780,11 @@
       "id": "mvz2:reflective_barrier",
       "colorKeys": [
         {
-          "code": "869C2E",
+          "code": "#869C2E",
           "time": 0.0
         },
         {
-          "code": "869C2E",
+          "code": "#869C2E",
           "time": 1.0
         }
       ],
@@ -1803,11 +1803,11 @@
       "id": "mvz2:shikaisen_staff",
       "colorKeys": [
         {
-          "code": "BB8028",
+          "code": "#BB8028",
           "time": 0.5000076
         },
         {
-          "code": "DAB276",
+          "code": "#DAB276",
           "time": 1.0
         }
       ],
@@ -1826,11 +1826,11 @@
       "id": "mvz2:divine_shield",
       "colorKeys": [
         {
-          "code": "FFE45B",
+          "code": "#FFE45B",
           "time": 0.0
         },
         {
-          "code": "FFE45B",
+          "code": "#FFE45B",
           "time": 1.0
         }
       ],
@@ -1849,11 +1849,11 @@
       "id": "mvz2:cannon",
       "colorKeys": [
         {
-          "code": "313131",
+          "code": "#313131",
           "time": 0.7000076
         },
         {
-          "code": "FFFFFF",
+          "code": "#FFFFFF",
           "time": 1.0
         }
       ],
@@ -1872,11 +1872,11 @@
       "id": "mvz2:skeleton_statue",
       "colorKeys": [
         {
-          "code": "EEEAE6",
+          "code": "#EEEAE6",
           "time": 0.5000076
         },
         {
-          "code": "DFD8D1",
+          "code": "#DFD8D1",
           "time": 1.0
         }
       ],
@@ -1895,11 +1895,11 @@
       "id": "mvz2:locked_chest_balloon",
       "colorKeys": [
         {
-          "code": "C83232",
+          "code": "#C83232",
           "time": 0.0
         },
         {
-          "code": "C83232",
+          "code": "#C83232",
           "time": 1.0
         }
       ],
@@ -1918,11 +1918,11 @@
       "id": "mvz2:rolling_hay_bale",
       "colorKeys": [
         {
-          "code": "CBB630",
+          "code": "#CBB630",
           "time": 0.5000076
         },
         {
-          "code": "BFAB31",
+          "code": "#BFAB31",
           "time": 1.0
         }
       ],
@@ -1941,11 +1941,11 @@
       "id": "mvz2:rolling_wood",
       "colorKeys": [
         {
-          "code": "C6A570",
+          "code": "#C6A570",
           "time": 0.5000076
         },
         {
-          "code": "805E36",
+          "code": "#805E36",
           "time": 1.0
         }
       ],
@@ -1964,11 +1964,11 @@
       "id": "mvz2:rolling_stone",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -1987,11 +1987,11 @@
       "id": "mvz2:gargoyle_statue",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -2010,11 +2010,11 @@
       "id": "mvz2:cart",
       "colorKeys": [
         {
-          "code": "4F4F4F",
+          "code": "#4F4F4F",
           "time": 0.5000076
         },
         {
-          "code": "ABABAB",
+          "code": "#ABABAB",
           "time": 1.0
         }
       ],
@@ -2033,15 +2033,15 @@
       "id": "mvz2:pumpkin_carriage",
       "colorKeys": [
         {
-          "code": "9F5A10",
+          "code": "#9F5A10",
           "time": 0.349996179
         },
         {
-          "code": "733808",
+          "code": "#733808",
           "time": 0.7000076
         },
         {
-          "code": "4E1D00",
+          "code": "#4E1D00",
           "time": 1.0
         }
       ],
@@ -2060,15 +2060,15 @@
       "id": "mvz2:bowl_chariot",
       "colorKeys": [
         {
-          "code": "C87878",
+          "code": "#C87878",
           "time": 0.4500038
         },
         {
-          "code": "000000",
+          "code": "#000000",
           "time": 0.9000076
         },
         {
-          "code": "FFFF00",
+          "code": "#FFFF00",
           "time": 1.0
         }
       ],
@@ -2087,11 +2087,11 @@
       "id": "mvz2:ballista",
       "colorKeys": [
         {
-          "code": "C6A570",
+          "code": "#C6A570",
           "time": 0.5000076
         },
         {
-          "code": "805E36",
+          "code": "#805E36",
           "time": 1.0
         }
       ],
@@ -2110,11 +2110,11 @@
       "id": "mvz2:corpse_cart",
       "colorKeys": [
         {
-          "code": "CDCDCD",
+          "code": "#CDCDCD",
           "time": 0.5000076
         },
         {
-          "code": "604F37",
+          "code": "#604F37",
           "time": 1.0
         }
       ],
@@ -2133,11 +2133,11 @@
       "id": "mvz2:wither_summoning_blocks",
       "colorKeys": [
         {
-          "code": "463529",
+          "code": "#463529",
           "time": 0.0
         },
         {
-          "code": "463529",
+          "code": "#463529",
           "time": 1.0
         }
       ],
