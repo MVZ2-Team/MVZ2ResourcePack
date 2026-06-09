@@ -1072,6 +1072,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/artifacts/bunbunmaru_newspaper.png",
+      "key": "mvz2:artifacts/bunbunmaru_newspaper",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/artifacts/censer_of_forgotten.png",
       "key": "mvz2:artifacts/censer_of_forgotten",
       "slices": [
@@ -1083,6 +1092,15 @@
     {
       "texture": "mvz2/sprites/artifacts/control_rod.png",
       "key": "mvz2:artifacts/control_rod",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/artifacts/cow_horn.png",
+      "key": "mvz2:artifacts/cow_horn",
       "slices": [
         {
           "single": true
@@ -1135,8 +1153,26 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/artifacts/extending_arm.png",
+      "key": "mvz2:artifacts/extending_arm",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/artifacts/eye_of_the_giant.png",
       "key": "mvz2:artifacts/eye_of_the_giant",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/artifacts/gale_leaf.png",
+      "key": "mvz2:artifacts/gale_leaf",
       "slices": [
         {
           "single": true
@@ -1180,8 +1216,26 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/artifacts/krakens_tentacle.png",
+      "key": "mvz2:artifacts/krakens_tentacle",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/artifacts/lightbomb.png",
       "key": "mvz2:artifacts/lightbomb",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/artifacts/lily_platform.png",
+      "key": "mvz2:artifacts/lily_platform",
       "slices": [
         {
           "single": true
@@ -3287,8 +3341,7 @@
       "key": "mvz2:mobile_blueprint/add_pearl",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3297,8 +3350,7 @@
       "key": "mvz2:mobile_blueprint/amethyst_pylon",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3307,8 +3359,7 @@
       "key": "mvz2:mobile_blueprint/anubisand",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3317,8 +3368,7 @@
       "key": "mvz2:mobile_blueprint/anvil",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3327,8 +3377,7 @@
       "key": "mvz2:mobile_blueprint/beacon",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3337,8 +3386,7 @@
       "key": "mvz2:mobile_blueprint/bedserker",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3347,8 +3395,7 @@
       "key": "mvz2:mobile_blueprint/berserker",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3357,8 +3404,7 @@
       "key": "mvz2:mobile_blueprint/black_hole_bomb",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3367,8 +3413,7 @@
       "key": "mvz2:mobile_blueprint/brick_cannon",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3377,8 +3422,7 @@
       "key": "mvz2:mobile_blueprint/cannonball_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3387,8 +3431,7 @@
       "key": "mvz2:mobile_blueprint/cannoneer_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3397,8 +3440,7 @@
       "key": "mvz2:mobile_blueprint/cave_spider",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3407,8 +3449,7 @@
       "key": "mvz2:mobile_blueprint/command_block",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3417,8 +3458,7 @@
       "key": "mvz2:mobile_blueprint/cooling_cell",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3427,8 +3467,7 @@
       "key": "mvz2:mobile_blueprint/cursed_candle",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3437,8 +3476,7 @@
       "key": "mvz2:mobile_blueprint/desire_pot",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3447,8 +3485,7 @@
       "key": "mvz2:mobile_blueprint/devourer",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3457,8 +3494,7 @@
       "key": "mvz2:mobile_blueprint/diamond_helmetted_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3467,8 +3503,7 @@
       "key": "mvz2:mobile_blueprint/diamond_spikes",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3477,8 +3512,7 @@
       "key": "mvz2:mobile_blueprint/dispenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3487,8 +3521,7 @@
       "key": "mvz2:mobile_blueprint/dream_crystal",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3497,8 +3530,7 @@
       "key": "mvz2:mobile_blueprint/dream_silk",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3507,8 +3539,7 @@
       "key": "mvz2:mobile_blueprint/drivenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3517,8 +3548,7 @@
       "key": "mvz2:mobile_blueprint/dullahan",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3527,8 +3557,16 @@
       "key": "mvz2:mobile_blueprint/dullahan_head",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/ejector.png",
+      "key": "mvz2:mobile_blueprint/ejector",
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -3537,8 +3575,7 @@
       "key": "mvz2:mobile_blueprint/elastic_cloud",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3547,8 +3584,7 @@
       "key": "mvz2:mobile_blueprint/emperor_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3557,8 +3593,7 @@
       "key": "mvz2:mobile_blueprint/error_block",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3567,8 +3602,7 @@
       "key": "mvz2:mobile_blueprint/firework_dispenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3577,8 +3611,7 @@
       "key": "mvz2:mobile_blueprint/flag_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3587,8 +3620,16 @@
       "key": "mvz2:mobile_blueprint/force_pad",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/freezenser.png",
+      "key": "mvz2:mobile_blueprint/freezenser",
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -3597,8 +3638,7 @@
       "key": "mvz2:mobile_blueprint/furnace",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3607,8 +3647,7 @@
       "key": "mvz2:mobile_blueprint/gargoyle",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3617,8 +3656,7 @@
       "key": "mvz2:mobile_blueprint/ghast",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3627,8 +3665,7 @@
       "key": "mvz2:mobile_blueprint/ghost",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3637,8 +3674,7 @@
       "key": "mvz2:mobile_blueprint/giant_bowl",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3647,8 +3683,7 @@
       "key": "mvz2:mobile_blueprint/glowstone",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3657,8 +3692,7 @@
       "key": "mvz2:mobile_blueprint/golden_apple",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3667,8 +3701,7 @@
       "key": "mvz2:mobile_blueprint/golden_dropper",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3677,8 +3710,7 @@
       "key": "mvz2:mobile_blueprint/gravelpult",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3687,8 +3719,7 @@
       "key": "mvz2:mobile_blueprint/gravity_pad",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3697,8 +3728,7 @@
       "key": "mvz2:mobile_blueprint/gunpowder_barrel",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3707,8 +3737,7 @@
       "key": "mvz2:mobile_blueprint/hacker",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3717,8 +3746,7 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_flashbang",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3727,8 +3755,7 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_nuke",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3737,8 +3764,7 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_rapid",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3747,8 +3773,7 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_spread",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3757,8 +3782,7 @@
       "key": "mvz2:mobile_blueprint/hellfire",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3767,8 +3791,7 @@
       "key": "mvz2:mobile_blueprint/hell_chariot",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3777,8 +3800,7 @@
       "key": "mvz2:mobile_blueprint/high_frequency_pulse_dispenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3787,8 +3809,7 @@
       "key": "mvz2:mobile_blueprint/imp",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3797,8 +3818,7 @@
       "key": "mvz2:mobile_blueprint/infectenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3807,8 +3827,7 @@
       "key": "mvz2:mobile_blueprint/iron_helmetted_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3817,8 +3836,7 @@
       "key": "mvz2:mobile_blueprint/jeweled_pagoda",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3827,8 +3845,7 @@
       "key": "mvz2:mobile_blueprint/leather_capped_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3837,8 +3854,7 @@
       "key": "mvz2:mobile_blueprint/lengthen_board",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3847,8 +3863,7 @@
       "key": "mvz2:mobile_blueprint/lightning_orb",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3857,8 +3872,7 @@
       "key": "mvz2:mobile_blueprint/lily_pad",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3867,8 +3881,7 @@
       "key": "mvz2:mobile_blueprint/locked_chest",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3877,8 +3890,7 @@
       "key": "mvz2:mobile_blueprint/magichest",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3887,8 +3899,7 @@
       "key": "mvz2:mobile_blueprint/mega_mutant_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3897,8 +3908,7 @@
       "key": "mvz2:mobile_blueprint/mesmerizer",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3907,8 +3917,7 @@
       "key": "mvz2:mobile_blueprint/mine_tnt",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3917,8 +3926,7 @@
       "key": "mvz2:mobile_blueprint/monster_spawner",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3927,8 +3935,7 @@
       "key": "mvz2:mobile_blueprint/moonlight_sensor",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3937,8 +3944,7 @@
       "key": "mvz2:mobile_blueprint/mother_terror",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3947,8 +3953,7 @@
       "key": "mvz2:mobile_blueprint/mummy",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3957,8 +3962,7 @@
       "key": "mvz2:mobile_blueprint/mutant_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3967,8 +3971,7 @@
       "key": "mvz2:mobile_blueprint/necromancer",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3977,8 +3980,34 @@
       "key": "mvz2:mobile_blueprint/necrotombstone",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/nesting_tnt.png",
+      "key": "mvz2:mobile_blueprint/nesting_tnt",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/nesting_tnt_medium.png",
+      "key": "mvz2:mobile_blueprint/nesting_tnt_medium",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/nesting_tnt_small.png",
+      "key": "mvz2:mobile_blueprint/nesting_tnt_small",
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -3987,8 +4016,7 @@
       "key": "mvz2:mobile_blueprint/nether_hunter",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -3997,8 +4025,7 @@
       "key": "mvz2:mobile_blueprint/nether_mage",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4007,8 +4034,7 @@
       "key": "mvz2:mobile_blueprint/nether_mage_fire",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4017,8 +4043,7 @@
       "key": "mvz2:mobile_blueprint/nether_mage_frost",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4027,8 +4052,7 @@
       "key": "mvz2:mobile_blueprint/nether_mage_lightning",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4037,8 +4061,7 @@
       "key": "mvz2:mobile_blueprint/nether_reactor_core",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4047,8 +4070,7 @@
       "key": "mvz2:mobile_blueprint/nightmareaper",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4057,8 +4079,7 @@
       "key": "mvz2:mobile_blueprint/note_block",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4067,8 +4088,7 @@
       "key": "mvz2:mobile_blueprint/nuke",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4077,8 +4097,7 @@
       "key": "mvz2:mobile_blueprint/obsidian",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4087,8 +4106,7 @@
       "key": "mvz2:mobile_blueprint/parasite_terror",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4097,8 +4115,7 @@
       "key": "mvz2:mobile_blueprint/pistenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4107,8 +4124,7 @@
       "key": "mvz2:mobile_blueprint/pop_captain",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4117,8 +4133,7 @@
       "key": "mvz2:mobile_blueprint/punchton",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4127,8 +4142,7 @@
       "key": "mvz2:mobile_blueprint/random_china",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4137,8 +4151,7 @@
       "key": "mvz2:mobile_blueprint/red_dragon",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4147,8 +4160,7 @@
       "key": "mvz2:mobile_blueprint/reflective_barrier_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4157,8 +4169,7 @@
       "key": "mvz2:mobile_blueprint/repeatenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4167,8 +4178,7 @@
       "key": "mvz2:mobile_blueprint/return_pearl",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4177,8 +4187,7 @@
       "key": "mvz2:mobile_blueprint/reverse_satellite",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4187,8 +4196,7 @@
       "key": "mvz2:mobile_blueprint/seija",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4197,8 +4205,7 @@
       "key": "mvz2:mobile_blueprint/seija_cursed_doll",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4207,8 +4214,7 @@
       "key": "mvz2:mobile_blueprint/shadow_cell",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4217,8 +4223,7 @@
       "key": "mvz2:mobile_blueprint/shikaisen_staff",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4227,8 +4232,7 @@
       "key": "mvz2:mobile_blueprint/shikaisen_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4237,8 +4241,7 @@
       "key": "mvz2:mobile_blueprint/silvenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4247,8 +4250,7 @@
       "key": "mvz2:mobile_blueprint/skeleton",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4257,8 +4259,7 @@
       "key": "mvz2:mobile_blueprint/skeleton_horse",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4267,8 +4268,7 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4277,8 +4277,7 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_fire",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4287,8 +4286,7 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_frost",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4297,8 +4295,7 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_lightning",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4307,8 +4304,7 @@
       "key": "mvz2:mobile_blueprint/skeleton_statue",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4317,8 +4313,7 @@
       "key": "mvz2:mobile_blueprint/skeleton_warrior",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4327,8 +4322,7 @@
       "key": "mvz2:mobile_blueprint/skyward_beacon",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4337,8 +4331,7 @@
       "key": "mvz2:mobile_blueprint/slenderman",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4347,8 +4340,7 @@
       "key": "mvz2:mobile_blueprint/small_dispenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4357,8 +4349,7 @@
       "key": "mvz2:mobile_blueprint/snipenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4367,8 +4358,7 @@
       "key": "mvz2:mobile_blueprint/soulsand",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4377,8 +4367,7 @@
       "key": "mvz2:mobile_blueprint/soul_furnace",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4387,8 +4376,7 @@
       "key": "mvz2:mobile_blueprint/spider",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4397,8 +4385,7 @@
       "key": "mvz2:mobile_blueprint/spike_block",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4407,8 +4394,7 @@
       "key": "mvz2:mobile_blueprint/splitenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4417,8 +4403,7 @@
       "key": "mvz2:mobile_blueprint/stone_dropper",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4427,8 +4412,7 @@
       "key": "mvz2:mobile_blueprint/stone_eye",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4437,8 +4421,7 @@
       "key": "mvz2:mobile_blueprint/stone_shield",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4447,8 +4430,7 @@
       "key": "mvz2:mobile_blueprint/talisman_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4457,8 +4439,7 @@
       "key": "mvz2:mobile_blueprint/tesla_coil",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4467,8 +4448,7 @@
       "key": "mvz2:mobile_blueprint/the_giant",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4477,8 +4457,7 @@
       "key": "mvz2:mobile_blueprint/thunder_drum",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4487,8 +4466,7 @@
       "key": "mvz2:mobile_blueprint/tnt",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4497,8 +4475,7 @@
       "key": "mvz2:mobile_blueprint/totenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4507,8 +4484,7 @@
       "key": "mvz2:mobile_blueprint/transfenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4517,8 +4493,7 @@
       "key": "mvz2:mobile_blueprint/triplenser",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4527,8 +4502,7 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4537,8 +4511,7 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_blue",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4547,8 +4520,7 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_green",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4557,8 +4529,7 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_rainbow",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4567,8 +4538,7 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_red",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4577,8 +4547,7 @@
       "key": "mvz2:mobile_blueprint/vortex_hopper",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4587,8 +4556,7 @@
       "key": "mvz2:mobile_blueprint/wicked_hermit_zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4597,8 +4565,7 @@
       "key": "mvz2:mobile_blueprint/wisp_fly",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4607,8 +4574,7 @@
       "key": "mvz2:mobile_blueprint/wither",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4617,8 +4583,7 @@
       "key": "mvz2:mobile_blueprint/wooden_dropper",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4627,8 +4592,7 @@
       "key": "mvz2:mobile_blueprint/wooden_fan",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4637,8 +4601,7 @@
       "key": "mvz2:mobile_blueprint/zombie",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4647,8 +4610,7 @@
       "key": "mvz2:mobile_blueprint/zombie_cat",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4657,8 +4619,7 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4667,8 +4628,7 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud_snow",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -4677,8 +4637,7 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud_thunder",
       "slices": [
         {
-          "single": true,
-          "fullRect": true
+          "single": true
         }
       ]
     },
@@ -7669,6 +7628,35 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/ejector.png",
+      "key": "mvz2:entity/contraption/ejector",
+      "slices": [
+        {
+          "width": 80,
+          "height": 80,
+          "fullRect": true
+        },
+        {
+          "x": 81,
+          "width": 80,
+          "height": 80,
+          "fullRect": true
+        },
+        {
+          "x": 162,
+          "width": 80,
+          "height": 80,
+          "fullRect": true
+        },
+        {
+          "x": 243,
+          "width": 3,
+          "height": 3,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/elastic_cloud.png",
       "key": "mvz2:entity/contraption/elastic_cloud",
       "slices": [
@@ -7771,6 +7759,23 @@
       "slices": [
         {
           "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/freezenser.png",
+      "key": "mvz2:entity/contraption/freezenser",
+      "slices": [
+        {
+          "width": 40,
+          "height": 38,
+          "fullRect": true
+        },
+        {
+          "x": 41,
+          "width": 15,
+          "height": 31,
           "fullRect": true
         }
       ]
@@ -8261,6 +8266,29 @@
       "slices": [
         {
           "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/nesting_tnt.png",
+      "key": "mvz2:entity/contraption/nesting_tnt",
+      "slices": [
+        {
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "x": 64,
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "x": 128,
+          "width": 64,
+          "height": 64,
           "fullRect": true
         }
       ]
@@ -13364,6 +13392,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/projectile/chill_arrow.png",
+      "key": "mvz2:entity/projectile/chill_arrow",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/projectile/cobble.png",
       "key": "mvz2:entity/projectile/cobble",
       "slices": [
@@ -13476,6 +13514,16 @@
     {
       "texture": "mvz2/sprites/entity/projectile/flint.png",
       "key": "mvz2:entity/projectile/flint",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/projectile/frozen_orb.png",
+      "key": "mvz2:entity/projectile/frozen_orb",
       "slices": [
         {
           "single": true,
@@ -14817,6 +14865,12 @@
         },
         {
           "x": 160,
+          "y": 32,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 192,
           "y": 32,
           "width": 32,
           "height": 32

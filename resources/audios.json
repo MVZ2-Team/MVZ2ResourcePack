@@ -325,8 +325,16 @@
       "path": "mvz2/sounds/coin.wav"
     },
     {
+      "id": "mvz2:coldcast",
+      "path": "mvz2/sounds/coldcast.wav"
+    },
+    {
       "id": "mvz2:confuse",
       "path": "mvz2/sounds/confuse.wav"
+    },
+    {
+      "id": "mvz2:confusion_shimmer",
+      "path": "mvz2/sounds/confusion_shimmer.ogg"
     },
     {
       "id": "mvz2:danmaku",
@@ -485,6 +493,18 @@
       "path": "mvz2/sounds/freeze.ogg"
     },
     {
+      "id": "mvz2:frozen_orb1",
+      "path": "mvz2/sounds/frozen_orb1.wav"
+    },
+    {
+      "id": "mvz2:frozen_orb2",
+      "path": "mvz2/sounds/frozen_orb2.wav"
+    },
+    {
+      "id": "mvz2:frozen_orb3",
+      "path": "mvz2/sounds/frozen_orb3.wav"
+    },
+    {
       "id": "mvz2:fuse",
       "path": "mvz2/sounds/fuse.wav"
     },
@@ -583,6 +603,10 @@
     {
       "id": "mvz2:hum",
       "path": "mvz2/sounds/hum.wav"
+    },
+    {
+      "id": "mvz2:hydraulic",
+      "path": "mvz2/sounds/hydraulic.ogg"
     },
     {
       "id": "mvz2:impact",
@@ -823,6 +847,10 @@
     {
       "id": "mvz2:punch2",
       "path": "mvz2/sounds/punch2.wav"
+    },
+    {
+      "id": "mvz2:raidhorn",
+      "path": "mvz2/sounds/raidhorn.ogg"
     },
     {
       "id": "mvz2:rain",
@@ -2462,10 +2490,26 @@
       "priority": 64
     },
     {
+      "id": "mvz2:coldcast",
+      "samples": [
+        {
+          "id": "mvz2:coldcast"
+        }
+      ]
+    },
+    {
       "id": "mvz2:confuse",
       "samples": [
         {
           "id": "mvz2:confuse"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:confusion_shimmer",
+      "samples": [
+        {
+          "id": "mvz2:confusion_shimmer"
         }
       ]
     },
@@ -3054,6 +3098,20 @@
       ]
     },
     {
+      "id": "mvz2:frozen_orb",
+      "samples": [
+        {
+          "id": "mvz2:frozen_orb1"
+        },
+        {
+          "id": "mvz2:frozen_orb2"
+        },
+        {
+          "id": "mvz2:frozen_orb3"
+        }
+      ]
+    },
+    {
       "id": "mvz2:fuse",
       "samples": [
         {
@@ -3421,6 +3479,14 @@
       "samples": [
         {
           "id": "mvz2:hum"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:hydraulic",
+      "samples": [
+        {
+          "id": "mvz2:hydraulic"
         }
       ]
     },
@@ -4090,6 +4156,14 @@
         },
         {
           "id": "mvz2:punch2"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:raidhorn",
+      "samples": [
+        {
+          "id": "mvz2:raidhorn"
         }
       ]
     },

@@ -1392,6 +1392,87 @@
       ]
     },
     {
+      "id": "mvz2:freezenser",
+      "colorKeys": [
+        {
+          "code": "#FFFFFF",
+          "time": 0.2500038
+        },
+        {
+          "code": "#89C1ED",
+          "time": 0.5000076
+        },
+        {
+          "code": "#4D96CF",
+          "time": 0.7499962
+        },
+        {
+          "code": "#1B67A3",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:ejector",
+      "colorKeys": [
+        {
+          "code": "#DC7B55",
+          "time": 0.5000076
+        },
+        {
+          "code": "#A2A2B1",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:nesting_tnt",
+      "colorKeys": [
+        {
+          "code": "#00FFFF",
+          "time": 0.6
+        },
+        {
+          "code": "#FFFFFF",
+          "time": 0.9000076
+        },
+        {
+          "code": "#000000",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
       "id": "mvz2:infectenser",
       "colorKeys": [
         {
