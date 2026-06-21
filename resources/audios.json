@@ -473,6 +473,10 @@
       "path": "mvz2/sounds/fizz.ogg"
     },
     {
+      "id": "mvz2:flood",
+      "path": "mvz2/sounds/flood.wav"
+    },
+    {
       "id": "mvz2:floop",
       "path": "mvz2/sounds/floop.wav"
     },
@@ -1167,6 +1171,14 @@
     {
       "id": "mvz2:train_whistle",
       "path": "mvz2/sounds/train_whistle.wav"
+    },
+    {
+      "id": "mvz2:trap_close",
+      "path": "mvz2/sounds/trap_close.ogg"
+    },
+    {
+      "id": "mvz2:trap_open",
+      "path": "mvz2/sounds/trap_open.wav"
     },
     {
       "id": "mvz2:travel",
@@ -3057,6 +3069,14 @@
       ]
     },
     {
+      "id": "mvz2:flood",
+      "samples": [
+        {
+          "id": "mvz2:flood"
+        }
+      ]
+    },
+    {
       "id": "mvz2:floop",
       "samples": [
         {
@@ -4884,6 +4904,22 @@
         }
       ],
       "maxCount": 1
+    },
+    {
+      "id": "mvz2:trap_open",
+      "samples": [
+        {
+          "id": "mvz2:trap_open"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:trap_close",
+      "samples": [
+        {
+          "id": "mvz2:trap_close"
+        }
+      ]
     },
     {
       "id": "mvz2:travel",

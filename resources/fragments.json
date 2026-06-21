@@ -1446,6 +1446,52 @@
       ]
     },
     {
+      "id": "mvz2:onbashira",
+      "colorKeys": [
+        {
+          "code": "#826038",
+          "time": 0.5000076
+        },
+        {
+          "code": "#61512D",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:autotrap",
+      "colorKeys": [
+        {
+          "code": "#DDE8EA",
+          "time": 0.5000076
+        },
+        {
+          "code": "#0095FF",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
       "id": "mvz2:nesting_tnt",
       "colorKeys": [
         {

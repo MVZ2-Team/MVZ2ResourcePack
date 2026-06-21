@@ -3373,6 +3373,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/mobile_blueprint/autotrap.png",
+      "key": "mvz2:mobile_blueprint/autotrap",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/mobile_blueprint/beacon.png",
       "key": "mvz2:mobile_blueprint/beacon",
       "slices": [
@@ -3638,7 +3647,8 @@
       "key": "mvz2:mobile_blueprint/furnace",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4095,6 +4105,15 @@
     {
       "texture": "mvz2/sprites/mobile_blueprint/obsidian.png",
       "key": "mvz2:mobile_blueprint/obsidian",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/onbashira.png",
+      "key": "mvz2:mobile_blueprint/onbashira",
       "slices": [
         {
           "single": true
@@ -7211,6 +7230,35 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/autotrap.png",
+      "key": "mvz2:entity/contraption/autotrap",
+      "slices": [
+        {
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "x": 65,
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "x": 130,
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "x": 195,
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/beacon.png",
       "key": "mvz2:entity/contraption/beacon",
       "slices": [
@@ -8388,6 +8436,29 @@
           "y": 64,
           "width": 64,
           "height": 64,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/onbashira.png",
+      "key": "mvz2:entity/contraption/onbashira",
+      "slices": [
+        {
+          "width": 64,
+          "height": 128,
+          "fullRect": true
+        },
+        {
+          "x": 64,
+          "width": 64,
+          "height": 128,
+          "fullRect": true
+        },
+        {
+          "x": 128,
+          "width": 64,
+          "height": 128,
           "fullRect": true
         }
       ]
@@ -14874,6 +14945,12 @@
           "y": 32,
           "width": 32,
           "height": 32
+        },
+        {
+          "x": 224,
+          "y": 32,
+          "width": 32,
+          "height": 32
         }
       ]
     },
@@ -14970,6 +15047,16 @@
         },
         {
           "x": 96,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 128,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 160,
           "width": 32,
           "height": 32
         }
