@@ -1,0 +1,144 @@
+{
+  "samples": [
+    {
+      "id": "mvz2:choose_your_seeds",
+      "path": "choose_your_seeds.wav",
+      "streaming": true
+    },
+    {
+      "id": "mvz2:pharaoh",
+      "path": "pharaoh.wav",
+      "streaming": true
+    },
+    {
+      "id": "mvz2:final_item",
+      "path": "level_cleared.wav"
+    },
+    {
+      "id": "mvz2:win_music",
+      "path": "win_music.wav"
+    }
+  ],
+  "musictracks": [
+    {
+      "id": "mvz2:choosing",
+      "mainTrack": "mvz2:choose_your_seeds"
+    },
+    {
+      "id": "mvz2:day",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:halloween",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:minigame",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:ultimate_battle",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:halloween_boss",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:dream_level",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:suspension",
+      "mainTrack": "mvz2:suspension"
+    },
+    {
+      "id": "mvz2:nightmare_level",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:nightmare_final",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:nightmare_boss",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:nightmare_boss2",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:castle_level",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:seija",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:castle_final",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:wither_boss",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:mausoleum_level",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:puzzle",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:mausoleum_final",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:mausoleum_boss",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:mausoleum_boss_2",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:ship_level",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:ship_final",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:ship_boss",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:palace_level",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:palace_final",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:palace_boss",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:mountain_level",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:mountain_final",
+      "mainTrack": "mvz2:pharaoh"
+    },
+    {
+      "id": "mvz2:mountain_boss",
+      "mainTrack": "mvz2:pharaoh"
+    }
+  ]
+}
