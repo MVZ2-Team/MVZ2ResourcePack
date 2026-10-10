@@ -1184,6 +1184,33 @@
       ]
     },
     {
+      "id": "mvz2:jeweled_pagoda",
+      "colorKeys": [
+        {
+          "code": "#3E1700",
+          "time": 0.4
+        },
+        {
+          "code": "#FFF2B1",
+          "time": 0.4
+        },
+        {
+          "code": "#A3755A",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
       "id": "mvz2:transfenser",
       "colorKeys": [
         {
@@ -1392,22 +1419,18 @@
       ]
     },
     {
-      "id": "mvz2:freezenser",
+      "id": "mvz2:maplewheel",
       "colorKeys": [
         {
-          "code": "#FFFFFF",
-          "time": 0.2500038
+          "code": "#E73612",
+          "time": 0.4500038
         },
         {
-          "code": "#89C1ED",
-          "time": 0.5000076
+          "code": "#E7E7E7",
+          "time": 0.9000076
         },
         {
-          "code": "#4D96CF",
-          "time": 0.7499962
-        },
-        {
-          "code": "#1B67A3",
+          "code": "#44331F",
           "time": 1.0
         }
       ],
@@ -1446,6 +1469,29 @@
       ]
     },
     {
+      "id": "mvz2:teleporter",
+      "colorKeys": [
+        {
+          "code": "#4A8CD6",
+          "time": 0.5000076
+        },
+        {
+          "code": "#009F17",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
       "id": "mvz2:onbashira",
       "colorKeys": [
         {
@@ -1454,6 +1500,37 @@
         },
         {
           "code": "#61512D",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:freezenser",
+      "colorKeys": [
+        {
+          "code": "#FFFFFF",
+          "time": 0.2500038
+        },
+        {
+          "code": "#89C1ED",
+          "time": 0.5000076
+        },
+        {
+          "code": "#4D96CF",
+          "time": 0.7499962
+        },
+        {
+          "code": "#1B67A3",
           "time": 1.0
         }
       ],
@@ -1504,6 +1581,29 @@
         },
         {
           "code": "#000000",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:loan_sign",
+      "colorKeys": [
+        {
+          "code": "#9C9299",
+          "time": 0.5000076
+        },
+        {
+          "code": "#62545D",
           "time": 1.0
         }
       ],
@@ -1646,6 +1746,50 @@
       ]
     },
     {
+      "id": "mvz2:prismatic_pylon",
+      "blend": true,
+      "colorKeys": [
+        {
+          "code": "#FFCCCC",
+          "time": 0.0
+        },
+        {
+          "code": "#FFFFCC",
+          "time": 0.1666743
+        },
+        {
+          "code": "#CCFFCC",
+          "time": 0.333333343
+        },
+        {
+          "code": "#CCFFFF",
+          "time": 0.5000076
+        },
+        {
+          "code": "#CCCCFF",
+          "time": 0.6666667
+        },
+        {
+          "code": "#FFCCFF",
+          "time": 0.8333257
+        },
+        {
+          "code": "#FFCCCC",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
       "id": "mvz2:high_frequency_pulse_dispenser",
       "colorKeys": [
         {
@@ -1658,6 +1802,37 @@
         },
         {
           "code": "#ABABAB",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:cat_tl_mk_ii",
+      "colorKeys": [
+        {
+          "code": "#262626",
+          "time": 0.4
+        },
+        {
+          "code": "#ABABAB",
+          "time": 0.8
+        },
+        {
+          "code": "#2F8926",
+          "time": 0.9499962
+        },
+        {
+          "code": "#00FFEB",
           "time": 1.0
         }
       ],
@@ -1812,6 +1987,75 @@
         },
         {
           "code": "#C3A26D",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:giant_stone",
+      "colorKeys": [
+        {
+          "code": "#4F4F4F",
+          "time": 0.5000076
+        },
+        {
+          "code": "#ABABAB",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:anti_gravity_pad",
+      "colorKeys": [
+        {
+          "code": "#00FF00",
+          "time": 0.7499962
+        },
+        {
+          "code": "#A2FF80",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:time_bomb",
+      "colorKeys": [
+        {
+          "code": "#646573",
+          "time": 0.7499962
+        },
+        {
+          "code": "#CBCCDC",
           "time": 1.0
         }
       ],
@@ -2065,6 +2309,29 @@
       ]
     },
     {
+      "id": "mvz2:creaking",
+      "colorKeys": [
+        {
+          "code": "#48403D",
+          "time": 0.5000076
+        },
+        {
+          "code": "#3C3331",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
       "id": "mvz2:rolling_wood",
       "colorKeys": [
         {
@@ -2275,6 +2542,29 @@
         },
         {
           "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:rising_ice_pillar",
+      "colorKeys": [
+        {
+          "code": "#86AEFD",
+          "time": 0.5000076
+        },
+        {
+          "code": "#BCD4FF",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 0.75,
+          "time": 0.0
+        },
+        {
+          "alpha": 0.75,
           "time": 1.0
         }
       ]

@@ -2216,6 +2216,235 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mvz2:nitori",
+      "faceRight": false,
+      "variants": [
+        {
+          "id": "mvz2:normal",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            }
+          ]
+        },
+        {
+          "id": "mvz2:scared",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            },
+            {
+              "sprite": "mvz2:characters/nitori[1]",
+              "x": 192.0,
+              "y": 144.0
+            }
+          ]
+        },
+        {
+          "id": "mvz2:sad",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            },
+            {
+              "sprite": "mvz2:characters/nitori[3]",
+              "x": 176.0,
+              "y": 112.0
+            }
+          ]
+        },
+        {
+          "id": "mvz2:happy",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            },
+            {
+              "sprite": "mvz2:characters/nitori[4]",
+              "x": 176.0,
+              "y": 144.0
+            }
+          ]
+        },
+        {
+          "id": "mvz2:surprised",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            },
+            {
+              "sprite": "mvz2:characters/nitori[2]",
+              "x": 192.0,
+              "y": 144.0
+            }
+          ]
+        },
+        {
+          "id": "mvz2:worried",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            },
+            {
+              "sprite": "mvz2:characters/nitori[5]",
+              "x": 176.0,
+              "y": 112.0
+            }
+          ]
+        },
+        {
+          "id": "mvz2:angry",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            },
+            {
+              "sprite": "mvz2:characters/nitori[6]",
+              "x": 176.0,
+              "y": 112.0
+            }
+          ]
+        },
+        {
+          "id": "mvz2:madness",
+          "width": 520,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 50.0,
+          "extendRight": 0.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/nitori"
+            },
+            {
+              "sprite": "mvz2:characters/nitori[7]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mvz2:aya",
+      "faceRight": true,
+      "variants": [
+        {
+          "id": "mvz2:normal",
+          "width": 810,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.4,
+          "extendLeft": 100.0,
+          "extendRight": 100.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/aya"
+            }
+          ]
+        },
+        {
+          "id": "mvz2:grinning",
+          "width": 810,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.4,
+          "extendLeft": 100.0,
+          "extendRight": 100.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/aya"
+            },
+            {
+              "sprite": "mvz2:characters/aya[1]",
+              "x": 352.0,
+              "y": 144.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mvz2:reimu",
+      "faceRight": false,
+      "variants": [
+        {
+          "id": "mvz2:normal",
+          "width": 635,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 75.0,
+          "extendRight": 75.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/reimu"
+            }
+          ]
+        },
+        {
+          "id": "mvz2:close_eyes",
+          "width": 635,
+          "height": 1280,
+          "pivotX": 0.5,
+          "pivotY": 0.35,
+          "extendLeft": 75.0,
+          "extendRight": 75.0,
+          "layers": [
+            {
+              "sprite": "mvz2:characters/reimu"
+            },
+            {
+              "sprite": "mvz2:characters/reimu[1]",
+              "x": 240.0,
+              "y": 160.0
+            }
+          ]
+        }
+      ]
     }
   ]
 }

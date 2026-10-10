@@ -85,12 +85,24 @@
       "path": "mvz2/music/minigame.mp3"
     },
     {
+      "id": "mvz2:mountain_boss",
+      "path": "mvz2/music/mountain_boss.wav"
+    },
+    {
+      "id": "mvz2:mountain_final",
+      "path": "mvz2/music/mountain_final.wav"
+    },
+    {
       "id": "mvz2:mountain_level",
       "path": "mvz2/music/mountain_level.wav"
     },
     {
       "id": "mvz2:mountain_level_sub",
       "path": "mvz2/music/mountain_level_sub.wav"
+    },
+    {
+      "id": "mvz2:mountain_map",
+      "path": "mvz2/music/mountain_map.wav"
     },
     {
       "id": "mvz2:nightmare_boss",
@@ -281,6 +293,10 @@
       "path": "mvz2/sounds/cave.wav"
     },
     {
+      "id": "mvz2:cave_ambience",
+      "path": "mvz2/sounds/cave_ambience.ogg"
+    },
+    {
       "id": "mvz2:chains_break",
       "path": "mvz2/sounds/chains_break.wav"
     },
@@ -321,6 +337,10 @@
       "path": "mvz2/sounds/chime.wav"
     },
     {
+      "id": "mvz2:chrono_sphere",
+      "path": "mvz2/sounds/chrono_sphere.wav"
+    },
+    {
       "id": "mvz2:coin",
       "path": "mvz2/sounds/coin.wav"
     },
@@ -337,6 +357,10 @@
       "path": "mvz2/sounds/confusion_shimmer.ogg"
     },
     {
+      "id": "mvz2:critical",
+      "path": "mvz2/sounds/critical.wav"
+    },
+    {
       "id": "mvz2:danmaku",
       "path": "mvz2/sounds/danmaku.wav"
     },
@@ -351,6 +375,10 @@
     {
       "id": "mvz2:data_stream",
       "path": "mvz2/sounds/data_stream.wav"
+    },
+    {
+      "id": "mvz2:death_tarot",
+      "path": "mvz2/sounds/death_tarot.wav"
     },
     {
       "id": "mvz2:decrepify",
@@ -625,6 +653,50 @@
       "path": "mvz2/sounds/juicy.ogg"
     },
     {
+      "id": "mvz2:killed",
+      "path": "mvz2/sounds/killed.wav"
+    },
+    {
+      "id": "mvz2:kraken_barrage",
+      "path": "mvz2/sounds/kraken_barrage.wav"
+    },
+    {
+      "id": "mvz2:kraken_death",
+      "path": "mvz2/sounds/kraken_death.ogg"
+    },
+    {
+      "id": "mvz2:kraken_death_ray",
+      "path": "mvz2/sounds/kraken_death_ray.wav"
+    },
+    {
+      "id": "mvz2:kraken_eyes",
+      "path": "mvz2/sounds/kraken_eyes.wav"
+    },
+    {
+      "id": "mvz2:kraken_hatch_close",
+      "path": "mvz2/sounds/kraken_hatch_close.wav"
+    },
+    {
+      "id": "mvz2:kraken_hatch_open",
+      "path": "mvz2/sounds/kraken_hatch_open.wav"
+    },
+    {
+      "id": "mvz2:kraken_laser_charge",
+      "path": "mvz2/sounds/kraken_laser_charge.wav"
+    },
+    {
+      "id": "mvz2:kraken_laser_ready_roar",
+      "path": "mvz2/sounds/kraken_laser_ready_roar.wav"
+    },
+    {
+      "id": "mvz2:kraken_pain",
+      "path": "mvz2/sounds/kraken_pain.ogg"
+    },
+    {
+      "id": "mvz2:kraken_roar",
+      "path": "mvz2/sounds/kraken_roar.wav"
+    },
+    {
       "id": "mvz2:large_explosion",
       "path": "mvz2/sounds/large_explosion.ogg"
     },
@@ -889,6 +961,10 @@
       "path": "mvz2/sounds/ring_off.wav"
     },
     {
+      "id": "mvz2:robot_smash",
+      "path": "mvz2/sounds/robot_smash.wav"
+    },
+    {
       "id": "mvz2:sand1",
       "path": "mvz2/sounds/sand1.ogg"
     },
@@ -1101,6 +1177,14 @@
       "path": "mvz2/sounds/steve_roar3.wav"
     },
     {
+      "id": "mvz2:sts_heavy_attack",
+      "path": "mvz2/sounds/sts_heavy_attack.ogg"
+    },
+    {
+      "id": "mvz2:sts_whirlwind",
+      "path": "mvz2/sounds/sts_whirlwind.ogg"
+    },
+    {
       "id": "mvz2:stunned",
       "path": "mvz2/sounds/stunned.wav"
     },
@@ -1119,6 +1203,18 @@
     {
       "id": "mvz2:tap",
       "path": "mvz2/sounds/tap.wav"
+    },
+    {
+      "id": "mvz2:teleporter_signal",
+      "path": "mvz2/sounds/teleporter_signal.wav"
+    },
+    {
+      "id": "mvz2:teleport_down",
+      "path": "mvz2/sounds/teleport_down.wav"
+    },
+    {
+      "id": "mvz2:teleport_up",
+      "path": "mvz2/sounds/teleport_up.wav"
     },
     {
       "id": "mvz2:tesla_attack",
@@ -1143,6 +1239,14 @@
     {
       "id": "mvz2:thump",
       "path": "mvz2/sounds/thump.wav"
+    },
+    {
+      "id": "mvz2:time_bomb_appears",
+      "path": "mvz2/sounds/time_bomb_appears.ogg"
+    },
+    {
+      "id": "mvz2:time_bomb_tick",
+      "path": "mvz2/sounds/time_bomb_tick.wav"
     },
     {
       "id": "mvz2:time_warp",
@@ -1199,6 +1303,10 @@
     {
       "id": "mvz2:ufo_alert",
       "path": "mvz2/sounds/ufo_alert.wav"
+    },
+    {
+      "id": "mvz2:underwater_ambience",
+      "path": "mvz2/sounds/underwater_ambience.ogg"
     },
     {
       "id": "mvz2:vortex",
@@ -1453,6 +1561,10 @@
       "path": "mvz2/sounds/talk/dialog_cut.wav"
     },
     {
+      "id": "mvz2:talk/dialog_dong",
+      "path": "mvz2/sounds/talk/dialog_dong.wav"
+    },
+    {
       "id": "mvz2:talk/dialog_explosive",
       "path": "mvz2/sounds/talk/dialog_explosive.wav"
     },
@@ -1549,6 +1661,22 @@
       "path": "mvz2/sounds/damage/splat/splat3.wav"
     },
     {
+      "id": "mvz2:entity/axolotl_suit/step1",
+      "path": "mvz2/sounds/entity/axolotl_suit/step1.wav"
+    },
+    {
+      "id": "mvz2:entity/axolotl_suit/step2",
+      "path": "mvz2/sounds/entity/axolotl_suit/step2.wav"
+    },
+    {
+      "id": "mvz2:entity/axolotl_suit/welcome_aboard",
+      "path": "mvz2/sounds/entity/axolotl_suit/welcome_aboard.ogg"
+    },
+    {
+      "id": "mvz2:entity/axolotl_suit_pilot/summon",
+      "path": "mvz2/sounds/entity/axolotl_suit_pilot/summon.wav"
+    },
+    {
       "id": "mvz2:entity/bone_wall/bone_wall_build1",
       "path": "mvz2/sounds/entity/bone_wall/bone_wall_build1.wav"
     },
@@ -1563,6 +1691,82 @@
     {
       "id": "mvz2:entity/bone_wall/bone_wall_destroyed",
       "path": "mvz2/sounds/entity/bone_wall/bone_wall_destroyed.wav"
+    },
+    {
+      "id": "mvz2:entity/bubble/death",
+      "path": "mvz2/sounds/entity/bubble/death.wav"
+    },
+    {
+      "id": "mvz2:entity/bubble/hit",
+      "path": "mvz2/sounds/entity/bubble/hit.wav"
+    },
+    {
+      "id": "mvz2:entity/bubble/spawn",
+      "path": "mvz2/sounds/entity/bubble/spawn.wav"
+    },
+    {
+      "id": "mvz2:entity/creaking/activate",
+      "path": "mvz2/sounds/entity/creaking/activate.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/death",
+      "path": "mvz2/sounds/entity/creaking/death.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/idle1",
+      "path": "mvz2/sounds/entity/creaking/idle1.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/idle2",
+      "path": "mvz2/sounds/entity/creaking/idle2.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/idle3",
+      "path": "mvz2/sounds/entity/creaking/idle3.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/idle4",
+      "path": "mvz2/sounds/entity/creaking/idle4.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/idle5",
+      "path": "mvz2/sounds/entity/creaking/idle5.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/idle6",
+      "path": "mvz2/sounds/entity/creaking/idle6.ogg"
+    },
+    {
+      "id": "mvz2:entity/creaking/spawn",
+      "path": "mvz2/sounds/entity/creaking/spawn.ogg"
+    },
+    {
+      "id": "mvz2:entity/drowned/death1",
+      "path": "mvz2/sounds/entity/drowned/death1.ogg"
+    },
+    {
+      "id": "mvz2:entity/drowned/death2",
+      "path": "mvz2/sounds/entity/drowned/death2.ogg"
+    },
+    {
+      "id": "mvz2:entity/drowned/idle1",
+      "path": "mvz2/sounds/entity/drowned/idle1.ogg"
+    },
+    {
+      "id": "mvz2:entity/drowned/idle2",
+      "path": "mvz2/sounds/entity/drowned/idle2.ogg"
+    },
+    {
+      "id": "mvz2:entity/drowned/idle3",
+      "path": "mvz2/sounds/entity/drowned/idle3.ogg"
+    },
+    {
+      "id": "mvz2:entity/drowned/idle4",
+      "path": "mvz2/sounds/entity/drowned/idle4.ogg"
+    },
+    {
+      "id": "mvz2:entity/drowned/idle5",
+      "path": "mvz2/sounds/entity/drowned/idle5.ogg"
     },
     {
       "id": "mvz2:entity/force_pad/magnetic",
@@ -1643,6 +1847,22 @@
     {
       "id": "mvz2:entity/ghost/ghost_death",
       "path": "mvz2/sounds/entity/ghost/ghost_death.wav"
+    },
+    {
+      "id": "mvz2:entity/hookshot_drowned/hookshot_fire",
+      "path": "mvz2/sounds/entity/hookshot_drowned/hookshot_fire.wav"
+    },
+    {
+      "id": "mvz2:entity/hookshot_drowned/hookshot_loop",
+      "path": "mvz2/sounds/entity/hookshot_drowned/hookshot_loop.wav"
+    },
+    {
+      "id": "mvz2:entity/hookshot_drowned/hookshot_set",
+      "path": "mvz2/sounds/entity/hookshot_drowned/hookshot_set.wav"
+    },
+    {
+      "id": "mvz2:entity/hookshot_drowned/hookshot_target",
+      "path": "mvz2/sounds/entity/hookshot_drowned/hookshot_target.wav"
     },
     {
       "id": "mvz2:entity/imp/imp_laugh1",
@@ -1915,6 +2135,50 @@
     {
       "id": "mvz2:entity/zombie_cat/meow4",
       "path": "mvz2/sounds/entity/zombie_cat/meow4.wav"
+    },
+    {
+      "id": "mvz2:entity/zombie_cow/hurt1",
+      "path": "mvz2/sounds/entity/zombie_cow/hurt1.ogg"
+    },
+    {
+      "id": "mvz2:entity/zombie_cow/hurt2",
+      "path": "mvz2/sounds/entity/zombie_cow/hurt2.ogg"
+    },
+    {
+      "id": "mvz2:entity/zombie_cow/hurt3",
+      "path": "mvz2/sounds/entity/zombie_cow/hurt3.ogg"
+    },
+    {
+      "id": "mvz2:entity/zombie_cow/say1",
+      "path": "mvz2/sounds/entity/zombie_cow/say1.ogg"
+    },
+    {
+      "id": "mvz2:entity/zombie_cow/say2",
+      "path": "mvz2/sounds/entity/zombie_cow/say2.ogg"
+    },
+    {
+      "id": "mvz2:entity/zombie_cow/say3",
+      "path": "mvz2/sounds/entity/zombie_cow/say3.ogg"
+    },
+    {
+      "id": "mvz2:entity/zombie_cow/say4",
+      "path": "mvz2/sounds/entity/zombie_cow/say4.ogg"
+    },
+    {
+      "id": "mvz2:entity/zombinator/cry1",
+      "path": "mvz2/sounds/entity/zombinator/cry1.wav"
+    },
+    {
+      "id": "mvz2:entity/zombinator/cry2",
+      "path": "mvz2/sounds/entity/zombinator/cry2.wav"
+    },
+    {
+      "id": "mvz2:entity/zombinator/cry3",
+      "path": "mvz2/sounds/entity/zombinator/cry3.wav"
+    },
+    {
+      "id": "mvz2:entity/zombinator/death",
+      "path": "mvz2/sounds/entity/zombinator/death.wav"
     },
     {
       "id": "mvz2:random/candle/break1",
@@ -2219,6 +2483,42 @@
       ]
     },
     {
+      "id": "mvz2:axolotl_suit_appear",
+      "samples": [
+        {
+          "id": "mvz2:entity/axolotl_suit/welcome_aboard"
+        }
+      ],
+      "maxCount": 1
+    },
+    {
+      "id": "mvz2:axolotl_suit_enter",
+      "samples": [
+        {
+          "id": "mvz2:mech_setup"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:axolotl_suit_smash",
+      "samples": [
+        {
+          "id": "mvz2:robot_smash"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:axolotl_suit_step",
+      "samples": [
+        {
+          "id": "mvz2:entity/axolotl_suit/step1"
+        },
+        {
+          "id": "mvz2:entity/axolotl_suit/step2"
+        }
+      ]
+    },
+    {
       "id": "mvz2:balloon_inflate",
       "samples": [
         {
@@ -2360,6 +2660,30 @@
       ]
     },
     {
+      "id": "mvz2:bubble_spawn",
+      "samples": [
+        {
+          "id": "mvz2:entity/bubble/spawn"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:bubble_hit",
+      "samples": [
+        {
+          "id": "mvz2:entity/bubble/hit"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:bubble_death",
+      "samples": [
+        {
+          "id": "mvz2:entity/bubble/death"
+        }
+      ]
+    },
+    {
       "id": "mvz2:butter",
       "samples": [
         {
@@ -2410,6 +2734,14 @@
       "samples": [
         {
           "id": "mvz2:cave"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:cave_ambience",
+      "samples": [
+        {
+          "id": "mvz2:cave_ambience"
         }
       ]
     },
@@ -2492,6 +2824,15 @@
       "priority": 64
     },
     {
+      "id": "mvz2:chrono_sphere",
+      "samples": [
+        {
+          "id": "mvz2:chrono_sphere"
+        }
+      ],
+      "maxCount": 1
+    },
+    {
       "id": "mvz2:click",
       "samples": [
         {
@@ -2534,6 +2875,61 @@
       ],
       "maxCount": 1,
       "priority": 64
+    },
+    {
+      "id": "mvz2:creaking_activate",
+      "samples": [
+        {
+          "id": "mvz2:entity/creaking/activate"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:creaking_death",
+      "samples": [
+        {
+          "id": "mvz2:entity/creaking/death"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:creaking_idle",
+      "samples": [
+        {
+          "id": "mvz2:entity/creaking/idle1"
+        },
+        {
+          "id": "mvz2:entity/creaking/idle2"
+        },
+        {
+          "id": "mvz2:entity/creaking/idle3"
+        },
+        {
+          "id": "mvz2:entity/creaking/idle4"
+        },
+        {
+          "id": "mvz2:entity/creaking/idle5"
+        },
+        {
+          "id": "mvz2:entity/creaking/idle6"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:creaking_spawn",
+      "samples": [
+        {
+          "id": "mvz2:entity/creaking/spawn"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:critical",
+      "samples": [
+        {
+          "id": "mvz2:critical"
+        }
+      ]
     },
     {
       "id": "mvz2:crystal_break",
@@ -2621,6 +3017,14 @@
       ]
     },
     {
+      "id": "mvz2:death_tarot",
+      "samples": [
+        {
+          "id": "mvz2:death_tarot"
+        }
+      ]
+    },
+    {
       "id": "mvz2:decrepify",
       "samples": [
         {
@@ -2657,6 +3061,14 @@
       "samples": [
         {
           "id": "mvz2:talk/dialog_cut"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:dialog_dong",
+      "samples": [
+        {
+          "id": "mvz2:talk/dialog_dong"
         }
       ]
     },
@@ -2853,6 +3265,37 @@
       "samples": [
         {
           "id": "mvz2:entity/dream_alarm"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:drowned_cry",
+      "samples": [
+        {
+          "id": "mvz2:entity/drowned/idle1"
+        },
+        {
+          "id": "mvz2:entity/drowned/idle2"
+        },
+        {
+          "id": "mvz2:entity/drowned/idle3"
+        },
+        {
+          "id": "mvz2:entity/drowned/idle4"
+        },
+        {
+          "id": "mvz2:entity/drowned/idle5"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:drowned_death",
+      "samples": [
+        {
+          "id": "mvz2:entity/drowned/death1"
+        },
+        {
+          "id": "mvz2:entity/drowned/death2"
         }
       ]
     },
@@ -3261,6 +3704,20 @@
       ]
     },
     {
+      "id": "mvz2:giant_stone_land",
+      "samples": [
+        {
+          "id": "mvz2:random/rock/crumble1"
+        },
+        {
+          "id": "mvz2:random/rock/crumble2"
+        },
+        {
+          "id": "mvz2:random/rock/crumble3"
+        }
+      ]
+    },
+    {
       "id": "mvz2:glass",
       "samples": [
         {
@@ -3460,6 +3917,40 @@
       ]
     },
     {
+      "id": "mvz2:hookshot_fire",
+      "samples": [
+        {
+          "id": "mvz2:entity/hookshot_drowned/hookshot_fire"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:hookshot_set",
+      "samples": [
+        {
+          "id": "mvz2:entity/hookshot_drowned/hookshot_set"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:hookshot_loop",
+      "samples": [
+        {
+          "id": "mvz2:entity/hookshot_drowned/hookshot_loop"
+        }
+      ],
+      "loopFadeInSpeed": 100.0,
+      "loopFadeOutSpeed": 100.0
+    },
+    {
+      "id": "mvz2:hookshot_target",
+      "samples": [
+        {
+          "id": "mvz2:entity/hookshot_drowned/hookshot_target"
+        }
+      ]
+    },
+    {
       "id": "mvz2:horse_angry",
       "samples": [
         {
@@ -3542,6 +4033,134 @@
       "samples": [
         {
           "id": "mvz2:juicy"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:killed",
+      "samples": [
+        {
+          "id": "mvz2:killed"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_absorb",
+      "samples": [
+        {
+          "id": "mvz2:flood"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_absorb_roar",
+      "samples": [
+        {
+          "id": "mvz2:kraken_eyes"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_barrage",
+      "samples": [
+        {
+          "id": "mvz2:kraken_barrage"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_command_roar",
+      "samples": [
+        {
+          "id": "mvz2:kraken_laser_ready_roar"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_cursed_flame",
+      "samples": [
+        {
+          "id": "mvz2:dragon_breath"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_death",
+      "samples": [
+        {
+          "id": "mvz2:kraken_death"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_death_ray",
+      "samples": [
+        {
+          "id": "mvz2:kraken_death_ray"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_drainage",
+      "samples": [
+        {
+          "id": "mvz2:flood"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_eyes",
+      "samples": [
+        {
+          "id": "mvz2:kraken_eyes"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_hatch_open",
+      "samples": [
+        {
+          "id": "mvz2:kraken_hatch_open"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_hatch_close",
+      "samples": [
+        {
+          "id": "mvz2:kraken_hatch_close"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_laser_ready_roar",
+      "samples": [
+        {
+          "id": "mvz2:kraken_laser_ready_roar"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_laser_charge",
+      "samples": [
+        {
+          "id": "mvz2:kraken_laser_charge"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_pain",
+      "samples": [
+        {
+          "id": "mvz2:kraken_pain"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:kraken_roar",
+      "samples": [
+        {
+          "id": "mvz2:kraken_roar"
         }
       ]
     },
@@ -3760,6 +4379,15 @@
           "id": "mvz2:meow"
         }
       ]
+    },
+    {
+      "id": "mvz2:meowmere",
+      "samples": [
+        {
+          "id": "mvz2:meow"
+        }
+      ],
+      "maxCount": 10
     },
     {
       "id": "mvz2:meteor_land",
@@ -4283,6 +4911,14 @@
       ]
     },
     {
+      "id": "mvz2:screenshot",
+      "samples": [
+        {
+          "id": "mvz2:shutter"
+        }
+      ]
+    },
+    {
       "id": "mvz2:screw",
       "samples": [
         {
@@ -4386,13 +5022,13 @@
       "id": "mvz2:skeleton_horse_cry",
       "samples": [
         {
-          "id": "mvz2:entity/skeleton_horse/skeleton_horse_cry1"
+          "id": "mvz2:entity/skeleton_horse/skeleton_horse1"
         },
         {
-          "id": "mvz2:entity/skeleton_horse/skeleton_horse_cry2"
+          "id": "mvz2:entity/skeleton_horse/skeleton_horse2"
         },
         {
-          "id": "mvz2:entity/skeleton_horse/skeleton_horse_cry3"
+          "id": "mvz2:entity/skeleton_horse/skeleton_horse3"
         }
       ]
     },
@@ -4728,6 +5364,14 @@
       ]
     },
     {
+      "id": "mvz2:summon_axolotl_suit",
+      "samples": [
+        {
+          "id": "mvz2:entity/axolotl_suit_pilot/summon"
+        }
+      ]
+    },
+    {
       "id": "mvz2:sweeping_beam",
       "samples": [
         {
@@ -4759,6 +5403,30 @@
         }
       ],
       "priority": 64
+    },
+    {
+      "id": "mvz2:teleport_up",
+      "samples": [
+        {
+          "id": "mvz2:teleport_up"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:teleport_down",
+      "samples": [
+        {
+          "id": "mvz2:teleport_down"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:teleporter_signal",
+      "samples": [
+        {
+          "id": "mvz2:teleporter_signal"
+        }
+      ]
     },
     {
       "id": "mvz2:terror_cry",
@@ -4845,6 +5513,30 @@
       ],
       "maxCount": 5,
       "priority": 64
+    },
+    {
+      "id": "mvz2:time_bomb_appears",
+      "samples": [
+        {
+          "id": "mvz2:time_bomb_appears"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:time_bomb_explosion",
+      "samples": [
+        {
+          "id": "mvz2:meteor_land"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:time_bomb_tick",
+      "samples": [
+        {
+          "id": "mvz2:time_bomb_tick"
+        }
+      ]
     },
     {
       "id": "mvz2:time_warp",
@@ -4958,6 +5650,14 @@
         }
       ],
       "maxCount": 1
+    },
+    {
+      "id": "mvz2:underwater_ambience",
+      "samples": [
+        {
+          "id": "mvz2:underwater_ambience"
+        }
+      ]
     },
     {
       "id": "mvz2:villager_crazy",
@@ -5127,6 +5827,22 @@
       "samples": [
         {
           "id": "mvz2:entity/nightmareaper/wheel_of_death_loop"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:whirlwind_attack_start",
+      "samples": [
+        {
+          "id": "mvz2:sts_whirlwind"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:whirlwind_attack",
+      "samples": [
+        {
+          "id": "mvz2:sts_heavy_attack"
         }
       ]
     },
@@ -5310,6 +6026,37 @@
       ]
     },
     {
+      "id": "mvz2:zombie_cow_say",
+      "samples": [
+        {
+          "id": "mvz2:entity/zombie_cow/say1"
+        },
+        {
+          "id": "mvz2:entity/zombie_cow/say2"
+        },
+        {
+          "id": "mvz2:entity/zombie_cow/say3"
+        },
+        {
+          "id": "mvz2:entity/zombie_cow/say4"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:zombie_cow_death",
+      "samples": [
+        {
+          "id": "mvz2:entity/zombie_cow/hurt1"
+        },
+        {
+          "id": "mvz2:entity/zombie_cow/hurt2"
+        },
+        {
+          "id": "mvz2:entity/zombie_cow/hurt3"
+        }
+      ]
+    },
+    {
       "id": "mvz2:zombie_cry",
       "samples": [
         {
@@ -5339,6 +6086,28 @@
       "samples": [
         {
           "id": "mvz2:entity/zombie/zombie_death"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:zombinator_cry",
+      "samples": [
+        {
+          "id": "mvz2:entity/zombinator/cry1"
+        },
+        {
+          "id": "mvz2:entity/zombinator/cry2"
+        },
+        {
+          "id": "mvz2:entity/zombinator/cry3"
+        }
+      ]
+    },
+    {
+      "id": "mvz2:zombinator_death",
+      "samples": [
+        {
+          "id": "mvz2:entity/zombinator/death"
         }
       ]
     }
@@ -5506,9 +6275,21 @@
       "mainTrack": "mvz2:palace_boss"
     },
     {
+      "id": "mvz2:mountain_map",
+      "mainTrack": "mvz2:mountain_map"
+    },
+    {
       "id": "mvz2:mountain_level",
       "mainTrack": "mvz2:mountain_level",
       "subTrack": "mvz2:mountain_level_sub"
+    },
+    {
+      "id": "mvz2:mountain_final",
+      "mainTrack": "mvz2:mountain_final"
+    },
+    {
+      "id": "mvz2:mountain_boss",
+      "mainTrack": "mvz2:mountain_boss"
     }
   ]
 }

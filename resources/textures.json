@@ -48,6 +48,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/archive/mountain_note@en-US.png",
+      "key": "mvz2:archive/mountain_note@en-US",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/archive/palace_note@en-US.png",
       "key": "mvz2:archive/palace_note@en-US",
       "slices": [
@@ -95,6 +104,15 @@
     {
       "texture": "mvz2/sprites/chapter_transition/title_mausoleum@en-US.png",
       "key": "mvz2:chapter_transition/title_mausoleum@en-US",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/chapter_transition/title_mountain@en-US.png",
+      "key": "mvz2:chapter_transition/title_mountain@en-US",
       "slices": [
         {
           "single": true
@@ -395,6 +413,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/note/mountain@en-US.png",
+      "key": "mvz2:note/mountain@en-US",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/note/palace@en-US.png",
       "key": "mvz2:note/palace@en-US",
       "slices": [
@@ -454,6 +481,15 @@
     {
       "texture": "mvz2/sprites/ui/level/lose@en-US.png",
       "key": "mvz2:ui/level/lose@en-US",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/pause_image_recursion@en-US.png",
+      "key": "mvz2:ui/level/pause_image_recursion@en-US",
       "slices": [
         {
           "single": true
@@ -738,6 +774,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/achievements/cuckoo.png",
+      "key": "mvz2:achievements/cuckoo",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/achievements/double_trouble.png",
       "key": "mvz2:achievements/double_trouble",
       "slices": [
@@ -749,6 +794,15 @@
     {
       "texture": "mvz2/sprites/achievements/ghost_buster.png",
       "key": "mvz2:achievements/ghost_buster",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/achievements/gravity_padded.png",
+      "key": "mvz2:achievements/gravity_padded",
       "slices": [
         {
           "single": true
@@ -900,6 +954,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/arcade/krakens_revenge.png",
+      "key": "mvz2:arcade/krakens_revenge",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/arcade/locked.png",
       "key": "mvz2:arcade/locked",
       "filter": 0,
@@ -921,6 +984,15 @@
     {
       "texture": "mvz2/sprites/arcade/nightmares_revenge.png",
       "key": "mvz2:arcade/nightmares_revenge",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/arcade/primal_force.png",
+      "key": "mvz2:arcade/primal_force",
       "slices": [
         {
           "single": true
@@ -1002,6 +1074,15 @@
     {
       "texture": "mvz2/sprites/archive/mausoleum_note.png",
       "key": "mvz2:archive/mausoleum_note",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/archive/mountain_note.png",
+      "key": "mvz2:archive/mountain_note",
       "slices": [
         {
           "single": true
@@ -1396,6 +1477,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/chapter_transition/title_mountain.png",
+      "key": "mvz2:chapter_transition/title_mountain",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/chapter_transition/title_palace.png",
       "key": "mvz2:chapter_transition/title_palace",
       "slices": [
@@ -1419,6 +1509,21 @@
       "slices": [
         {
           "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/characters/aya.png",
+      "key": "mvz2:characters/aya",
+      "slices": [
+        {
+          "width": 810,
+          "height": 1280
+        },
+        {
+          "x": 813,
+          "width": 144,
+          "height": 96
         }
       ]
     },
@@ -1690,6 +1795,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/characters/marisa_icon.png",
+      "key": "mvz2:characters/marisa_icon",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/characters/miko.png",
       "key": "mvz2:characters/miko",
       "slices": [
@@ -1739,6 +1853,56 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/characters/nitori.png",
+      "key": "mvz2:characters/nitori",
+      "slices": [
+        {
+          "width": 520,
+          "height": 1280
+        },
+        {
+          "x": 523,
+          "width": 128,
+          "height": 80
+        },
+        {
+          "x": 523,
+          "y": 83,
+          "width": 128,
+          "height": 80
+        },
+        {
+          "x": 654,
+          "width": 160,
+          "height": 112
+        },
+        {
+          "x": 654,
+          "y": 115,
+          "width": 160,
+          "height": 80
+        },
+        {
+          "x": 654,
+          "y": 198,
+          "width": 160,
+          "height": 112
+        },
+        {
+          "x": 654,
+          "y": 313,
+          "width": 144,
+          "height": 112
+        },
+        {
+          "x": 523,
+          "y": 428,
+          "width": 520,
+          "height": 560
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/characters/nue.png",
       "key": "mvz2:characters/nue",
       "slices": [
@@ -1771,6 +1935,21 @@
           "y": 301,
           "width": 418,
           "height": 300
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/characters/reimu.png",
+      "key": "mvz2:characters/reimu",
+      "slices": [
+        {
+          "width": 635,
+          "height": 1280
+        },
+        {
+          "x": 638,
+          "width": 144,
+          "height": 48
         }
       ]
     },
@@ -1930,6 +2109,15 @@
           "y": 304,
           "width": 548,
           "height": 288
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/characters/seija_icon.png",
+      "key": "mvz2:characters/seija_icon",
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -2195,6 +2383,69 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/curses/krakens_backplate.png",
+      "key": "mvz2:curses/krakens_backplate",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/curses/locked_chests_chains.png",
+      "key": "mvz2:curses/locked_chests_chains",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/curses/nightmares_tentacle.png",
+      "key": "mvz2:curses/nightmares_tentacle",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/curses/red_dragons_scale.png",
+      "key": "mvz2:curses/red_dragons_scale",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/curses/the_creatures_brain.png",
+      "key": "mvz2:curses/the_creatures_brain",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/curses/the_giants_flesh.png",
+      "key": "mvz2:curses/the_giants_flesh",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/curses/withers_skull.png",
+      "key": "mvz2:curses/withers_skull",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/height_indicator.png",
       "key": "mvz2:entity/height_indicator",
       "slices": [
@@ -2245,6 +2496,15 @@
     {
       "texture": "mvz2/sprites/icons/dream_key_shield.png",
       "key": "mvz2:icons/dream_key_shield",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/icons/frozen.png",
+      "key": "mvz2:icons/frozen",
       "slices": [
         {
           "single": true
@@ -2492,6 +2752,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/level/depth_map_default.png",
+      "key": "mvz2:level/depth_map_default",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/level/hp_bar.png",
       "key": "mvz2:level/hp_bar",
       "slices": [
@@ -2709,6 +2978,21 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/mainmenu/customize.png",
+      "key": "mvz2:mainmenu/customize",
+      "slices": [
+        {
+          "width": 136,
+          "height": 145
+        },
+        {
+          "x": 137,
+          "width": 136,
+          "height": 145
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/mainmenu/gold_name_shine.png",
       "key": "mvz2:mainmenu/gold_name_shine",
       "slices": [
@@ -2909,6 +3193,26 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/misc/balance_insufficient.png",
+      "key": "mvz2:misc/balance_insufficient",
+      "slices": [
+        {
+          "width": 682,
+          "height": 402
+        },
+        {
+          "x": 682,
+          "width": 682,
+          "height": 402
+        },
+        {
+          "x": 1365,
+          "width": 682,
+          "height": 402
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/misc/blazing_hell_cliff.png",
       "key": "mvz2:misc/blazing_hell_cliff",
       "slices": [
@@ -2938,6 +3242,15 @@
     {
       "texture": "mvz2/sprites/misc/dead_red_dragon.png",
       "key": "mvz2:misc/dead_red_dragon",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/debris_of_nitoris_lab.png",
+      "key": "mvz2:misc/debris_of_nitoris_lab",
       "slices": [
         {
           "single": true
@@ -2990,6 +3303,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/misc/ender_pearl_fragment.png",
+      "key": "mvz2:misc/ender_pearl_fragment",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/misc/end_ship.png",
       "key": "mvz2:misc/end_ship",
       "slices": [
@@ -3017,6 +3339,56 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/misc/eye_on_nitoris_machine.png",
+      "key": "mvz2:misc/eye_on_nitoris_machine",
+      "slices": [
+        {
+          "y": 1,
+          "width": 519,
+          "height": 292
+        },
+        {
+          "y": 294,
+          "width": 519,
+          "height": 292
+        },
+        {
+          "y": 586,
+          "width": 519,
+          "height": 292
+        },
+        {
+          "y": 879,
+          "width": 519,
+          "height": 292
+        },
+        {
+          "y": 1171,
+          "width": 519,
+          "height": 292
+        },
+        {
+          "y": 1464,
+          "width": 519,
+          "height": 292
+        },
+        {
+          "y": 1756,
+          "width": 519,
+          "height": 292
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/fake_chapter_transition_7.png",
+      "key": "mvz2:misc/fake_chapter_transition_7",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/misc/fall_from_ship.png",
       "key": "mvz2:misc/fall_from_ship",
       "slices": [
@@ -3028,6 +3400,15 @@
     {
       "texture": "mvz2/sprites/misc/frankenstein.png",
       "key": "mvz2:misc/frankenstein",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/gems_icon.png",
+      "key": "mvz2:misc/gems_icon",
       "slices": [
         {
           "single": true
@@ -3093,8 +3474,71 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/misc/kappa_base.png",
+      "key": "mvz2:misc/kappa_base",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/misc/kourindou_front.png",
       "key": "mvz2:misc/kourindou_front",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/kraken_appears.png",
+      "key": "mvz2:misc/kraken_appears",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/kraken_broken.png",
+      "key": "mvz2:misc/kraken_broken",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/kraken_broken_eye.png",
+      "key": "mvz2:misc/kraken_broken_eye",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/kraken_entangled.png",
+      "key": "mvz2:misc/kraken_entangled",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/kraken_pov_underwater.png",
+      "key": "mvz2:misc/kraken_pov_underwater",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/kraken_shot_by_laser.png",
+      "key": "mvz2:misc/kraken_shot_by_laser",
       "slices": [
         {
           "single": true
@@ -3147,6 +3591,24 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/misc/misty_lake.png",
+      "key": "mvz2:misc/misty_lake",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/mountain.png",
+      "key": "mvz2:misc/mountain",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/misc/murder.png",
       "key": "mvz2:misc/murder",
       "slices": [
@@ -3167,6 +3629,15 @@
     {
       "texture": "mvz2/sprites/misc/mysterious_hacker.png",
       "key": "mvz2:misc/mysterious_hacker",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/new_prosthesis.png",
+      "key": "mvz2:misc/new_prosthesis",
       "slices": [
         {
           "single": true
@@ -3203,6 +3674,24 @@
     {
       "texture": "mvz2/sprites/misc/nightmare_art.png",
       "key": "mvz2:misc/nightmare_art",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/nitoris_key.png",
+      "key": "mvz2:misc/nitoris_key",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/misc/nitoris_machine.png",
+      "key": "mvz2:misc/nitoris_machine",
       "slices": [
         {
           "single": true
@@ -3341,7 +3830,8 @@
       "key": "mvz2:mobile_blueprint/add_pearl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3350,7 +3840,18 @@
       "key": "mvz2:mobile_blueprint/amethyst_pylon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/anti_gravity_pad.png",
+      "key": "mvz2:mobile_blueprint/anti_gravity_pad",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3359,7 +3860,8 @@
       "key": "mvz2:mobile_blueprint/anubisand",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3368,7 +3870,8 @@
       "key": "mvz2:mobile_blueprint/anvil",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3377,7 +3880,28 @@
       "key": "mvz2:mobile_blueprint/autotrap",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/axolotl_suit.png",
+      "key": "mvz2:mobile_blueprint/axolotl_suit",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/axolotl_suit_pilot.png",
+      "key": "mvz2:mobile_blueprint/axolotl_suit_pilot",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3386,7 +3910,8 @@
       "key": "mvz2:mobile_blueprint/beacon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3395,7 +3920,8 @@
       "key": "mvz2:mobile_blueprint/bedserker",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3404,7 +3930,8 @@
       "key": "mvz2:mobile_blueprint/berserker",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3413,7 +3940,8 @@
       "key": "mvz2:mobile_blueprint/black_hole_bomb",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3422,7 +3950,18 @@
       "key": "mvz2:mobile_blueprint/brick_cannon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/bubble_gun_gurgle.png",
+      "key": "mvz2:mobile_blueprint/bubble_gun_gurgle",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3431,7 +3970,8 @@
       "key": "mvz2:mobile_blueprint/cannonball_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3440,7 +3980,18 @@
       "key": "mvz2:mobile_blueprint/cannoneer_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/cat_tl_mk_ii.png",
+      "key": "mvz2:mobile_blueprint/cat_tl_mk_ii",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3449,7 +4000,8 @@
       "key": "mvz2:mobile_blueprint/cave_spider",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3458,7 +4010,8 @@
       "key": "mvz2:mobile_blueprint/command_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3467,7 +4020,18 @@
       "key": "mvz2:mobile_blueprint/cooling_cell",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/creaking.png",
+      "key": "mvz2:mobile_blueprint/creaking",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3476,7 +4040,8 @@
       "key": "mvz2:mobile_blueprint/cursed_candle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3485,7 +4050,8 @@
       "key": "mvz2:mobile_blueprint/desire_pot",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3494,7 +4060,8 @@
       "key": "mvz2:mobile_blueprint/devourer",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3503,7 +4070,8 @@
       "key": "mvz2:mobile_blueprint/diamond_helmetted_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3512,7 +4080,8 @@
       "key": "mvz2:mobile_blueprint/diamond_spikes",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3521,7 +4090,8 @@
       "key": "mvz2:mobile_blueprint/dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3530,7 +4100,8 @@
       "key": "mvz2:mobile_blueprint/dream_crystal",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3539,7 +4110,8 @@
       "key": "mvz2:mobile_blueprint/dream_silk",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3548,7 +4120,8 @@
       "key": "mvz2:mobile_blueprint/drivenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3557,7 +4130,8 @@
       "key": "mvz2:mobile_blueprint/dullahan",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3566,7 +4140,8 @@
       "key": "mvz2:mobile_blueprint/dullahan_head",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3575,7 +4150,8 @@
       "key": "mvz2:mobile_blueprint/ejector",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3584,7 +4160,8 @@
       "key": "mvz2:mobile_blueprint/elastic_cloud",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3593,7 +4170,8 @@
       "key": "mvz2:mobile_blueprint/emperor_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3602,7 +4180,8 @@
       "key": "mvz2:mobile_blueprint/error_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3611,7 +4190,8 @@
       "key": "mvz2:mobile_blueprint/firework_dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3620,7 +4200,8 @@
       "key": "mvz2:mobile_blueprint/flag_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3629,7 +4210,8 @@
       "key": "mvz2:mobile_blueprint/force_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3638,7 +4220,8 @@
       "key": "mvz2:mobile_blueprint/freezenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3657,7 +4240,8 @@
       "key": "mvz2:mobile_blueprint/gargoyle",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3666,7 +4250,8 @@
       "key": "mvz2:mobile_blueprint/ghast",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3675,7 +4260,8 @@
       "key": "mvz2:mobile_blueprint/ghost",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3684,7 +4270,18 @@
       "key": "mvz2:mobile_blueprint/giant_bowl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/giant_stone.png",
+      "key": "mvz2:mobile_blueprint/giant_stone",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3693,7 +4290,8 @@
       "key": "mvz2:mobile_blueprint/glowstone",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3702,7 +4300,8 @@
       "key": "mvz2:mobile_blueprint/golden_apple",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3711,7 +4310,8 @@
       "key": "mvz2:mobile_blueprint/golden_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3720,7 +4320,8 @@
       "key": "mvz2:mobile_blueprint/gravelpult",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3729,7 +4330,8 @@
       "key": "mvz2:mobile_blueprint/gravity_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3738,7 +4340,8 @@
       "key": "mvz2:mobile_blueprint/gunpowder_barrel",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3747,7 +4350,8 @@
       "key": "mvz2:mobile_blueprint/hacker",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3756,7 +4360,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_flashbang",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3765,7 +4370,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_nuke",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3774,7 +4380,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_rapid",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3783,7 +4390,8 @@
       "key": "mvz2:mobile_blueprint/heavy_weapon_spread",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3792,7 +4400,8 @@
       "key": "mvz2:mobile_blueprint/hellfire",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3801,7 +4410,8 @@
       "key": "mvz2:mobile_blueprint/hell_chariot",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3810,7 +4420,18 @@
       "key": "mvz2:mobile_blueprint/high_frequency_pulse_dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/hookshot_drowned.png",
+      "key": "mvz2:mobile_blueprint/hookshot_drowned",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3819,7 +4440,8 @@
       "key": "mvz2:mobile_blueprint/imp",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3828,7 +4450,8 @@
       "key": "mvz2:mobile_blueprint/infectenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3837,7 +4460,8 @@
       "key": "mvz2:mobile_blueprint/iron_helmetted_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3846,7 +4470,8 @@
       "key": "mvz2:mobile_blueprint/jeweled_pagoda",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3855,7 +4480,8 @@
       "key": "mvz2:mobile_blueprint/leather_capped_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3864,7 +4490,8 @@
       "key": "mvz2:mobile_blueprint/lengthen_board",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3873,7 +4500,8 @@
       "key": "mvz2:mobile_blueprint/lightning_orb",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3882,7 +4510,18 @@
       "key": "mvz2:mobile_blueprint/lily_pad",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/loan_sign.png",
+      "key": "mvz2:mobile_blueprint/loan_sign",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3891,7 +4530,8 @@
       "key": "mvz2:mobile_blueprint/locked_chest",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3900,7 +4540,18 @@
       "key": "mvz2:mobile_blueprint/magichest",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/maplewheel.png",
+      "key": "mvz2:mobile_blueprint/maplewheel",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3909,7 +4560,8 @@
       "key": "mvz2:mobile_blueprint/mega_mutant_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3918,7 +4570,8 @@
       "key": "mvz2:mobile_blueprint/mesmerizer",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3927,7 +4580,8 @@
       "key": "mvz2:mobile_blueprint/mine_tnt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3936,7 +4590,8 @@
       "key": "mvz2:mobile_blueprint/monster_spawner",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3945,7 +4600,8 @@
       "key": "mvz2:mobile_blueprint/moonlight_sensor",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3954,7 +4610,8 @@
       "key": "mvz2:mobile_blueprint/mother_terror",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3963,7 +4620,8 @@
       "key": "mvz2:mobile_blueprint/mummy",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3972,7 +4630,8 @@
       "key": "mvz2:mobile_blueprint/mutant_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3981,7 +4640,8 @@
       "key": "mvz2:mobile_blueprint/necromancer",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3990,7 +4650,8 @@
       "key": "mvz2:mobile_blueprint/necrotombstone",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -3999,7 +4660,8 @@
       "key": "mvz2:mobile_blueprint/nesting_tnt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4008,7 +4670,8 @@
       "key": "mvz2:mobile_blueprint/nesting_tnt_medium",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4017,7 +4680,8 @@
       "key": "mvz2:mobile_blueprint/nesting_tnt_small",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4026,7 +4690,8 @@
       "key": "mvz2:mobile_blueprint/nether_hunter",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4035,7 +4700,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4044,7 +4710,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage_fire",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4053,7 +4720,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage_frost",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4062,7 +4730,8 @@
       "key": "mvz2:mobile_blueprint/nether_mage_lightning",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4071,7 +4740,8 @@
       "key": "mvz2:mobile_blueprint/nether_reactor_core",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4080,7 +4750,8 @@
       "key": "mvz2:mobile_blueprint/nightmareaper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4089,7 +4760,8 @@
       "key": "mvz2:mobile_blueprint/note_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4098,7 +4770,8 @@
       "key": "mvz2:mobile_blueprint/nuke",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4107,7 +4780,8 @@
       "key": "mvz2:mobile_blueprint/obsidian",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4116,7 +4790,8 @@
       "key": "mvz2:mobile_blueprint/onbashira",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4125,7 +4800,8 @@
       "key": "mvz2:mobile_blueprint/parasite_terror",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4134,7 +4810,8 @@
       "key": "mvz2:mobile_blueprint/pistenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4143,7 +4820,18 @@
       "key": "mvz2:mobile_blueprint/pop_captain",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/prismatic_pylon.png",
+      "key": "mvz2:mobile_blueprint/prismatic_pylon",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4152,7 +4840,8 @@
       "key": "mvz2:mobile_blueprint/punchton",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4161,7 +4850,8 @@
       "key": "mvz2:mobile_blueprint/random_china",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4170,7 +4860,8 @@
       "key": "mvz2:mobile_blueprint/red_dragon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4179,7 +4870,8 @@
       "key": "mvz2:mobile_blueprint/reflective_barrier_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4188,7 +4880,8 @@
       "key": "mvz2:mobile_blueprint/repeatenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4197,7 +4890,8 @@
       "key": "mvz2:mobile_blueprint/return_pearl",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4206,7 +4900,8 @@
       "key": "mvz2:mobile_blueprint/reverse_satellite",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4215,7 +4910,8 @@
       "key": "mvz2:mobile_blueprint/seija",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4224,7 +4920,8 @@
       "key": "mvz2:mobile_blueprint/seija_cursed_doll",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4233,7 +4930,8 @@
       "key": "mvz2:mobile_blueprint/shadow_cell",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4242,7 +4940,8 @@
       "key": "mvz2:mobile_blueprint/shikaisen_staff",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4251,7 +4950,8 @@
       "key": "mvz2:mobile_blueprint/shikaisen_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4260,7 +4960,8 @@
       "key": "mvz2:mobile_blueprint/silvenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4269,7 +4970,8 @@
       "key": "mvz2:mobile_blueprint/skeleton",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4278,7 +4980,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_horse",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4287,7 +4990,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4296,7 +5000,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_fire",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4305,7 +5010,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_frost",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4314,7 +5020,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_mage_lightning",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4323,7 +5030,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_statue",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4332,7 +5040,8 @@
       "key": "mvz2:mobile_blueprint/skeleton_warrior",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4341,7 +5050,8 @@
       "key": "mvz2:mobile_blueprint/skyward_beacon",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4350,7 +5060,8 @@
       "key": "mvz2:mobile_blueprint/slenderman",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4359,7 +5070,8 @@
       "key": "mvz2:mobile_blueprint/small_dispenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4368,7 +5080,8 @@
       "key": "mvz2:mobile_blueprint/snipenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4377,7 +5090,8 @@
       "key": "mvz2:mobile_blueprint/soulsand",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4386,7 +5100,8 @@
       "key": "mvz2:mobile_blueprint/soul_furnace",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4395,7 +5110,8 @@
       "key": "mvz2:mobile_blueprint/spider",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4404,7 +5120,8 @@
       "key": "mvz2:mobile_blueprint/spike_block",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4413,7 +5130,8 @@
       "key": "mvz2:mobile_blueprint/splitenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4422,7 +5140,8 @@
       "key": "mvz2:mobile_blueprint/stone_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4431,7 +5150,8 @@
       "key": "mvz2:mobile_blueprint/stone_eye",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4440,7 +5160,8 @@
       "key": "mvz2:mobile_blueprint/stone_shield",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4449,7 +5170,18 @@
       "key": "mvz2:mobile_blueprint/talisman_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/teleporter.png",
+      "key": "mvz2:mobile_blueprint/teleporter",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4458,7 +5190,8 @@
       "key": "mvz2:mobile_blueprint/tesla_coil",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4467,7 +5200,8 @@
       "key": "mvz2:mobile_blueprint/the_giant",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4476,7 +5210,8 @@
       "key": "mvz2:mobile_blueprint/thunder_drum",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4485,7 +5220,8 @@
       "key": "mvz2:mobile_blueprint/tnt",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4494,7 +5230,8 @@
       "key": "mvz2:mobile_blueprint/totenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4503,7 +5240,8 @@
       "key": "mvz2:mobile_blueprint/transfenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4512,7 +5250,8 @@
       "key": "mvz2:mobile_blueprint/triplenser",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4521,7 +5260,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4530,7 +5270,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_blue",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4539,7 +5280,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_green",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4548,7 +5290,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_rainbow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4557,7 +5300,8 @@
       "key": "mvz2:mobile_blueprint/undead_flying_object_red",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4566,7 +5310,8 @@
       "key": "mvz2:mobile_blueprint/vortex_hopper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4575,7 +5320,8 @@
       "key": "mvz2:mobile_blueprint/wicked_hermit_zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4584,7 +5330,8 @@
       "key": "mvz2:mobile_blueprint/wisp_fly",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4593,7 +5340,8 @@
       "key": "mvz2:mobile_blueprint/wither",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4602,7 +5350,8 @@
       "key": "mvz2:mobile_blueprint/wooden_dropper",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4611,7 +5360,8 @@
       "key": "mvz2:mobile_blueprint/wooden_fan",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4620,7 +5370,8 @@
       "key": "mvz2:mobile_blueprint/zombie",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4629,7 +5380,8 @@
       "key": "mvz2:mobile_blueprint/zombie_cat",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4638,7 +5390,8 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4647,7 +5400,8 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud_snow",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4656,7 +5410,18 @@
       "key": "mvz2:mobile_blueprint/zombie_cloud_thunder",
       "slices": [
         {
-          "single": true
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/zombinator.png",
+      "key": "mvz2:mobile_blueprint/zombinator",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
         }
       ]
     },
@@ -4699,6 +5464,15 @@
     {
       "texture": "mvz2/sprites/note/background_mausoleum.png",
       "key": "mvz2:note/background_mausoleum",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/note/background_mountain.png",
+      "key": "mvz2:note/background_mountain",
       "slices": [
         {
           "single": true
@@ -4771,6 +5545,15 @@
     {
       "texture": "mvz2/sprites/note/mausoleum.png",
       "key": "mvz2:note/mausoleum",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/note/mountain.png",
+      "key": "mvz2:note/mountain",
       "slices": [
         {
           "single": true
@@ -5700,6 +6483,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/ui/deselect_all.png",
+      "key": "mvz2:ui/deselect_all",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/ui/gear.png",
       "key": "mvz2:ui/gear",
       "slices": [
@@ -5718,8 +6510,26 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/ui/question_mark.png",
+      "key": "mvz2:ui/question_mark",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/ui/refresh.png",
       "key": "mvz2:ui/refresh",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/select_all.png",
+      "key": "mvz2:ui/select_all",
       "slices": [
         {
           "single": true
@@ -5758,6 +6568,33 @@
           "x": 32,
           "width": 32,
           "height": 32
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/achievements/notify/arcade_unlocked.png",
+      "key": "mvz2:achievements/notify/arcade_unlocked",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/achievements/notify/curse_unlocked.png",
+      "key": "mvz2:achievements/notify/curse_unlocked",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/achievements/notify/music_room_unlocked.png",
+      "key": "mvz2:achievements/notify/music_room_unlocked",
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -5914,6 +6751,29 @@
         {
           "single": true,
           "pivotY": 1.0,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/armor/mountaineering_helmet.png",
+      "key": "mvz2:entity/armor/mountaineering_helmet",
+      "slices": [
+        {
+          "width": 32,
+          "height": 21,
+          "fullRect": true
+        },
+        {
+          "y": 22,
+          "width": 32,
+          "height": 21,
+          "fullRect": true
+        },
+        {
+          "y": 44,
+          "width": 32,
+          "height": 21,
           "fullRect": true
         }
       ]
@@ -6168,6 +7028,134 @@
         {
           "single": true,
           "pivotX": 1.0
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken.png",
+      "key": "mvz2:entity/boss/kraken",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_cannon.png",
+      "key": "mvz2:entity/boss/kraken_cannon",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_charge_line.png",
+      "key": "mvz2:entity/boss/kraken_charge_line",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_charge_spot.png",
+      "key": "mvz2:entity/boss/kraken_charge_spot",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_core.png",
+      "key": "mvz2:entity/boss/kraken_core",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_eyeball_red.png",
+      "key": "mvz2:entity/boss/kraken_eyeball_red",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_eyelid_left.png",
+      "key": "mvz2:entity/boss/kraken_eyelid_left",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_eyelid_right.png",
+      "key": "mvz2:entity/boss/kraken_eyelid_right",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_eye_blue.png",
+      "key": "mvz2:entity/boss/kraken_eye_blue",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_eye_green.png",
+      "key": "mvz2:entity/boss/kraken_eye_green",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_gatlin.png",
+      "key": "mvz2:entity/boss/kraken_gatlin",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_laser_gun.png",
+      "key": "mvz2:entity/boss/kraken_laser_gun",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/boss/kraken_tentacle.png",
+      "key": "mvz2:entity/boss/kraken_tentacle",
+      "filter": 0,
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -7207,6 +8195,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/anti_gravity_pad.png",
+      "key": "mvz2:entity/contraption/anti_gravity_pad",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/anvil.png",
       "key": "mvz2:entity/contraption/anvil",
       "slices": [
@@ -7374,6 +8372,57 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/cat_tl_mk_ii.png",
+      "key": "mvz2:entity/contraption/cat_tl_mk_ii",
+      "slices": [
+        {
+          "width": 44,
+          "height": 46,
+          "fullRect": true
+        },
+        {
+          "y": 47,
+          "width": 10,
+          "height": 21,
+          "fullRect": true
+        },
+        {
+          "x": 11,
+          "y": 47,
+          "width": 12,
+          "height": 6,
+          "fullRect": true
+        },
+        {
+          "x": 11,
+          "y": 54,
+          "width": 7,
+          "height": 11,
+          "fullRect": true
+        },
+        {
+          "y": 69,
+          "width": 3,
+          "height": 3,
+          "fullRect": true
+        },
+        {
+          "x": 4,
+          "y": 69,
+          "width": 16,
+          "height": 27,
+          "fullRect": true
+        },
+        {
+          "x": 21,
+          "y": 69,
+          "width": 16,
+          "height": 27,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/command_block.png",
       "key": "mvz2:entity/contraption/command_block",
       "slices": [
@@ -7427,6 +8476,41 @@
           "y": 30,
           "width": 50,
           "height": 18,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/daylight_sensor.png",
+      "key": "mvz2:entity/contraption/daylight_sensor",
+      "slices": [
+        {
+          "width": 50,
+          "height": 33,
+          "fullRect": true
+        },
+        {
+          "y": 33,
+          "width": 50,
+          "height": 33,
+          "fullRect": true
+        },
+        {
+          "y": 66,
+          "width": 50,
+          "height": 33,
+          "fullRect": true
+        },
+        {
+          "y": 99,
+          "width": 50,
+          "height": 33,
+          "fullRect": true
+        },
+        {
+          "y": 132,
+          "width": 50,
+          "height": 33,
           "fullRect": true
         }
       ]
@@ -7879,6 +8963,29 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/giant_stone.png",
+      "key": "mvz2:entity/contraption/giant_stone",
+      "slices": [
+        {
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        },
+        {
+          "x": 59,
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        },
+        {
+          "x": 118,
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/glowstone.png",
       "key": "mvz2:entity/contraption/glowstone",
       "slices": [
@@ -8056,6 +9163,28 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/kaleidoscope_mask.png",
+      "key": "mvz2:entity/contraption/kaleidoscope_mask",
+      "slices": [
+        {
+          "single": true,
+          "pivotX": 1.0,
+          "pivotY": 1.0,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/kaleidoscope_pattern.png",
+      "key": "mvz2:entity/contraption/kaleidoscope_pattern",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/lightning_orb.png",
       "key": "mvz2:entity/contraption/lightning_orb",
       "slices": [
@@ -8090,6 +9219,63 @@
       "slices": [
         {
           "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/loan_sign.png",
+      "key": "mvz2:entity/contraption/loan_sign",
+      "slices": [
+        {
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "x": 64,
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "x": 128,
+          "width": 64,
+          "height": 64,
+          "fullRect": true
+        },
+        {
+          "y": 64,
+          "width": 16,
+          "height": 16,
+          "fullRect": true
+        },
+        {
+          "x": 16,
+          "y": 64,
+          "width": 16,
+          "height": 16,
+          "fullRect": true
+        },
+        {
+          "x": 32,
+          "y": 64,
+          "width": 16,
+          "height": 16,
+          "fullRect": true
+        },
+        {
+          "x": 48,
+          "y": 64,
+          "width": 16,
+          "height": 16,
+          "fullRect": true
+        },
+        {
+          "x": 64,
+          "y": 64,
+          "width": 16,
+          "height": 16,
           "fullRect": true
         }
       ]
@@ -8226,6 +9412,23 @@
       "slices": [
         {
           "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/maplewheel.png",
+      "key": "mvz2:entity/contraption/maplewheel",
+      "slices": [
+        {
+          "width": 48,
+          "height": 48,
+          "fullRect": true
+        },
+        {
+          "x": 49,
+          "width": 4,
+          "height": 41,
           "fullRect": true
         }
       ]
@@ -8530,6 +9733,57 @@
       "slices": [
         {
           "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/prismatic_pylon.png",
+      "key": "mvz2:entity/contraption/prismatic_pylon",
+      "slices": [
+        {
+          "width": 44,
+          "height": 80,
+          "fullRect": true
+        },
+        {
+          "x": 45,
+          "width": 44,
+          "height": 80,
+          "fullRect": true
+        },
+        {
+          "y": 81,
+          "width": 46,
+          "height": 38,
+          "fullRect": true
+        },
+        {
+          "x": 47,
+          "y": 81,
+          "width": 52,
+          "height": 39,
+          "fullRect": true
+        },
+        {
+          "x": 100,
+          "y": 81,
+          "width": 8,
+          "height": 13,
+          "fullRect": true
+        },
+        {
+          "x": 109,
+          "y": 81,
+          "width": 6,
+          "height": 8,
+          "fullRect": true
+        },
+        {
+          "x": 116,
+          "y": 81,
+          "width": 6,
+          "height": 8,
           "fullRect": true
         }
       ]
@@ -8951,6 +10205,39 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/teleporter.png",
+      "key": "mvz2:entity/contraption/teleporter",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/teleporter_signal.png",
+      "key": "mvz2:entity/contraption/teleporter_signal",
+      "slices": [
+        {
+          "width": 16,
+          "height": 16,
+          "fullRect": true
+        },
+        {
+          "x": 17,
+          "width": 16,
+          "height": 16,
+          "fullRect": true
+        },
+        {
+          "x": 34,
+          "width": 16,
+          "height": 16,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/tesla_coil.png",
       "key": "mvz2:entity/contraption/tesla_coil",
       "slices": [
@@ -9038,6 +10325,81 @@
           "width": 64,
           "height": 64,
           "pivotY": 0.0,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/time_bomb.png",
+      "key": "mvz2:entity/contraption/time_bomb",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/time_bomb_number.png",
+      "key": "mvz2:entity/contraption/time_bomb_number",
+      "slices": [
+        {
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 11,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 22,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 33,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 44,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 55,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 66,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 77,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 88,
+          "width": 10,
+          "height": 18,
+          "fullRect": true
+        },
+        {
+          "x": 99,
+          "width": 10,
+          "height": 18,
           "fullRect": true
         }
       ]
@@ -9453,6 +10815,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/effect/cleave_attack.png",
+      "key": "mvz2:entity/effect/cleave_attack",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/effect/combat_trail_punch.png",
       "key": "mvz2:entity/effect/combat_trail_punch",
       "slices": [
@@ -9485,6 +10857,16 @@
     {
       "texture": "mvz2/sprites/entity/effect/combat_trail_wave.png",
       "key": "mvz2:entity/effect/combat_trail_wave",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/effect/critical_spark.png",
+      "key": "mvz2:entity/effect/critical_spark",
       "slices": [
         {
           "single": true,
@@ -9841,6 +11223,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/effect/frozen_shard.png",
+      "key": "mvz2:entity/effect/frozen_shard",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/effect/gas_diffusion.png",
       "key": "mvz2:entity/effect/gas_diffusion",
       "slices": [
@@ -9861,6 +11253,17 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/effect/ice_pillar.png",
+      "key": "mvz2:entity/effect/ice_pillar",
+      "slices": [
+        {
+          "single": true,
+          "borderTop": 128,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/effect/iz_observer.png",
       "key": "mvz2:entity/effect/iz_observer",
       "slices": [
@@ -9873,6 +11276,16 @@
           "x": 80,
           "width": 80,
           "height": 80,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/effect/kraken_death_ray.png",
+      "key": "mvz2:entity/effect/kraken_death_ray",
+      "slices": [
+        {
+          "single": true,
           "fullRect": true
         }
       ]
@@ -10029,6 +11442,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/effect/miracle_mallet_minion.png",
+      "key": "mvz2:entity/effect/miracle_mallet_minion",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/effect/nightmareaper_shadow.png",
       "key": "mvz2:entity/effect/nightmareaper_shadow",
       "slices": [
@@ -10108,6 +11531,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/effect/nightmare_portal_background_pandora.png",
+      "key": "mvz2:entity/effect/nightmare_portal_background_pandora",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/effect/nightmare_portal_frame.png",
       "key": "mvz2:entity/effect/nightmare_portal_frame",
       "slices": [
@@ -10120,6 +11553,16 @@
     {
       "texture": "mvz2/sprites/entity/effect/nightmare_portal_frame@censored.png",
       "key": "mvz2:entity/effect/nightmare_portal_frame@censored",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/effect/nightmare_portal_frame_pandora.png",
+      "key": "mvz2:entity/effect/nightmare_portal_frame_pandora",
       "slices": [
         {
           "single": true,
@@ -10629,6 +12072,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/effect/waterfall_particle_mask.png",
+      "key": "mvz2:entity/effect/waterfall_particle_mask",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/effect/water_splash.png",
       "key": "mvz2:entity/effect/water_splash",
       "slices": [
@@ -10793,6 +12246,170 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/enemy/axolotl_suit.png",
+      "key": "mvz2:entity/enemy/axolotl_suit",
+      "slices": [
+        {
+          "width": 67,
+          "height": 93,
+          "fullRect": true
+        },
+        {
+          "x": 68,
+          "width": 67,
+          "height": 93,
+          "fullRect": true
+        },
+        {
+          "x": 136,
+          "width": 67,
+          "height": 91,
+          "fullRect": true
+        },
+        {
+          "x": 204,
+          "width": 67,
+          "height": 80,
+          "fullRect": true
+        },
+        {
+          "y": 94,
+          "width": 48,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 49,
+          "y": 94,
+          "width": 17,
+          "height": 37,
+          "fullRect": true
+        },
+        {
+          "x": 67,
+          "y": 94,
+          "width": 17,
+          "height": 37,
+          "fullRect": true
+        },
+        {
+          "x": 85,
+          "y": 94,
+          "width": 17,
+          "height": 37,
+          "fullRect": true
+        },
+        {
+          "x": 103,
+          "y": 94,
+          "width": 29,
+          "height": 17,
+          "fullRect": true
+        },
+        {
+          "y": 117,
+          "width": 48,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 49,
+          "y": 132,
+          "width": 17,
+          "height": 28,
+          "fullRect": true
+        },
+        {
+          "x": 67,
+          "y": 132,
+          "width": 17,
+          "height": 28,
+          "fullRect": true
+        },
+        {
+          "x": 85,
+          "y": 132,
+          "width": 17,
+          "height": 28,
+          "fullRect": true
+        },
+        {
+          "x": 103,
+          "y": 112,
+          "width": 18,
+          "height": 50,
+          "fullRect": true
+        },
+        {
+          "x": 122,
+          "y": 112,
+          "width": 57,
+          "height": 31,
+          "fullRect": true
+        },
+        {
+          "y": 140,
+          "width": 48,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 122,
+          "y": 143,
+          "width": 44,
+          "height": 18,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/axolotl_suit_pilot.png",
+      "key": "mvz2:entity/enemy/axolotl_suit_pilot",
+      "slices": [
+        {
+          "width": 32,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 33,
+          "width": 42,
+          "height": 14,
+          "fullRect": true
+        },
+        {
+          "y": 23,
+          "width": 16,
+          "height": 39,
+          "fullRect": true
+        },
+        {
+          "x": 19,
+          "y": 23,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "x": 39,
+          "y": 23,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/axolotl_suit_pilot_remote.png",
+      "key": "mvz2:entity/enemy/axolotl_suit_pilot_remote",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/enemy/balloon.png",
       "key": "mvz2:entity/enemy/balloon",
       "slices": [
@@ -10892,6 +12509,26 @@
       "texture": "mvz2/sprites/entity/enemy/bow_texture.png",
       "key": "mvz2:entity/enemy/bow_texture",
       "filter": 0,
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/bubble.png",
+      "key": "mvz2:entity/enemy/bubble",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/bubble_gun.png",
+      "key": "mvz2:entity/enemy/bubble_gun",
       "slices": [
         {
           "single": true,
@@ -11028,6 +12665,84 @@
           "width": 102,
           "height": 81,
           "pivotY": 1.0,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/creaking.png",
+      "key": "mvz2:entity/enemy/creaking",
+      "slices": [
+        {
+          "width": 17,
+          "height": 86,
+          "fullRect": true
+        },
+        {
+          "x": 18,
+          "width": 28,
+          "height": 79,
+          "fullRect": true
+        },
+        {
+          "x": 47,
+          "width": 46,
+          "height": 55,
+          "fullRect": true
+        },
+        {
+          "x": 189,
+          "width": 30,
+          "height": 37,
+          "fullRect": true
+        },
+        {
+          "x": 95,
+          "width": 46,
+          "height": 55,
+          "fullRect": true
+        },
+        {
+          "x": 142,
+          "width": 46,
+          "height": 55,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/drowned.png",
+      "key": "mvz2:entity/enemy/drowned",
+      "slices": [
+        {
+          "width": 32,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 33,
+          "width": 42,
+          "height": 14,
+          "fullRect": true
+        },
+        {
+          "y": 23,
+          "width": 16,
+          "height": 39,
+          "fullRect": true
+        },
+        {
+          "x": 17,
+          "y": 23,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "x": 37,
+          "y": 23,
+          "width": 19,
+          "height": 36,
           "fullRect": true
         }
       ]
@@ -11479,6 +13194,92 @@
         {
           "single": true,
           "pivotY": 0.8,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/hookshot.png",
+      "key": "mvz2:entity/enemy/hookshot",
+      "slices": [
+        {
+          "width": 24,
+          "height": 17,
+          "fullRect": true
+        },
+        {
+          "x": 25,
+          "width": 8,
+          "height": 7,
+          "fullRect": true
+        },
+        {
+          "x": 25,
+          "y": 8,
+          "width": 8,
+          "height": 7,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/hookshot_chains.png",
+      "key": "mvz2:entity/enemy/hookshot_chains",
+      "slices": [
+        {
+          "single": true,
+          "pivotX": 0.0,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/hookshot_drowned.png",
+      "key": "mvz2:entity/enemy/hookshot_drowned",
+      "slices": [
+        {
+          "width": 32,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 33,
+          "width": 42,
+          "height": 14,
+          "fullRect": true
+        },
+        {
+          "y": 23,
+          "width": 16,
+          "height": 39,
+          "fullRect": true
+        },
+        {
+          "x": 17,
+          "y": 23,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "x": 37,
+          "y": 23,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "x": 57,
+          "y": 23,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "x": 77,
+          "y": 23,
+          "width": 19,
+          "height": 36,
           "fullRect": true
         }
       ]
@@ -13033,6 +14834,132 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/enemy/zombie_cow.png",
+      "key": "mvz2:entity/enemy/zombie_cow",
+      "slices": [
+        {
+          "width": 28,
+          "height": 27,
+          "fullRect": true
+        },
+        {
+          "x": 29,
+          "width": 63,
+          "height": 32,
+          "fullRect": true
+        },
+        {
+          "x": 93,
+          "width": 14,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "y": 37,
+          "width": 112,
+          "height": 74,
+          "fullRect": true
+        },
+        {
+          "y": 112,
+          "width": 112,
+          "height": 74,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/enemy/zombinator.png",
+      "key": "mvz2:entity/enemy/zombinator",
+      "slices": [
+        {
+          "width": 42,
+          "height": 14,
+          "fullRect": true
+        },
+        {
+          "x": 43,
+          "width": 42,
+          "height": 14,
+          "fullRect": true
+        },
+        {
+          "x": 86,
+          "width": 42,
+          "height": 14,
+          "fullRect": true
+        },
+        {
+          "y": 15,
+          "width": 16,
+          "height": 39,
+          "fullRect": true
+        },
+        {
+          "x": 17,
+          "y": 15,
+          "width": 16,
+          "height": 39,
+          "fullRect": true
+        },
+        {
+          "x": 34,
+          "y": 15,
+          "width": 16,
+          "height": 39,
+          "fullRect": true
+        },
+        {
+          "x": 51,
+          "y": 15,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "x": 71,
+          "y": 15,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "x": 91,
+          "y": 15,
+          "width": 19,
+          "height": 36,
+          "fullRect": true
+        },
+        {
+          "y": 55,
+          "width": 32,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 33,
+          "y": 55,
+          "width": 32,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 66,
+          "y": 55,
+          "width": 32,
+          "height": 22,
+          "fullRect": true
+        },
+        {
+          "x": 111,
+          "y": 15,
+          "width": 1,
+          "height": 1,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/obstacle/gargoyle_statue.png",
       "key": "mvz2:entity/obstacle/gargoyle_statue",
       "slices": [
@@ -13363,6 +15290,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/projectile/air_slash.png",
+      "key": "mvz2:entity/projectile/air_slash",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/projectile/arrow.png",
       "key": "mvz2:entity/projectile/arrow",
       "filter": 0,
@@ -13515,6 +15452,16 @@
     {
       "texture": "mvz2/sprites/entity/projectile/dart.png",
       "key": "mvz2:entity/projectile/dart",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/projectile/dazzle.png",
+      "key": "mvz2:entity/projectile/dazzle",
       "slices": [
         {
           "single": true,
@@ -13697,6 +15644,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/projectile/iwanna_spike.png",
+      "key": "mvz2:entity/projectile/iwanna_spike",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/projectile/javelin.png",
       "key": "mvz2:entity/projectile/javelin",
       "slices": [
@@ -13719,6 +15676,26 @@
     {
       "texture": "mvz2/sprites/entity/projectile/large_fireball.png",
       "key": "mvz2:entity/projectile/large_fireball",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/projectile/light_bullet.png",
+      "key": "mvz2:entity/projectile/light_bullet",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/projectile/light_bullet_trail.png",
+      "key": "mvz2:entity/projectile/light_bullet_trail",
       "slices": [
         {
           "single": true,
@@ -13856,6 +15833,26 @@
           "y": 64,
           "width": 64,
           "height": 64,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/projectile/meowmere.png",
+      "key": "mvz2:entity/projectile/meowmere",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/projectile/meowmere_trail.png",
+      "key": "mvz2:entity/projectile/meowmere_trail",
+      "slices": [
+        {
+          "single": true,
           "fullRect": true
         }
       ]
@@ -14052,6 +16049,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/level/castle/depth_map.png",
+      "key": "mvz2:level/castle/depth_map",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/level/castle/foreground.png",
       "key": "mvz2:level/castle/foreground",
       "slices": [
@@ -14090,6 +16096,15 @@
           "single": true,
           "pivotX": 0.0,
           "pivotY": 0.0
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/level/dream/depth_map.png",
+      "key": "mvz2:level/dream/depth_map",
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -14220,6 +16235,21 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/level/grids/broken_tile_radiation.png",
+      "key": "mvz2:level/grids/broken_tile_radiation",
+      "slices": [
+        {
+          "width": 80,
+          "height": 80
+        },
+        {
+          "x": 80,
+          "width": 80,
+          "height": 80
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/level/grids/broken_tile_slope.png",
       "key": "mvz2:level/grids/broken_tile_slope",
       "slices": [
@@ -14294,6 +16324,15 @@
           "single": true,
           "pivotX": 0.0,
           "pivotY": 0.0
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/level/halloween/depth_map.png",
+      "key": "mvz2:level/halloween/depth_map",
+      "slices": [
+        {
+          "single": true
         }
       ]
     },
@@ -14375,6 +16414,15 @@
     {
       "texture": "mvz2/sprites/level/mountain/bridge.png",
       "key": "mvz2:level/mountain/bridge",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/level/mountain/depth_map.png",
+      "key": "mvz2:level/mountain/depth_map",
       "slices": [
         {
           "single": true
@@ -14601,6 +16649,21 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/mainmenu/view/mountain.png",
+      "key": "mvz2:mainmenu/view/mountain",
+      "slices": [
+        {
+          "width": 446,
+          "height": 89
+        },
+        {
+          "y": 90,
+          "width": 446,
+          "height": 89
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/mainmenu/view/nightmare.png",
       "key": "mvz2:mainmenu/view/nightmare",
       "slices": [
@@ -14796,6 +16859,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/map/mountain/map.png",
+      "key": "mvz2:map/mountain/map",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/map/palace/map.png",
       "key": "mvz2:map/palace/map",
       "slices": [
@@ -14951,6 +17023,11 @@
           "y": 32,
           "width": 32,
           "height": 32
+        },
+        {
+          "y": 64,
+          "width": 32,
+          "height": 32
         }
       ]
     },
@@ -15082,6 +17159,11 @@
         },
         {
           "x": 96,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 128,
           "width": 32,
           "height": 32
         }
@@ -15337,6 +17419,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/ui/customize/teleporter_team_tile.png",
+      "key": "mvz2:ui/customize/teleporter_team_tile",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/ui/effect/crushing_wall_left.png",
       "key": "mvz2:ui/effect/crushing_wall_left",
       "slices": [
@@ -15516,6 +17607,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/ui/level/curse.png",
+      "key": "mvz2:ui/level/curse",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/ui/level/energy_gear.png",
       "key": "mvz2:ui/level/energy_gear",
       "slices": [
@@ -15642,14 +17742,14 @@
         },
         {
           "y": 362,
-          "width": 407,
-          "height": 240
+          "width": 408,
+          "height": 242
         },
         {
-          "x": 864,
+          "x": 680,
           "y": 539,
-          "width": 95,
-          "height": 101
+          "width": 250,
+          "height": 119
         },
         {
           "x": 961,
@@ -15660,91 +17760,84 @@
         {
           "x": 1221,
           "y": 369,
-          "width": 347,
-          "height": 219
+          "width": 348,
+          "height": 220
         },
         {
-          "y": 603,
-          "width": 174,
-          "height": 267
-        },
-        {
-          "x": 175,
-          "y": 603,
-          "width": 170,
-          "height": 100
-        },
-        {
-          "x": 408,
-          "y": 602,
-          "width": 455,
-          "height": 113
-        },
-        {
-          "x": 864,
-          "y": 683,
+          "y": 605,
           "width": 255,
           "height": 182
         },
         {
+          "x": 256,
+          "y": 605,
+          "width": 126,
+          "height": 114
+        },
+        {
+          "x": 680,
+          "y": 683,
+          "width": 455,
+          "height": 113
+        },
+        {
           "x": 1221,
-          "y": 589,
-          "width": 270,
-          "height": 224
+          "y": 590,
+          "width": 174,
+          "height": 267
         },
         {
-          "x": 1492,
-          "y": 589,
-          "width": 85,
-          "height": 203
-        },
-        {
-          "x": 175,
-          "y": 814,
-          "width": 17,
-          "height": 9
-        },
-        {
-          "x": 188,
-          "y": 716,
-          "width": 311,
-          "height": 110
-        },
-        {
-          "x": 500,
-          "y": 716,
-          "width": 250,
-          "height": 119
-        },
-        {
-          "x": 1120,
-          "y": 814,
+          "x": 1396,
+          "y": 590,
           "width": 181,
           "height": 164
         },
         {
-          "x": 1302,
-          "y": 814,
-          "width": 182,
-          "height": 124
+          "y": 788,
+          "width": 170,
+          "height": 100
         },
         {
-          "x": 175,
-          "y": 827,
+          "x": 256,
+          "y": 761,
+          "width": 311,
+          "height": 110
+        },
+        {
+          "x": 568,
+          "y": 761,
+          "width": 85,
+          "height": 203
+        },
+        {
+          "x": 654,
+          "y": 797,
           "width": 130,
           "height": 109
         },
         {
-          "x": 306,
-          "y": 827,
-          "width": 123,
-          "height": 113
-        },
-        {
-          "x": 430,
-          "y": 836,
+          "x": 785,
+          "y": 797,
           "width": 163,
           "height": 68
+        },
+        {
+          "x": 949,
+          "y": 797,
+          "width": 95,
+          "height": 101
+        },
+        {
+          "x": 1396,
+          "y": 755,
+          "width": 182,
+          "height": 124
+        },
+        {
+          "x": 409,
+          "y": 539,
+          "width": 270,
+          "height": 221
         }
       ]
     },
@@ -15812,8 +17905,26 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/ui/level/pause_image_gothic.png",
+      "key": "mvz2:ui/level/pause_image_gothic",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/ui/level/pause_image_loss.png",
       "key": "mvz2:ui/level/pause_image_loss",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/pause_image_recursion.png",
+      "key": "mvz2:ui/level/pause_image_recursion",
       "slices": [
         {
           "single": true
@@ -15886,6 +17997,42 @@
     {
       "texture": "mvz2/sprites/ui/level/target.png",
       "key": "mvz2:ui/level/target",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/target_ejector.png",
+      "key": "mvz2:ui/level/target_ejector",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/target_force_pad.png",
+      "key": "mvz2:ui/level/target_force_pad",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/target_skyward_beacon.png",
+      "key": "mvz2:ui/level/target_skyward_beacon",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/target_teleporter.png",
+      "key": "mvz2:ui/level/target_teleporter",
       "slices": [
         {
           "single": true
@@ -16095,6 +18242,15 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/map/gensokyo/pins/mountain.png",
+      "key": "mvz2:map/gensokyo/pins/mountain",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/map/gensokyo/pins/palace.png",
       "key": "mvz2:map/gensokyo/pins/palace",
       "slices": [
@@ -16184,6 +18340,33 @@
       "texture": "mvz2/sprites/ui/level/progress_bar/frankenstein_background.png",
       "key": "mvz2:ui/level/progress_bar/frankenstein_background",
       "filter": 0,
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/progress_bar/kraken_background.png",
+      "key": "mvz2:ui/level/progress_bar/kraken_background",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/progress_bar/kraken_fill.png",
+      "key": "mvz2:ui/level/progress_bar/kraken_fill",
+      "slices": [
+        {
+          "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/progress_bar/kraken_foreground.png",
+      "key": "mvz2:ui/level/progress_bar/kraken_foreground",
       "slices": [
         {
           "single": true
