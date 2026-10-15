@@ -4476,6 +4476,26 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/mobile_blueprint/kraken.png",
+      "key": "mvz2:mobile_blueprint/kraken",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/mobile_blueprint/kraken_tentacle.png",
+      "key": "mvz2:mobile_blueprint/kraken_tentacle",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/mobile_blueprint/leather_capped_zombie.png",
       "key": "mvz2:mobile_blueprint/leather_capped_zombie",
       "slices": [
@@ -17641,6 +17661,19 @@
       "slices": [
         {
           "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/level/held_target_bubble.png",
+      "key": "mvz2:ui/level/held_target_bubble",
+      "slices": [
+        {
+          "single": true,
+          "borderLeft": 5,
+          "borderBottom": 5,
+          "borderRight": 19,
+          "borderTop": 5
         }
       ]
     },
