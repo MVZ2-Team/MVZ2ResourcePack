@@ -5236,6 +5236,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/mobile_blueprint/time_bomb.png",
+      "key": "mvz2:mobile_blueprint/time_bomb",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/mobile_blueprint/tnt.png",
       "key": "mvz2:mobile_blueprint/tnt",
       "slices": [
@@ -9925,6 +9935,16 @@
           "y": 64,
           "width": 64,
           "height": 64,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/small_dispenser.png",
+      "key": "mvz2:entity/contraption/small_dispenser",
+      "slices": [
+        {
+          "single": true,
           "fullRect": true
         }
       ]
