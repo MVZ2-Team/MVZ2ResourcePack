@@ -9507,6 +9507,16 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/mine_tnt_body.png",
+      "key": "mvz2:entity/contraption/mine_tnt_body",
+      "slices": [
+        {
+          "single": true,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/moonlight_sensor.png",
       "key": "mvz2:entity/contraption/moonlight_sensor",
       "slices": [

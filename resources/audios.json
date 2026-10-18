@@ -9,6 +9,10 @@
       "path": "mvz2/music/castle_level.wav"
     },
     {
+      "id": "mvz2:castle_level_sub",
+      "path": "mvz2/music/castle_level_sub.wav"
+    },
+    {
       "id": "mvz2:castle_map",
       "path": "mvz2/music/castle_map.wav"
     },
@@ -6192,7 +6196,8 @@
     },
     {
       "id": "mvz2:castle_level",
-      "mainTrack": "mvz2:castle_level"
+      "mainTrack": "mvz2:castle_level",
+      "subTrack": "mvz2:castle_level_sub"
     },
     {
       "id": "mvz2:phone_ring",
