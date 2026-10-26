@@ -2025,6 +2025,60 @@
       ]
     },
     {
+      "id": "mvz2:giant_ice",
+      "colorKeys": [
+        {
+          "code": "#A1C3FF",
+          "time": 0.333333343
+        },
+        {
+          "code": "#92B9FE",
+          "time": 0.6666667
+        },
+        {
+          "code": "#7CA5F4",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
+      "id": "mvz2:giant_magma_block",
+      "colorKeys": [
+        {
+          "code": "#F89E44",
+          "time": 0.333333343
+        },
+        {
+          "code": "#723232",
+          "time": 0.6666667
+        },
+        {
+          "code": "#411616",
+          "time": 1.0
+        }
+      ],
+      "alphaKeys": [
+        {
+          "alpha": 1.0,
+          "time": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "time": 1.0
+        }
+      ]
+    },
+    {
       "id": "mvz2:anti_gravity_pad",
       "colorKeys": [
         {

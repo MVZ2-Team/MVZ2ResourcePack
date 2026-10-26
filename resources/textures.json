@@ -8993,6 +8993,52 @@
       ]
     },
     {
+      "texture": "mvz2/sprites/entity/contraption/giant_ice.png",
+      "key": "mvz2:entity/contraption/giant_ice",
+      "slices": [
+        {
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        },
+        {
+          "x": 59,
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        },
+        {
+          "x": 118,
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/entity/contraption/giant_magma_block.png",
+      "key": "mvz2:entity/contraption/giant_magma_block",
+      "slices": [
+        {
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        },
+        {
+          "x": 59,
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        },
+        {
+          "x": 118,
+          "width": 58,
+          "height": 67,
+          "fullRect": true
+        }
+      ]
+    },
+    {
       "texture": "mvz2/sprites/entity/contraption/giant_stone.png",
       "key": "mvz2:entity/contraption/giant_stone",
       "slices": [
@@ -17078,6 +17124,12 @@
           "y": 64,
           "width": 32,
           "height": 32
+        },
+        {
+          "x": 32,
+          "y": 64,
+          "width": 32,
+          "height": 32
         }
       ]
     },
@@ -17096,6 +17148,62 @@
       "slices": [
         {
           "single": true
+        }
+      ]
+    },
+    {
+      "texture": "mvz2/sprites/ui/almanac/damage_type_tags.png",
+      "key": "mvz2:ui/almanac/damage_type_tags",
+      "slices": [
+        {
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 32,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 64,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 96,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 128,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 160,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 192,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 224,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "y": 32,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 32,
+          "y": 32,
+          "width": 32,
+          "height": 32
         }
       ]
     },
@@ -17417,22 +17525,27 @@
           "height": 32
         },
         {
-          "x": 32,
+          "x": 33,
           "width": 32,
           "height": 32
         },
         {
-          "x": 64,
+          "x": 66,
           "width": 32,
           "height": 32
         },
         {
-          "x": 96,
+          "x": 99,
           "width": 32,
           "height": 32
         },
         {
-          "x": 128,
+          "x": 132,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "x": 165,
           "width": 32,
           "height": 32
         }

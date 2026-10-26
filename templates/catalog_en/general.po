@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: minecraftvszombies2\n"
-"POT-Creation-Date: 2026-10-18 01:16+0800\n"
-"PO-Revision-Date: 2026-10-18 13:17+0800\n"
+"POT-Creation-Date: 2026-10-26 03:42+0800\n"
+"PO-Revision-Date: 2026-10-26 15:42+0800\n"
 "Last-Translator: \n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
@@ -1065,25 +1065,29 @@ msgctxt "advice.tutorial.17"
 msgid "试着挖掉所有器械！"
 msgstr "Try to dig out all contraptions!"
 
-#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:177
+#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:182
 msgid "你确定想要在没有{0}的情况下使用{1}？"
 msgstr "Are you sure you want to use the {1} without the {0}?"
 
-#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:179
+#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:184
 msgid "你没有选能干掉{0}的器械，确定要继续吗？"
 msgstr ""
 "You haven't chosen any contraptions that fight off {0}, are you sure you "
 "want to continue?"
 
-#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:181
+#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:186
 msgid "你没有选能生产能量的器械，确定要继续吗？"
 msgstr ""
 "You haven't chosen any energy-producing contraptions, are you sure you want "
 "to continue?"
 
-#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:183
+#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:188
 msgid "你确定这关不使用任何水生器械吗？"
 msgstr "Are you sure want to play this level without any aquatic contraptions?"
+
+#: Scripts\Vanilla\GameContent\GlobalCallbacks\BlueprintRecommendGlobalCallbacks.cs:190
+msgid "你确定这关不使用睡莲吗？"
+msgstr "Are you sure want to play this level without Lily Pad?"
 
 #: Scripts\Vanilla\GameContent\GlobalCallbacks\GemStageGlobalCallbacks.cs:96
 msgctxt "advice.collect_money"
@@ -1673,6 +1677,20 @@ msgstr "{0}/{1}"
 msgid "<color=red>售罄</color>"
 msgstr "<color=red>Sold Out</color>"
 
+#: Scripts\MVZ2\Sponsors\SponsorManager.cs:381
+msgid "获取赞助者列表……"
+msgstr "Getting Sponsors..."
+
+# 赞助者名单更新提醒
+#: Scripts\MVZ2\Sponsors\SponsorManager.cs:383
+msgid "赞助者名单已成功更新。"
+msgstr "Successfully updated the list of sponsors."
+
+# 赞助者名单更新提醒
+#: Scripts\MVZ2\Sponsors\SponsorManager.cs:385
+msgid "赞助者名单更新失败。"
+msgstr "Failed to update the list of sponsors."
+
 #: Scripts\MVZ2\Scene\AchievementHintController.cs:68
 msgid "完成成就！"
 msgstr "Achievement Earned!"
@@ -1751,43 +1769,43 @@ msgstr "Are you sure to reset all key bindings?"
 msgid "截图已保存：{0}"
 msgstr "Screenshot saved: {0}"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:587
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:614
 msgid "交换触发"
 msgstr "Swap Trigger"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:589
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:616
 msgid "全屏"
 msgstr "Full Screen"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:591
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:618
 msgid "设备震动"
 msgstr "Vibration"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:593
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:620
 msgid "后台暂停"
 msgstr "Pause on Focus Lost"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:595
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:622
 msgid "更多选项"
 msgstr "More Options"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:597
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:624
 msgid "难度：{0}"
 msgstr "Difficulty: {0}"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:605
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:632
 msgid "音乐音量：{0}"
 msgstr "Music Volume: {0}"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:607
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:634
 msgid "音效音量：{0}"
 msgstr "Sound Volume: {0}"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:609
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:636
 msgid "加速倍率：{0}"
 msgstr "Fast-forward: {0}"
 
-#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:611
+#: Scripts\MVZ2\Options\Dialog\OptionsDialogController.cs:638
 msgid ""
 "确认要返回吗？\n"
 "你的进度会被保存。"
@@ -1899,15 +1917,15 @@ msgctxt "hotkey.name"
 msgid "蓝图10"
 msgstr "Blueprint 10"
 
-#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:214
+#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:218
 msgid "来源：{0}"
 msgstr "Source: {0}"
 
-#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:216
+#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:220
 msgid "原曲：{0}"
 msgstr "Origin: {0}"
 
-#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:218
+#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:222
 msgid "作者：{0}"
 msgstr "Composer: {0}"
 
@@ -1948,10 +1966,6 @@ msgstr "Target area {0} does not exist."
 #: Scripts\MVZ2\Map\MapController.cs:713
 msgid "目标关卡{0}不存在。"
 msgstr "Target stage {0} does not exist."
-
-#: Scripts\MVZ2\Managers\MainManager.cs:296
-msgid "获取赞助者列表……"
-msgstr "Getting Sponsors..."
 
 # 帧率显示
 #: Scripts\MVZ2\Managers\PerformanceManager.cs:81
@@ -2121,12 +2135,12 @@ msgid "在图鉴中查看"
 msgstr "View in Almanac"
 
 # 血条的文字
-#: Scripts\MVZ2\Level\Entities\EntityController.cs:817
+#: Scripts\MVZ2\Level\Entities\EntityController.cs:823
 msgid "死亡"
 msgstr "Dead"
 
 # 血条的文字
-#: Scripts\MVZ2\Level\Entities\EntityController.cs:819
+#: Scripts\MVZ2\Level\Entities\EntityController.cs:825
 msgid "摧毁"
 msgstr "Destroyed"
 
@@ -3370,12 +3384,27 @@ msgctxt "advice"
 msgid "点击以继续"
 msgstr "Click to continue"
 
-#: Scripts\Logic\Localization\LogicStrings.cs:273
+#: Scripts\Logic\Localization\LogicStrings.cs:270
+msgid "无"
+msgstr "None"
+
+# 频繁点击更新赞助者名单按钮时的提醒
+#: Scripts\Logic\Localization\LogicStrings.cs:272
+msgid "请稍后再试。"
+msgstr "Try again later."
+
+# 正在更新赞助者时，按钮的显示文本
+#: Scripts\Logic\Localization\LogicStrings.cs:274
+msgctxt "option.name"
+msgid "更新中……"
+msgstr "Updating..."
+
+#: Scripts\Logic\Localization\LogicStrings.cs:279
 msgctxt "curse.name"
 msgid "？？？"
 msgstr "???"
 
-#: Scripts\Logic\Localization\LogicStrings.cs:275
+#: Scripts\Logic\Localization\LogicStrings.cs:281
 msgctxt "curse.tooltip"
 msgid "？？？"
 msgstr "???"
@@ -5683,18 +5712,18 @@ msgstr ""
 #. Store item description of mvz2:hoe by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
-msgid "我以前用过的锄头！每场战斗它都能杀死最开始出现的那只怪物！"
+msgid "我以前用过的锄头！每场战斗它都能杀死前三只出现的怪物！"
 msgstr ""
-"The hoe I used to use! It can kill the first enemy that appears in every "
+"The hoe I used to use! It can kill the first 3 enemies that appears in every "
 "battle!"
 
 #. Store item description of mvz2:hoe by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
-msgid "村民先生的锄头，每场战斗都能给第一只来的怪物当头一棒！"
+msgid "村民先生的锄头，每场战斗都能给前三只来的怪物当头一棒！"
 msgstr ""
-"Mr. Villager's hoe, it can knock out the first enemy that appears in every "
-"battle!"
+"Mr. Villager's hoe, it can knock out the first 3 enemies that appears in "
+"every battle!"
 
 #. Store item description of mvz2:the_creatures_heart by character mvz2:crazy_villager
 #: Store meta file
@@ -5803,10 +5832,10 @@ msgstr ""
 #. Store item description of mvz2:eye_of_the_giant by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
-msgid "巨人的眼睛！你的器械造成的伤害变为两倍半，但是攻击速度也会减半！"
+msgid "巨人的眼睛！你的器械造成的伤害变为两倍，但是攻击速度也会变为60%！"
 msgstr ""
-"Eye of the Giant! Your contraptions' damage is a half more than doubled, but "
-"their attack speed is halved!"
+"Eye of the Giant! Your contraptions' damage is doubled, but their attack "
+"speed is decreased to 60%!"
 
 #. Store item description of mvz2:eye_of_the_giant by character mvz2:tokiko
 #: Store meta file
@@ -6355,6 +6384,14 @@ msgctxt "command_variant.description"
 msgid "不会游戏结束。"
 msgstr "Won't game over."
 
+#. Description for command variant "mvz2:cheat all"
+#: Commands meta file
+msgctxt "command_variant.description"
+msgid "如果有没有启用的作弊选项，启用所有作弊选项；否则关闭所有作弊选项。"
+msgstr ""
+"If there are cheat options that are not enabled, enable all cheat options; "
+"Otherwise, disable all cheat options."
+
 #. Description for command "mvz2:repeat"
 #: Commands meta file
 msgctxt "command.description"
@@ -6817,6 +6854,12 @@ msgctxt "option.category"
 msgid "控制"
 msgstr "Control"
 
+#. Label for option category 赞助者
+#: Option meta file
+msgctxt "option.category"
+msgid "赞助者"
+msgstr "Sponsors"
+
 #. Label for option category 关于
 #: Option meta file
 msgctxt "option.category"
@@ -6866,20 +6909,6 @@ msgid "是否在蓝图选择完毕后，根据当前情况提出警告。"
 msgstr ""
 "Option to display warnings after selecting blueprints based on the current "
 "situation."
-
-#. Label for option widget 赞助者名称
-#: Option meta file
-msgctxt "option.name"
-msgid "赞助者名称"
-msgstr "Sponsor Names"
-
-#. Tooltip for option widget 在关卡中放置特定器械时，是否随机显示赞助了对应方案的赞助者的名称。
-#: Option meta file
-msgctxt "option.tooltip"
-msgid "在关卡中放置特定器械时，是否随机显示赞助了对应方案的赞助者的名称。"
-msgstr ""
-"When placing specific contraptions in a level, option to randomly display "
-"the names of sponsors who supported the corresponding tier."
 
 # 命令方块蓝图名，{0}为原名称
 #. Label for option widget 命令方块
@@ -7142,6 +7171,52 @@ msgstr "Option to display the corresponding hotkeys for the UI in a level."
 msgctxt "option.name"
 msgid "快捷键设置"
 msgstr "Hotkeys"
+
+#. Label for option widget 自动更新赞助者名单
+#: Option meta file
+msgctxt "option.name"
+msgid "自动更新赞助者名单"
+msgstr "Auto-update Sponsor List"
+
+#. Tooltip for option widget 是否在游戏开始时，通过网络尝试自动更新赞助者名单。
+#: Option meta file
+msgctxt "option.tooltip"
+msgid "是否在游戏开始时，通过网络尝试自动更新赞助者名单。"
+msgstr ""
+"Should the sponsor list be automatically updated through the internet at the "
+"beginning of the game."
+
+#. Label for option widget 赞助者名称
+#: Option meta file
+msgctxt "option.name"
+msgid "赞助者名称"
+msgstr "Sponsor Names"
+
+#. Tooltip for option widget 在关卡中放置特定器械时，是否随机显示赞助了对应方案的赞助者的名称。
+#: Option meta file
+msgctxt "option.tooltip"
+msgid "在关卡中放置特定器械时，是否随机显示赞助了对应方案的赞助者的名称。"
+msgstr ""
+"When placing specific contraptions in a level, option to randomly display "
+"the names of sponsors who supported the corresponding tier."
+
+#. Label for option widget 上次更新时间：{0}
+#: Option meta file
+msgctxt "option.name"
+msgid "上次更新时间：{0}"
+msgstr "Last updated: {0}"
+
+#. Label for option widget 上次尝试时间：{0}
+#: Option meta file
+msgctxt "option.name"
+msgid "上次尝试时间：{0}"
+msgstr "Last attempt: {0}"
+
+#. Label for option widget 更新赞助者名单
+#: Option meta file
+msgctxt "option.name"
+msgid "更新赞助者名单"
+msgstr "Update Sponsor List"
 
 #. Label for option widget 制作人员名单
 #: Option meta file
