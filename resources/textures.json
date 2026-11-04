@@ -10679,12 +10679,22 @@
         {
           "width": 31,
           "height": 29,
-          "pivotX": 0.483870953,
-          "pivotY": 0.517241359,
           "fullRect": true
         },
         {
           "x": 32,
+          "width": 31,
+          "height": 29,
+          "fullRect": true
+        },
+        {
+          "x": 64,
+          "width": 31,
+          "height": 29,
+          "fullRect": true
+        },
+        {
+          "x": 96,
           "width": 9,
           "height": 23,
           "fullRect": true
