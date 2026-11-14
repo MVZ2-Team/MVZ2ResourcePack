@@ -31,7 +31,7 @@ Where:
 | `name` | String | The name of the resource pack, used to display on the resource pack interface. |
 | `author` | String | The author name of the resource pack, currently has no effect. |
 | `description` | String | A brief description of the resource pack, used to display on the resource pack interface. |
-| `dataVersion` | Integer | The data version of the resource pack, used for format checking between different versions of the game.<ul><li>Currently, the data version of the original game is 1.</li><li>If `dataVersion` is lower than this value, it will prompt that the resource pack is outdated, but it will still attempt to load.</li><li>If `dataVersion` is higher than this value, it will prompt that the resource pack is incompatible, and it will not attempt to load.</li></ul> |
+| `dataVersion` | Integer | The data version of the resource pack, used for format checking between different versions of the game.<ul><li>Currently, the data version of the original game is 2.</li><li>If `dataVersion` is lower than this value, it will prompt that the resource pack is outdated, but it will still attempt to load.</li><li>If `dataVersion` is higher than this value, it will prompt that the resource pack is incompatible, and it will not attempt to load.</li></ul> |
 | `version` | Object | The version number of the resource pack, currently has no effect. |
 
 **A resource pack must have an information file to be recognized by the game. A resource pack without an information file is invalid.**
